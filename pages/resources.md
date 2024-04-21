@@ -6,6 +6,7 @@ permalink: /resources
 
 <html>
 <body>
+<code>
 
 	<div id="header">
     	<h1 id="page-name">[[Enter the name of your site here]]</h1>
@@ -86,6 +87,7 @@ permalink: /resources
     <div id="footer">
 		<a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
     </div>
-    
+
+    </code>
 </body>
 </html>
