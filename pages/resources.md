@@ -70,8 +70,8 @@ This website also contains a number of links to other research bases or resource
         
         <ul>
 
-<li><span style="color: #ff9b9b;"><a href="https://thealternativehypothesis.substack.com/archive">Alternative Hypothesis Substack</a></span></li>
-<li><span style="color: #ff9b9b;"><a href="https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/">Alternative Hypothesis Website</a></span></li>
+<li><span style="text-color: #ff9b9b;"><a href="https://thealternativehypothesis.substack.com/archive">Alternative Hypothesis Substack</a></span></li>
+<li><span style="text-color: #ff9b9b;"><a href="https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/">Alternative Hypothesis Website</a></span></li>
 <li><span style="background-color: #ff9b9b;"><a href="https://brittonicmemetics.wordpress.com/">Brittonic Memetics</a></span></li>
 <li><span style="background-color: #ff9b9b;"><a href="https://callieburt.org/">Callie Burt Blog</a></span></li>
 <li><span style="background-color: #ff9b9b;"><a href="https://colemanhughes.substack.com/">Coleman's Corner</a></span></li>
