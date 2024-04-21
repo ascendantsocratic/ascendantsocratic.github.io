@@ -65,24 +65,19 @@ This website also contains a number of links to other research bases or resource
     </div>
     
     <div id="left-column">
-		<ul>
-            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
-			<p>This is a paragraph describing the link above, if necessary. </p></li>
-			<li><a href="[[Enter the URL here]]">[[TESTING]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-       </ul>
 
         <h3>Blogs</h3>
         
         <ul>
-            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<hr>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="https://noahcarl.substack.com/archive?sort=new">Noah's Newsletter</a></li>
+
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href="https://noahcarl.substack.com/archive?sort=new">Noah's Newsletter</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 
         </ul>
         
