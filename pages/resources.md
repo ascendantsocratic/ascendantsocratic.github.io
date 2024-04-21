@@ -70,14 +70,29 @@ This website also contains a number of links to other research bases or resource
         
         <ul>
 
-<li><span style="background-color: #ff9b9b;"><a href="https://thealternativehypothesis.substack.com/archive">The Alternative Hypothesis Substack</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/">The Alternative Hypothesis Website</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://thealternativehypothesis.substack.com/archive">Alternative Hypothesis Substack</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/">Alternative Hypothesis Website</a></span></li>
 <li><span style="background-color: #ff9b9b;"><a href="https://brittonicmemetics.wordpress.com/">Brittonic Memetics</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://callieburt.org/">Callie Burt Blog</a></span></li>
 <li><span style="background-color: #ff9b9b;"><a href="https://colemanhughes.substack.com/">Coleman's Corner</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://www.cremieux.xyz/">Cremieux Recueil</a></span></li>
 <li><span style="background-color: #ff9b9b;"><a href="https://eternalanglo.com/">Eternal Anglo</a></span></li>
 <li><span style="background-color: #ff9b9b;"><a href="https://expandingrationality.substack.com/">Expanding Rationality</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://fivefifthsblog.substack.com/">Five Fifths Blog</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://gnew.substack.com/archive">Gnew's Corner</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://seanlast.substack.com/archive">Ideas and Data Substack</a></span></li>
+<li><a href="https://ideasanddata.wordpress.com/">Ideas and Data Wordpress</a></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://medium.com/@Idek">Idek Blog</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://substack.com/@infrared">Infrared</a></span></li>
 <li><span style="background-color: #ff9b9b;"><a href="https://jaymans.wordpress.com/">Jayman's Blog</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="http://www.lagriffedulion.f2s.com/index.html">La Griffe du Lion</a></span></li>
 <li><a href="https://noahcarl.substack.com/archive?sort=new">Noah's Newsletter</a></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://www.noahpinion.blog/archive">Noahpinion</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://reasonwithoutrestraint.com/">Reason Without Restraint</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://rosewrist.substack.com/">Rose's Garden</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://thewaywardaxolotl.blogspot.com/">The Wayward Axolotl</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://ubersoy.substack.com/">Ubersoy</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://zerocontradictions.net/">Zero Contradictions</a></span></li>
 
         </ul>
         
