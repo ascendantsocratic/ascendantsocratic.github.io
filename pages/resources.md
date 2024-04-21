@@ -70,14 +70,10 @@ This website also contains a number of links to other research bases or resource
         
         <ul>
 
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://eternalanglo.com/">Eternal Anglo</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://expandingrationality.substack.com/">Expanding Rationality</a></span></li>
+<li><span style="background-color: #ff9b9b;"><a href="https://jaymans.wordpress.com/">Jayman's Blog</a></span></li>
 <li><a href="https://noahcarl.substack.com/archive?sort=new">Noah's Newsletter</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
 
         </ul>
         
