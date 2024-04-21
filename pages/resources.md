@@ -74,7 +74,7 @@ This website also contains a number of links to other research bases or resource
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
        </ul>
 
-        <h3>List of links</h3>
+        <h3>Blogs</h3>
         
         <ul>
             <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
@@ -83,6 +83,9 @@ This website also contains a number of links to other research bases or resource
 			<hr>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+
+[Noah's Newsletter](https://noahcarl.substack.com/archive?sort=new)
+   
         </ul>
         
     </div>
