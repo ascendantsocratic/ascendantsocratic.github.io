@@ -70,29 +70,29 @@ This website also contains a number of links to other research bases or resource
         
         <ul>
 
-<li><span style="text-color: #ff9b9b;"><a href="https://thealternativehypothesis.substack.com/archive">Alternative Hypothesis Substack</a></span></li>
-<li><span style="text-color: #ff9b9b;"><a href="https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/">Alternative Hypothesis Website</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://brittonicmemetics.wordpress.com/">Brittonic Memetics</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://callieburt.org/">Callie Burt Blog</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://colemanhughes.substack.com/">Coleman's Corner</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://www.cremieux.xyz/">Cremieux Recueil</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://eternalanglo.com/">Eternal Anglo</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://expandingrationality.substack.com/">Expanding Rationality</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://fivefifthsblog.substack.com/">Five Fifths Blog</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://gnew.substack.com/archive">Gnew's Corner</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://seanlast.substack.com/archive">Ideas and Data Substack</a></span></li>
+<li><a href="https://thealternativehypothesis.substack.com/archive" style="color: #ff9b9b;">Alternative Hypothesis Substack</a></li>
+<li><a href="https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/" style="color: #ff9b9b;">Alternative Hypothesis Website</a></li>
+<li><a href="https://brittonicmemetics.wordpress.com/" style="color: #ff9b9b;">Brittonic Memetics</a></li>
+<li><a href="https://callieburt.org/" style="color: #ff9b9b;">Callie Burt Blog</a></li>
+<li><a href="https://colemanhughes.substack.com/" style="color: #ff9b9b;">Coleman's Corner</a></li>
+<li><a href="https://www.cremieux.xyz/" style="color: #ff9b9b;">Cremieux Recueil</a></li>
+<li><a href="https://eternalanglo.com/" style="color: #ff9b9b;">Eternal Anglo</a></li>
+<li><a href="https://expandingrationality.substack.com/" style="color: #ff9b9b;">Expanding Rationality</a></li>
+<li><a href="https://fivefifthsblog.substack.com/" style="color: #ff9b9b;">Five Fifths Blog</a></li>
+<li><a href="https://gnew.substack.com/archive" style="color: #ff9b9b;">Gnew's Corner</a></li>
+<li><a href="https://seanlast.substack.com/archive" style="color: #ff9b9b;">Ideas and Data Substack</a></li>
 <li><a href="https://ideasanddata.wordpress.com/">Ideas and Data Wordpress</a></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://medium.com/@Idek">Idek Blog</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://substack.com/@infrared">Infrared</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://jaymans.wordpress.com/">Jayman's Blog</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="http://www.lagriffedulion.f2s.com/index.html">La Griffe du Lion</a></span></li>
+<li><a href="https://medium.com/@Idek" style="color: #ff9b9b;">Idek Blog</a></li>
+<li><a href="https://substack.com/@infrared" style="color: #ff9b9b;">Infrared</a></li>
+<li><a href="https://jaymans.wordpress.com/" style="color: #ff9b9b;">Jayman's Blog</a></li>
+<li><a href="http://www.lagriffedulion.f2s.com/index.html" style="color: #ff9b9b;">La Griffe du Lion</a></li>
 <li><a href="https://noahcarl.substack.com/archive?sort=new">Noah's Newsletter</a></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://www.noahpinion.blog/archive">Noahpinion</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://reasonwithoutrestraint.com/">Reason Without Restraint</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://rosewrist.substack.com/">Rose's Garden</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://thewaywardaxolotl.blogspot.com/">The Wayward Axolotl</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://ubersoy.substack.com/">Ubersoy</a></span></li>
-<li><span style="background-color: #ff9b9b;"><a href="https://zerocontradictions.net/">Zero Contradictions</a></span></li>
+<li><a href="https://www.noahpinion.blog/archive" style="color: #ff9b9b;">Noahpinion</a></li>
+<li><a href="https://reasonwithoutrestraint.com/" style="color: #ff9b9b;">Reason Without Restraint</a></li>
+<li><a href="https://rosewrist.substack.com/" style="color: #ff9b9b;">Rose's Garden</a></li>
+<li><a href="https://thewaywardaxolotl.blogspot.com/" style="color: #ff9b9b;">The Wayward Axolotl</a></li>
+<li><a href="https://ubersoy.substack.com/" style="color: #ff9b9b;">Ubersoy</a></li>
+<li><a href="https://zerocontradictions.net/" style="color: #ff9b9b;">Zero Contradictions</a></li>
 
         </ul>
         
