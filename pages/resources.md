@@ -20,8 +20,8 @@ img {border: 0;}
 
 /*** universal ***/
 
-a {color: blue; font-weight: bold; line-height: 1.3em}
-	a:hover {background: blue; color: white}
+a {color: blue; font-weight: bold; text-decoration: none;}
+	a:hover {text-decoration: underline;}
 
 p {line-height: 1.3em}
 	
@@ -48,6 +48,7 @@ body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;
 #right-column {width: 33%}
 
 #footer {width: 100%; float: left; padding: 20px 0; text-align: center; font-size: 0.9em;}
+
 </style>
 </head>
 
@@ -99,13 +100,13 @@ This website also contains a number of links to other research bases or resource
     </div>
     
     <div id="middle-column">
+
+<h3>Race and Racism</h3>
+
         <ul>   
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
-			<p>This is a paragraph describing the link above, if necessary. These paragraphs can be as long as you like and will push everything below it down to make room.</p></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+
+
+
     	</ul>
         
         <h3>List of links</h3>
