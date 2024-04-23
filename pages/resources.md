@@ -35,7 +35,7 @@ h3 {margin: 20px 40px 10px 20px; padding: 20px 0 0 0; border-top: 2px solid blac
 
 body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1; background-color: #FFFFE0}
 
-#header {width: 100%; float: left; padding: 10px 0; text-align: center; border-bottom: 2px solid black}
+#header {width: 100%; float: left; padding: 10px 0; text-align: center;}
 	#header h1#page-name {margin: 0; font-size: 1px; text-indent: -9999px}
 	#header h2 {max-width: 1000px; margin: 20px auto 0; padding: 10px 0 0 0; border-top: 2px solid black; font-size: 1.8em}
 	#header p {margin: 0 auto 10px auto; padding: 20px 0 ;  max-width: 1000px; text-align: left}
