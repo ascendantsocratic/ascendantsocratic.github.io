@@ -117,62 +117,14 @@ This website also contains a number of links to other research bases or resource
 
         <ul>   
 
-<li><a href="https://the-source-library.github.io/">Source Library Reloaded</a></li>
-        <li><a href="https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/edit">Lefty Fact Sheet</a></li>
-        <li><a href="https://docs.google.com/document/d/1mQhMGz6SeDPXJjkNcO8FuNsTaA6Q5McAxTw6VqQ1dPs/edit">Leftist Almanac of Research and Policy (LARP)</a></li>
-        <li><a href="https://sites.google.com/view/matteristheminimum/home?authuser=0">Progressive Website</a></li>
-        <li><a href="https://docs.google.com/document/d/1xNUNfQddTaEc3SA9LU2ByeQ-1zT_s4qi-HVqLqwYhFQ/edit">Ultimate Progressive Factsheet</a></li>
-        <li><a href="https://docs.google.com/document/d/1BRV3U0HHE40XlgFoM2wlzeb6vqjTgYms/mobilebasic">RGR Research Outline</a></li>
-        <li><a href="https://socdoneleft.github.io/stinky_rightwinger_factsheet.html">Stinky Right-winger Factsheet By Socialism Done Left</a></li>
-        <li><a href="https://docs.google.com/document/d/1RDnpCSIghRBlsXoY-YOG3jtfG7ELEkn995KkC0OqHro/edit#">Sexism Factsheet</a></li>
-        <li><a href="https://docs.google.com/document/d/1mqemiW_rBw8e7KsxkpdLEmFJ9ynnrVS-OU1XL7Y2QB0/edit#">Conservative Research Doc</a></li>
-        <li><a href="https://docs.google.com/document/d/1-xDTcHLU2LMN9R70bjrLPVlgwy5dX5V5NGCcvjRTZc0/edit">Healthcare Research Doc</a></li>
-        <li><a href="https://not-equal.org/HBDAtLightSpeed.pdf">HBD At Lightspeed</a></li>
-        <li><a href="https://drive.google.com/file/d/1h4dbFRlFGfLKwpQM51TL3pgnN77C_gLq/view">Matty&apos;s Index</a></li>
-        <li><a href="https://docs.google.com/document/d/1f4MupVrgz_YcsDXGOdTHyOBDVBEn_s_IVgqyrURvPX4/edit">Libertarian Fact Sheet</a></li>
-        <li><a href="https://docs.google.com/document/d/10i7GdDU_TFMybmxokyXdMjvhJTqC4Tk-TM3pUGhoPdI/edit">Right Wing Fact Sheet</a></li>
-        <li><a href="https://docs.google.com/document/d/1baYefN-5_dVLsAh4mBrKYKImdRD5mNloM4VtHx71NzU/edit"><span style="color: rgb(255, 155, 155);">Left-Libertarian Mega Document</span></a></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://temora.neocities.org/b/TALAU3.pdf">Leaving the Cathedral</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/1PKDABLjgkWS8e4ShiIcCF8I0P7spKSUet9LnKdpPQWA/edit#">Research Document</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/17xxkugV38ZjTWLTbZZGt2wy2d0Sp4tl4F9vwGNhiLYI/edit#">Right Wing Culture Sheet</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://files.catbox.moe/4ql5qv.pdf">Wagnerocks&apos; Misc Stats Dump Doc</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/1WZBpR9Ll3lNi7-ig8FvB2grMlhsmRZNa34cROGK2rEE/edit">Naomi&apos;s Research and Rhetoric Masterdoc</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/16pRhvX51OQkQnt2eiuBU9vZ5RH0Gnla55S3qad37qUg/mobilebasic">Left-Wing &gt; Right-Wing</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://rightwingdata.cf/?i=1">Right Wing Data</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/1-iaG91cE0vT-21OPV0kZPu7lN3PsPtMs8yvobjtov64/edit#">Unorthodox Theory&apos;s Rebuttal to the Ultimate Reseach Document Debunked</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://raceandconflicts.home.blog/2021/03/30/vaush-response-2/">Vaush: Ultimate Research Document Rebuttal 2.0</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/1bT_Q3TXZX0ZjnNS_QMsR-MEPut7S5EIkFeAkIO7vEGI/edit">Vaush Response Doc (8th edition)</a></span></li>
-        <li><span style="color: rgb(255, 155, 155);"><a href="https://rightwingessays.wordpress.com/">Right Wing Essays</a></span></li>
-
     	</ul>
         
         <h3>List of links</h3>
-
-        <ul>
-            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-        </ul>
 
     </div>
     
     <div id="right-column">
     
-    	<ul>    
-            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-        </ul>
-        
-        <h3>Miscellaneous</h3>
-
-        <ul>
-            <li><a href="/resources">Resources</a></li>
-        </ul>
 
     </div>
     
