@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Resources
-permalink: /resources
+title: Test
+permalink: /test
 ---
 
 testing to see how a post works
