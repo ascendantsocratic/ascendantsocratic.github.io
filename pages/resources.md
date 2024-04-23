@@ -113,14 +113,6 @@ This website also contains a number of links to other research bases or resource
     
     <div id="middle-column">
 
-<h3>Important Databases and Articles</h3>
-
-        <ul>   
-
-    	</ul>
-        
-        <h3>List of links</h3>
-
     </div>
     
     <div id="right-column">
