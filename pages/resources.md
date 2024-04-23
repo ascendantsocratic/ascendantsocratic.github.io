@@ -73,26 +73,38 @@ This website also contains a number of links to other research bases or resource
 
 <li><a href="https://thealternativehypothesis.substack.com/archive" style="color: #ff9b9b;">Alternative Hypothesis Substack</a></li>
 <li><a href="https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/" style="color: #ff9b9b;">Alternative Hypothesis Website</a></li>
+<li><a href="https://destinygg.substack.com/" style="color: #ff9b9b;">Bonnell's Thoughts</a></li>
 <li><a href="https://brittonicmemetics.wordpress.com/" style="color: #ff9b9b;">Brittonic Memetics</a></li>
 <li><a href="https://callieburt.org/" style="color: #ff9b9b;">Callie Burt Blog</a></li>
 <li><a href="https://colemanhughes.substack.com/" style="color: #ff9b9b;">Coleman's Corner</a></li>
 <li><a href="https://www.cremieux.xyz/" style="color: #ff9b9b;">Cremieux Recueil</a></li>
+<li><a href="https://front.emilkirkegaard.dk/" style="color: #ff9b9b;">Emil Kirkegaard</a></li>
 <li><a href="https://eternalanglo.com/" style="color: #ff9b9b;">Eternal Anglo</a></li>
 <li><a href="https://expandingrationality.substack.com/" style="color: #ff9b9b;">Expanding Rationality</a></li>
 <li><a href="https://fivefifthsblog.substack.com/" style="color: #ff9b9b;">Five Fifths Blog</a></li>
 <li><a href="https://gnew.substack.com/archive" style="color: #ff9b9b;">Gnew's Corner</a></li>
+<li><a href="https://humanvarieties.org/" style="color: #ff9b9b;">Human Varieties</a></li>
 <li><a href="https://seanlast.substack.com/archive" style="color: #ff9b9b;">Ideas and Data Substack</a></li>
 <li><a href="https://ideasanddata.wordpress.com/">Ideas and Data Wordpress</a></li>
+<li><a href="https://ideassleepfuriously.substack.com/" style="color: #ff9b9b;">Ideas Sleep Furiously</a></li>
 <li><a href="https://medium.com/@Idek" style="color: #ff9b9b;">Idek Blog</a></li>
 <li><a href="https://substack.com/@infrared" style="color: #ff9b9b;">Infrared</a></li>
+<li><a href="https://inverseflorida.substack.com/" style="color: #ff9b9b;">Inverse Florida</a></li>
 <li><a href="https://jaymans.wordpress.com/" style="color: #ff9b9b;">Jayman's Blog</a></li>
+<li><a href="https://substack.com/@josephbronski" style="color: #ff9b9b;">Joseph Bronski</a></li>
+<li><a href="https://kirkegaard.substack.com/" style="color: #ff9b9b;">Just Emil Kirkegaard Things</a></li>
 <li><a href="http://www.lagriffedulion.f2s.com/index.html" style="color: #ff9b9b;">La Griffe du Lion</a></li>
 <li><a href="https://noahcarl.substack.com/archive?sort=new">Noah's Newsletter</a></li>
 <li><a href="https://www.noahpinion.blog/archive" style="color: #ff9b9b;">Noahpinion</a></li>
+<li><a href="https://randomcriticalanalysis.com/" style="color: #ff9b9b;">Random Critical Analysis</a></li>
 <li><a href="https://reasonwithoutrestraint.com/" style="color: #ff9b9b;">Reason Without Restraint</a></li>
 <li><a href="https://rosewrist.substack.com/" style="color: #ff9b9b;">Rose's Garden</a></li>
+<li><a href="https://russellwarne.com/" style="color: #ff9b9b;">Russell T. Warne</a></li>
+<li><a href="https://jessesingal.substack.com/?utm_source=homepage_recommendations&utm_campaign=1111741" style="color: #ff9b9b;">Singal-Minded</a></li>
+<li><a href="https://scienceofsocialproblems.com/blog/">The Science of Social Problems</a></li>
 <li><a href="https://thewaywardaxolotl.blogspot.com/" style="color: #ff9b9b;">The Wayward Axolotl</a></li>
 <li><a href="https://ubersoy.substack.com/" style="color: #ff9b9b;">Ubersoy</a></li>
+<li><a href="https://werkat.substack.com/">Werkat: Half-Baked Thoughts</a></li>
 <li><a href="https://zerocontradictions.net/" style="color: #ff9b9b;">Zero Contradictions</a></li>
 
         </ul>
@@ -101,11 +113,36 @@ This website also contains a number of links to other research bases or resource
     
     <div id="middle-column">
 
-<h3>Race and Racism</h3>
+<h3>Important Databases and Articles</h3>
 
         <ul>   
 
-
+<li><a href="https://the-source-library.github.io/">Source Library Reloaded</a></li>
+        <li><a href="https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/edit">Lefty Fact Sheet</a></li>
+        <li><a href="https://docs.google.com/document/d/1mQhMGz6SeDPXJjkNcO8FuNsTaA6Q5McAxTw6VqQ1dPs/edit">Leftist Almanac of Research and Policy (LARP)</a></li>
+        <li><a href="https://sites.google.com/view/matteristheminimum/home?authuser=0">Progressive Website</a></li>
+        <li><a href="https://docs.google.com/document/d/1xNUNfQddTaEc3SA9LU2ByeQ-1zT_s4qi-HVqLqwYhFQ/edit">Ultimate Progressive Factsheet</a></li>
+        <li><a href="https://docs.google.com/document/d/1BRV3U0HHE40XlgFoM2wlzeb6vqjTgYms/mobilebasic">RGR Research Outline</a></li>
+        <li><a href="https://socdoneleft.github.io/stinky_rightwinger_factsheet.html">Stinky Right-winger Factsheet By Socialism Done Left</a></li>
+        <li><a href="https://docs.google.com/document/d/1RDnpCSIghRBlsXoY-YOG3jtfG7ELEkn995KkC0OqHro/edit#">Sexism Factsheet</a></li>
+        <li><a href="https://docs.google.com/document/d/1mqemiW_rBw8e7KsxkpdLEmFJ9ynnrVS-OU1XL7Y2QB0/edit#">Conservative Research Doc</a></li>
+        <li><a href="https://docs.google.com/document/d/1-xDTcHLU2LMN9R70bjrLPVlgwy5dX5V5NGCcvjRTZc0/edit">Healthcare Research Doc</a></li>
+        <li><a href="https://not-equal.org/HBDAtLightSpeed.pdf">HBD At Lightspeed</a></li>
+        <li><a href="https://drive.google.com/file/d/1h4dbFRlFGfLKwpQM51TL3pgnN77C_gLq/view">Matty&apos;s Index</a></li>
+        <li><a href="https://docs.google.com/document/d/1f4MupVrgz_YcsDXGOdTHyOBDVBEn_s_IVgqyrURvPX4/edit">Libertarian Fact Sheet</a></li>
+        <li><a href="https://docs.google.com/document/d/10i7GdDU_TFMybmxokyXdMjvhJTqC4Tk-TM3pUGhoPdI/edit">Right Wing Fact Sheet</a></li>
+        <li><a href="https://docs.google.com/document/d/1baYefN-5_dVLsAh4mBrKYKImdRD5mNloM4VtHx71NzU/edit"><span style="color: rgb(255, 155, 155);">Left-Libertarian Mega Document</span></a></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://temora.neocities.org/b/TALAU3.pdf">Leaving the Cathedral</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/1PKDABLjgkWS8e4ShiIcCF8I0P7spKSUet9LnKdpPQWA/edit#">Research Document</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/17xxkugV38ZjTWLTbZZGt2wy2d0Sp4tl4F9vwGNhiLYI/edit#">Right Wing Culture Sheet</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://files.catbox.moe/4ql5qv.pdf">Wagnerocks&apos; Misc Stats Dump Doc</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/1WZBpR9Ll3lNi7-ig8FvB2grMlhsmRZNa34cROGK2rEE/edit">Naomi&apos;s Research and Rhetoric Masterdoc</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/16pRhvX51OQkQnt2eiuBU9vZ5RH0Gnla55S3qad37qUg/mobilebasic">Left-Wing &gt; Right-Wing</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://rightwingdata.cf/?i=1">Right Wing Data</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/1-iaG91cE0vT-21OPV0kZPu7lN3PsPtMs8yvobjtov64/edit#">Unorthodox Theory&apos;s Rebuttal to the Ultimate Reseach Document Debunked</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://raceandconflicts.home.blog/2021/03/30/vaush-response-2/">Vaush: Ultimate Research Document Rebuttal 2.0</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://docs.google.com/document/d/1bT_Q3TXZX0ZjnNS_QMsR-MEPut7S5EIkFeAkIO7vEGI/edit">Vaush Response Doc (8th edition)</a></span></li>
+        <li><span style="color: rgb(255, 155, 155);"><a href="https://rightwingessays.wordpress.com/">Right Wing Essays</a></span></li>
 
     	</ul>
         
