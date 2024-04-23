@@ -52,16 +52,7 @@ body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;
 
 <body>
 
-	<div id="header">
-    	<h1 id="page-name">[[Enter the name of your site here]]</h1>
-    	<div id="page-banner">
-        	<img src="[[Enter the direct link to your banner image here]]" alt="[[Describe your image here]]">
-        </div>
-        <h2>The Ascendant Socratic</h2>
-        <p>Hello! This website acts as a sort-of base of operations as I continue my intellectual journey. Here you can find articles on issues relating to philosophy and politics written from my own perspective on things. I tend to come at things from an anti-institutional perspective, holding that modern institutions have neglected rationality and empiricism in favor of an overemphasis on biased moral foundations. This ultimately renders the dominant ideological forces within our society as reactionary, in spite of their proclaimed "progressive" foundations. I believe that the knowledge produced and disseminated through our institutions ultimately shapes our broader civilization. Instead of simply reacting negatively to the existing sociopolitical predicament we find ourselves within, I believe in a positive vision of decentralized knowledge-producing institutions which prioritize the pursuit of truth, and organize themselves to pursue that goal.
-</br></br>
-This website also contains a number of links to other research bases or resources that I may find educational to read through myself at some point. Some of these are simply websites that I want to look through at some point, but others are research bases which have an explicit ideological position. My posting of it here does not imply that I support the perspective expressed in the resource.</p>
-    </div>
+== Resources ==
     
     <div id="left-column">
 
