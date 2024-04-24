@@ -6,6 +6,6 @@ permalink: /test
 
 <div id="header">
 
-testing to see how a post works
+testing, attention plz
 
 </div>
