@@ -31,7 +31,7 @@ body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;
 	#header h1#page-name {margin: 0; font-size: 1px; text-indent: -9999px}
 	#header h2 {max-width: 1000px; margin: 20px auto 0; padding: 10px 0 0 0; border-top: 2px solid black; font-size: 1.8em}
 	#header p {margin: 0 auto 10px auto; padding: 20px 0 ;  max-width: 1000px; text-align: center}
-		#header p img {float: left; margin: 0 8px 8px 0; max-width: 200px}
+		#header p img {float: center; margin: 0 8px 8px 0; max-width: 200px}
 	#header span {max-width: 1000px; font-size: 1.2em; margin: 0 auto; padding: 10px 0 0 0; display: block; border-top: 2px solid black; font-weight: bold; text-align: center; clear: both}
 
 #left-column, #middle-column, #right-column {float: left; margin: 20px 0; }	
