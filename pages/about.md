@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me (DRAFT)
-permalink: /about
+permalink: /about-me
 ---
 
 <div id="header">
