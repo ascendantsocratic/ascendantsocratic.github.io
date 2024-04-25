@@ -37,7 +37,7 @@ body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;
 #header {width: 100%; float: left; padding: 10px 0; text-align: center; border-bottom: 2px solid black}
 	#header h1#page-name {margin: 0; font-size: 1px; text-indent: -9999px}
 	#header h2 {max-width: 1000px; margin: 20px auto 0; padding: 10px 0 0 0; border-top: 2px solid black; font-size: 1.8em}
-	#header p {margin: 0 auto 10px auto; padding: 20px 0 ;  max-width: 1000px; text-align: left}
+	#header p {margin: 0 auto 10px auto; padding: 20px 0 ;  max-width: 800px; text-align: left}
 		#header p img {float: left; margin: 0 8px 8px 0; max-width: 200px}
 	#header span {max-width: 1000px; font-size: 1.2em; margin: 0 auto; padding: 10px 0 0 0; display: block; border-top: 2px solid black; font-weight: bold; text-align: center; clear: both}
 
@@ -56,6 +56,8 @@ body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;
 
 	<div id="header">
     	<h1 id="page-name">[[Enter the name of your site here]]</h1>
+
+TEST!!!
 
 <p>I am a university student who has been fascinated with issues relating to politics and philosophy since I was in early middle school, for about seven years now. As I matured throughout my adolescence, increasing my knowledge about the world, I had a wide ranging journey. This involved going from being very conservative in middle school, to being much more liberal in high school, to now where I don’t quite fit into any box or label. One thing which was relatively constant throughout this journey was that I always tried to be as honest as I could and change my mind when faced with new evidence or better arguments. I think being autistic helped me with this as it meant I was able to think outside of existing social norms, enabling me to question whatever I was assimilated into. This meant that I was able to have relatively heterodox views for someone of whichever political label I felt best described me.
 
