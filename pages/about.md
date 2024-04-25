@@ -25,7 +25,7 @@ h3 {margin: 20px 40px 10px 20px; padding: 20px 0 0 0; border-top: 2px solid blac
 
 /** main **/
 
-body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1; background-color: #FFFFE0}
+body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1; background-color: #FFFFE0; text-align: center}
 
 #header {width: 100%; float: left; padding: 10px 0; text-align: center; border-bottom: 2px solid black; max-width: 1000px}
 	#header h1#page-name {margin: 0; font-size: 1px; text-indent: -9999px}
@@ -45,7 +45,7 @@ body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;
 <div id="header">
 <div id="page-banner">
 
-now this looks like a job for me
+so everybody just follow me
 
 I am a university student who has been fascinated with issues relating to politics and philosophy since I was in early middle school, for about seven years now. As I matured throughout my adolescence, increasing my knowledge about the world, I had a wide ranging journey. This involved going from being very conservative in middle school, to being much more liberal in high school, to now where I don’t quite fit into any box or label. One thing which was relatively constant throughout this journey was that I always tried to be as honest as I could and change my mind when faced with new evidence or better arguments. I think being autistic helped me with this as it meant I was able to think outside of existing social norms, enabling me to question whatever I was assimilated into. This meant that I was able to have relatively heterodox views for someone of whichever political label I felt best described me. 
 
