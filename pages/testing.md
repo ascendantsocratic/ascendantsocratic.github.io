@@ -66,69 +66,6 @@ body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;
 This website also contains a number of links to other research bases or resources that I may find educational to read through myself at some point. Some of these are simply websites that I want to look through at some point, but others are research bases which have an explicit ideological position. My posting of it here does not imply that I support the perspective expressed in the resource.</p>
     </div>
     
-    <div id="left-column">
-		<ul>
-            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
-			<p>This is a paragraph describing the link above, if necessary. </p></li>
-			<li><a href="[[Enter the URL here]]">[[TESTING]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-       </ul>
-
-        <h3>List of links</h3>
-        
-        <ul>
-            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<hr>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-        </ul>
-        
-    </div>
-    
-    <div id="middle-column">
-        <ul>   
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
-			<p>This is a paragraph describing the link above, if necessary. These paragraphs can be as long as you like and will push everything below it down to make room.</p></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-    	</ul>
-        
-        <h3>List of links</h3>
-
-        <ul>
-            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-        </ul>
-
-    </div>
-    
-    <div id="right-column">
-    
-    	<ul>    
-            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
-        </ul>
-        
-        <h3>Miscellaneous</h3>
-
-        <ul>
-            <li><a href="/resources">Resources</a></li>
-        </ul>
-
-    </div>
-    
     <div id="footer">
 		<a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
     </div>
