@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title: Test
 permalink: /test
 ---
 
 <div id="header">
 
-testing, attention plz
+'cuz attention soon as someone mentions me
 
 </div>
