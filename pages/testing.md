@@ -47,6 +47,14 @@ body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;
 #right-column {width: 33%}
 
 #footer {width: 100%; float: left; padding: 20px 0; text-align: center; font-size: 0.9em;}
+
+br {
+  display: block;
+  margin-bottom: 2px;
+  font-size:2px;
+  line-height: 200px;
+}
+
 </style>
 
 </head>
