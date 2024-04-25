@@ -48,8 +48,6 @@ body {font-size: 85%; font-family: Arial, Helvetica, sans-serif; line-height: 1;
 
 #footer {width: 100%; float: left; padding: 20px 0; text-align: center; font-size: 0.9em;}
 
-br { font-size: 200%; }
-
 </style>
 
 </head>
@@ -59,7 +57,7 @@ br { font-size: 200%; }
 	<div id="header">
     	<h1 id="page-name">[[Enter the name of your site here]]</h1>
 
-my brothas
+ATTENTION
 
 <p>I am a university student who has been fascinated with issues relating to politics and philosophy since I was in early middle school, for about seven years now. As I matured throughout my adolescence, increasing my knowledge about the world, I had a wide ranging journey. This involved going from being very conservative in middle school, to being much more liberal in high school, to now where I don’t quite fit into any box or label. One thing which was relatively constant throughout this journey was that I always tried to be as honest as I could and change my mind when faced with new evidence or better arguments. I think being autistic helped me with this as it meant I was able to think outside of existing social norms, enabling me to question whatever I was assimilated into. This meant that I was able to have relatively heterodox views for someone of whichever political label I felt best described me.</p>
 
@@ -71,11 +69,11 @@ my brothas
 
 <p>I continued to advance in my community, getting more and more involved and even starting my own club to freely discuss and debate political issues. However, the growing number of people who I made enemies with made it their mission to take me down by any means necessary. This was achieved when I tried to run for student government in my institution. Several individuals started a large-scale public defamation campaign and succeeded. I not only lost the election, but I was ostracized from nearly every space I involved myself in, and the spaces I created were effectively destroyed. Everything I worked for two years to build; All the time, energy, and sacrifices I made, essentially came to nothing. And it was all because I dared to think.
 
-<br>
+<br><br>
 
 I learned that one cannot simply enter the cathedral as a nobody and successfully take it down single-handedly. I’m young, and I’m still learning things. I spent the past two years engaging in a mission which failed, all the while reducing my opportunities to truly advance my education further. I still was developing intellectually, but I felt that I was doing so at a shorter pace than I had been doing before I started university. Hours each day that could have been spent learning important concepts and ideas were instead spent going to random meetings and making social media posts for something I didn’t really care about half the time. My “cancellation” gave me the opportunity to return to my passions outside the useless pencil pushing the cathedral demands of students who wish to enter its tallest ivory towers.
 
-<br>
+<br><br>
 
 Exiled, this is my only outlet for expression and truth seeking. In a very real sense, the creation of this website is the ultimate act of rebellion and liberation. Because there is nothing more powerful than a thought.</p>
 
