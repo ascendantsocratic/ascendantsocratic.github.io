@@ -77,7 +77,7 @@ I continued to advance in my community, getting more and more involved and even 
 
 <br><br>
 
-I learned that one cannot simply enter the cathedral as a nobody and successfully take it down single-handedly. I’m young, and I’m still learning things. I spent the past two years engaging in a mission which failed, all the while reducing my opportunities to truly advance my education further. I still was developing intellectually, but I felt that I was doing so at a shorter pace than I had been doing before I started university. Hours each day that could have been spent learning important concepts and ideas were instead spent going to random meetings and making social media posts for something I didn’t really care about half the time. My “cancellation” gave me the opportunity to return to my passions outside the useless pencil pushing the cathedral demands of students who wish to enter its tallest ivory towers.
+I learned that one cannot simply enter the cathedral as a nobody and successfully take it down single-handedly. I’m young, and I’m still learning things. I spent the past two years engaging in a mission which failed, all the while reducing my opportunities to truly advance my knowledge further. I still was developing intellectually, but I felt that I was doing so at a shorter pace than I had been doing before I started university. Hours each day that could have been spent learning important concepts and ideas were instead spent going to random meetings and making social media posts for something I didn’t really care about half the time. My “cancellation” gave me the opportunity to return to my passions outside the useless pencil pushing the cathedral demands of students who wish to enter its tallest ivory towers.
 
 <br><br>
 
