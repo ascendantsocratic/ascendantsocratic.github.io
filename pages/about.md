@@ -32,4 +32,4 @@ I learned that one cannot simply enter the cathedral as a nobody and successfull
 
 Exiled, this is my only outlet for expression and truth seeking. In a very real sense, the creation of this website is the ultimate act of rebellion and liberation. Because there is nothing more powerful than a thought.</p>
 
-    </div>
+</div>
