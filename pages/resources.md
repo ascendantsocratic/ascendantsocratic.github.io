@@ -7,6 +7,7 @@ permalink: /resources
 though im not the first king
 
 <div id="left-column">
+<details markdown="1">
 
 **Blogs**
 
@@ -46,6 +47,7 @@ though im not the first king
 *   [Werkat: Half-Baked Thoughts](https://werkat.substack.com/)
 *   [Zero Contradictions](https://zerocontradictions.net/)
 
+</details>
 </div>
     
 <div id="middle-column">
