@@ -48,12 +48,44 @@ Test
         
     </div>
     
-    <div id="middle-column">
+   <div id="middle-column">
+        <ul>   
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
+			<p>This is a paragraph describing the link above, if necessary. These paragraphs can be as long as you like and will push everything below it down to make room.</p></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+    	</ul>
+        
+        <h3>List of links</h3>
+
+        <ul>
+            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+        </ul>
 
     </div>
     
     <div id="right-column">
     
+    	<ul>    
+            <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
+        </ul>
+        
+        <h3>Miscellaneous</h3>
+
+        <ul>
+        <li><a href="/about-me">About me</a></li>
+	<li><a href="/resources">Resources</a></li>
+        </ul>
 
     </div>
     
