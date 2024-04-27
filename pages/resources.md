@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources
 ---
 
-sometimes man it just seems
+so this must mean
 
 <div id="left-column"; markdown="1">
 
@@ -46,7 +46,6 @@ sometimes man it just seems
 *   [Werkat: Half-Baked Thoughts](https://werkat.substack.com/)
 *   [Zero Contradictions](https://zerocontradictions.net/)
 
-</details>
 </div>
     
 <div id="middle-column">
