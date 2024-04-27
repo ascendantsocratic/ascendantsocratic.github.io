@@ -4,10 +4,9 @@ title: Resources
 permalink: /resources
 ---
 
-testing, attention plz
+sometimes man it just seems
 
-<div id="left-column">
-<details markdown="1">
+<div id="left-column"; markdown="1">
 
 **Blogs**
 
