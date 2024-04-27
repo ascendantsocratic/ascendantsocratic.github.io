@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources
 ---
 
-testing, attention please cuz attention soon as someone mentions me
+testing, attention please cuz attention soon as someone mentions me [Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)
 
 <div id="left-column">
 
