@@ -4,9 +4,9 @@ title: Resources
 permalink: /resources
 ---
 
-so this must mean
+though im not the first king
 
-<div id="left-column"; markdown="1">
+<div id="left-column">
 
 **Blogs**
 
