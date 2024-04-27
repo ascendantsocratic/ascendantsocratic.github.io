@@ -49,7 +49,7 @@ permalink: /resources
 <div id="middle-column">
 
         
-        <h3>List of links</h3>
+### List of links
 
      
 </div>
@@ -58,6 +58,6 @@ permalink: /resources
     
  
         
-        <h3>Miscellaneous</h3>
+### Miscellaneous
 
 </div>
