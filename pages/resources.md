@@ -61,7 +61,3 @@ permalink: /resources
         <h3>Miscellaneous</h3>
 
 </div>
-    
-    <div id="footer">
-		<a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
-    </div>
