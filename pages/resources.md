@@ -4,9 +4,10 @@ title: Resources
 permalink: /resources
 ---
 
-testing, attention please cuz attention soon as someone mentions me [Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)
+testing, attention plz
 
 <div id="left-column">
+<details markdown="1">
 
 **Blogs**
 
@@ -45,7 +46,8 @@ testing, attention please cuz attention soon as someone mentions me [Alternative
 *   [Ubersoy](https://ubersoy.substack.com/)
 *   [Werkat: Half-Baked Thoughts](https://werkat.substack.com/)
 *   [Zero Contradictions](https://zerocontradictions.net/)
-        
+
+</details>
 </div>
     
 <div id="middle-column">
