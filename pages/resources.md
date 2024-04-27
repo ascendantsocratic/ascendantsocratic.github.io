@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources
 ---
 
-and use it to get myself wealthy
+hey! here's a concept that works
 
 <div id="left-column">
 <div markdown="1">
@@ -51,17 +51,17 @@ and use it to get myself wealthy
 </div>
     
 <div id="middle-column">
-
+<div markdown="1">
         
 ### List of links
 
-     
+</div>
 </div>
     
 <div id="right-column">
-    
- 
+<div markdown="1"> 
         
 ### Miscellaneous
 
+</div>
 </div>
