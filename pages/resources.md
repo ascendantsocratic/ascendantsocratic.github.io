@@ -4,10 +4,10 @@ title: Resources
 permalink: /resources
 ---
 
-i am the worst thing since elvis
+to do black music to selfishly
 
 <div id="left-column">
-<details markdown="1">
+<div markdown="1">
 
 **Blogs**
 
@@ -47,7 +47,7 @@ i am the worst thing since elvis
 *   [Werkat: Half-Baked Thoughts](https://werkat.substack.com/)
 *   [Zero Contradictions](https://zerocontradictions.net/)
 
-</details>
+</div>
 </div>
     
 <div id="middle-column">
