@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources
 ---
 
+testing, attention please cuz attention soon as someone mentions me
+
 <div id="left-column">
 
 **Blogs**
