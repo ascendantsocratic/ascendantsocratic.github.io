@@ -3,10 +3,12 @@ layout: page
 title: Resources
 permalink: /resources
 ---
-    
+
+Test
+
     <div id="left-column">
 
-# Blogs
+**Blogs**
 
 *   [Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)
 *   [Alternative Hypothesis Website](https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/)
