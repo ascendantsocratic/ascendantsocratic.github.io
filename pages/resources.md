@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources
 ---
 
-though im not the first king
+i am the worst thing since elvis
 
 <div id="left-column">
 <details markdown="1">
