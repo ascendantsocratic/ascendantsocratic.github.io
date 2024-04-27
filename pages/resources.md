@@ -4,9 +4,7 @@ title: Resources
 permalink: /resources
 ---
 
-Test
-
-    <div id="left-column">
+<div id="left-column">
 
 **Blogs**
 
@@ -46,7 +44,7 @@ Test
 *   [Werkat: Half-Baked Thoughts](https://werkat.substack.com/)
 *   [Zero Contradictions](https://zerocontradictions.net/)
         
-    </div>
+</div>
     
    <div id="middle-column">
         <ul>   
