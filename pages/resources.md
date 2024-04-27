@@ -9,14 +9,7 @@ and use it to get myself wealthy
 <div id="left-column">
 <div markdown="1">
 
-**Blogs**
-
-__Blogs__
-
 ### Blogs
-
-Heading level 1
-===============
 
 *   [Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)
 *   [Alternative Hypothesis Website](https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/)
