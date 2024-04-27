@@ -46,7 +46,7 @@ permalink: /resources
         
 </div>
     
-   <div id="middle-column">
+<div id="middle-column">
         <ul>   
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
@@ -66,9 +66,9 @@ permalink: /resources
 			<li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
         </ul>
 
-    </div>
+</div>
     
-    <div id="right-column">
+<div id="right-column">
     
     	<ul>    
             <li><a href="[[Enter the URL here]]">[[Enter the link text here]]</a></li>
@@ -85,7 +85,7 @@ permalink: /resources
 	<li><a href="/resources">Resources</a></li>
         </ul>
 
-    </div>
+</div>
     
     <div id="footer">
 		<a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a> | <a href="[[Enter the URL here]]">[[Enter the link text here]]</a>
