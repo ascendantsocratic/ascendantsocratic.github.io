@@ -198,7 +198,7 @@ permalink: /resources
 ### Climatology
 
 *  **[Global Warming & Climate Change Myths](https://skepticalscience.com/argument.php)**
-*  **[CO2 Coalition](https://co2coalition.org/facts/)**\
+*  **[CO2 Coalition](https://co2coalition.org/facts/)**
 *  **[Real Climate Science](https://realclimatescience.com/)**
 *  **[Problems with Solar Power](https://docs.google.com/document/d/1gTwu4bI13ewq6wHYSBhvwfRptf6NL8u-03vFEnrKscA/edit)**
 *  **[Global Warming AKA Climate Change](https://docs.google.com/document/d/1vHU2hHXebxpvExT7srNNnX-VM7Qn9Ak_ZmdKCIcUti8/edit)**
