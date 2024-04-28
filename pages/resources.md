@@ -45,7 +45,7 @@ permalink: /resources
 *   [Werkat: Half-Baked Thoughts](https://werkat.substack.com/)
 *   **[Zero Contradictions](https://zerocontradictions.net/)**
 
-## Economics
+### Economics
 
 *  **[Free Markets Work](https://docs.google.com/document/d/1DMJmApJ0ueMKn5viHJlLA2t4WyKF4T0P/edit#h)**
 *  **[A Summary of Austrian Refutations of Marx's Labor Theory of Value](https://docs.google.com/document/d/1lzzBPSfpoa3_R_sP0iVkpZnINUMBZUWV_wzy_LKIBso/edit)**
@@ -118,7 +118,7 @@ permalink: /resources
 *  **[Vaush Response Doc (8th edition)](https://docs.google.com/document/d/1bT_Q3TXZX0ZjnNS_QMsR-MEPut7S5EIkFeAkIO7vEGI/edit)**
 *  **[Right Wing Essays](https://rightwingessays.wordpress.com/)**
 
-## Gender Issues
+### Gender Issues
 
 *  **[Involuntary sex assignment](https://en.wikipedia.org/wiki/Genital_modification_and_mutilation#Involuntary_sex_assignment)**
 *  **[The Scully Effect](https://en.wikipedia.org/wiki/Dana_Scully#%22The_Scully_Effect%22)**
@@ -195,7 +195,7 @@ permalink: /resources
 *  **[The Stanford Open Policing Project 2019 - How They Likely Misled the Public](https://docs.google.com/document/d/1O1X58wnmjifVygG1CNfPiL9Ra8l_Y3wGnU58Hxb58jo/edit)**
 *  **[Responding to the "Resources against BLM skepticism" Document](https://docs.google.com/document/d/1b2Y-kW9vReS_X-cEA4pniSANePyFJiW2qSpyjlYO5m8/edit#)**
 
-## Climatology
+### Climatology
 
 *  **[Global Warming & Climate Change Myths](https://skepticalscience.com/argument.php)**
 *  **[CO2 Coalition](https://co2coalition.org/facts/)**\
