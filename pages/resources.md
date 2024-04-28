@@ -4,14 +4,14 @@ title: Resources
 permalink: /resources
 ---
 
-twenty million white rappers emerge
+but no matter how many fish in the sea
 
 <div id="left-column">
 <div markdown="1">
 
 ### Blogs
 
-*   <span style="color:blue">[Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)</span>
+*   <span style="color:red">[Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)</span>
 *   [Alternative Hypothesis Website](https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/)
 *   [Bonnell's Thoughts](https://destinygg.substack.com/)
 *   [Brittonic Memetics](https://brittonicmemetics.wordpress.com/)
