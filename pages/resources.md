@@ -149,6 +149,24 @@ permalink: /resources
 *  **[Gun Control Ultimate Doc](https://docs.google.com/document/d/1V5dRnBbFkAQtv33MNGk0FSSOnV-_4-9kpjDbIMvghY4/edit#)**
 *  **[A Critique of Pure Gun Control](https://medium.com/colby-echo/a-critique-of-pure-gun-control-7dc55f1ccae9)**
 
+### COVID
+
+*  **[Covid Resources 7:26:22 - B](https://docs.google.com/document/d/1-NoxLNYz5vfh19YROG2pQ3uRQySgzbSqG4QvU7cq-a8/edit)**
+*  **[COVID-19 Source Book](https://files.catbox.moe/420pmx.pdf)**
+*  **[All you need to know about COVID vaccine safety](https://www.skirsch.com/covid/All.pdf)**
+*  **[VaccineResearch2019](https://docs.google.com/document/d/1y4Ysa7OPnqMIj-NuNVYJnlHGsvbsyqFam8NaQDSSl8o/edit)**
+*  **[Covid 19 Facts](https://docs.google.com/document/d/1Xu13YEpKB9Oysqda0eLAzEzUbUg3WyA8muL9ELF1WVI/edit)**
+*  **[#DemandTheTruth](https://www.demandthetruth.xyz/)**
+*  **[Mask Facts Links updated 6.25.21](https://docs.google.com/document/d/1Fm4taZAIZ4HWjCSOfGgq6SdFIxEvwNWC/edit)**
+*  **[HCQ - Early Treatment and Prevention of COVID](https://docs.google.com/document/d/1vDD8JkHe62hmpkalx1tejkd_zDnVwJ9XXRjgXAc1qUc/edit)**
+*  **[References & Resources on the Inextricable Harm/Haraam of "Vaccines"](https://docs.google.com/document/d/1redE_uXjiaSG9DlNSMIu4gGoTec77QV0geTWTw3VaLA/edit#)**
+*  **[Uncompromised Science on Masks - various sources in links](https://docs.google.com/document/d/13Xt6pN_VASGOd3abMafH2Jj3Y2MMnj9NYF512KJLJ2M/edit)**
+*  **[COVID-19 early treatment: real-time analysis of 1,925 studies](https://c19early.com/)**
+*  **[Public Covid Catalogue](https://docs.google.com/document/d/1E74Eg-hcUvh4HLMb_ojly0nPYAmuzYAayIhkTFx0J18/edit)**
+*  **[Covid, Mask, and Vaccine Resources For Libertarians](https://docs.google.com/document/d/1VbLJJSSWYmAJJvfSkgrgkg6lvRccjthenzZ2gRCXNdk/edit)**
+*  **[Vacc](https://docs.google.com/document/d/1uIqJvOr9Gb7VsQnX7e3UDtYJ373rxfSLsiY7WfK9kmc/edit)**
+*  **[COVID-19: Do I Really Know Enough?](https://doireallyknowenough.info/)**
+
 </div>
 </div>
     
@@ -218,6 +236,45 @@ permalink: /resources
 *  **[Climate change mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation)**
 *  **[Climate change adaptation](https://en.wikipedia.org/wiki/Climate_change_adaptation)**
 *  **[Politics of climate change](https://en.wikipedia.org/wiki/Politics_of_climate_change)**
+
+### Miscellaneous
+
+*  **[Dysgenics, Overpopulation, and Conventional Ignorance](https://thewaywardaxolotl.blogspot.com/2017/11/dysgenics-overpopulation-and.html?m=1)**
+*  **[Death penalty](https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit)**
+*  **[hbomberguy - Vaccines: A Measured Response - A Measured Response](https://docs.google.com/document/d/1r-r53gIyjrtUaRIohFypLvECXbgBd_ibwhwGqTIRSNc/edit)**
+*  **[Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax)**
+*  **[Abortion Debates Doc](https://docs.google.com/document/d/1RU22f-emlRGp67E6tikkGeVuqVbpU1EHVR8zqxRUWt0/edit)**
+*  **[Apologetic Document](https://files.catbox.moe/d8u6xm.pdf)**
+*  **[STANDING UP FOR THE BIBLE BEFORE IT'S TOO LATE](https://defendinginerrancy.com/)**
+*  **[extra studies on poverty and crime](https://docs.google.com/document/d/1R4X4S6A1n1Qu2TfRF2H28ZBQWN0JfVtAn_l6lsTXj_c/edit)**
+*  **[The Model for Intelligence](https://files.catbox.moe/q511hd.pdf)**
+*  **[Twin Studies](https://files.catbox.moe/vflrn8.pdf)**
+*  **[Your Brain on Porn](https://www.yourbrainonporn.com/research/)**
+*  **[Population Problems](https://docs.google.com/document/d/1P5E7KXffXhi_nqMJETLjtoVfYdVHr-pVrYWzVg36ykk/edit)**
+*  **[On Marriage 100% 15](https://docs.google.com/document/d/1jK9ralAIMSiayjzAdIZDoCAiDKeqJlQhc9yNsXey7XQ/edit)**
+*  **[Abstracts Aren't Always Accurate](https://blackfrancis.substack.com/p/abstracts-arent-always-accurate?s=r)**
+*  **[Archive content](https://files.catbox.moe/xovpgi.pdf)**
+*  **[Mainstream Media Malpractice](https://docs.google.com/document/d/1wRT5HEiDNrHBqPooMW9i7I0DzQN7texTZKzq0u-IvLo/edit)**
+*  **[Vegays btfo](https://files.catbox.moe/d5wpuc.pdf)**
+*  **[Archive content](https://files.catbox.moe/qghrlg.pdf)**
+*  **[Archive content](https://files.catbox.moe/a2iw1f.pdf)**
+*  **[Random Pastebin Links](https://docs.google.com/document/d/1EBRmFmxib5mqBMN-vq08b5NqeuwtZikrt2sbcmwIMkQ/edit)**
+*  **[misc collection](https://files.catbox.moe/0xqieq.pdf)**
+*  **[Globalization and disease](https://en.wikipedia.org/wiki/Globalization_and_disease)**
+*  **[Democratic peace theory](https://en.wikipedia.org/wiki/Democratic_peace_theory)**
+*  **[World-systems theory](https://en.wikipedia.org/wiki/World-systems_theory)**
+*  **[Evictionism: The Libertarian Answer to Abortion](https://docs.google.com/document/d/19UhmPOIdX9dVOBnsmMsBDed0mDZO3-LzDyIl4vd8NlU/edit)**
+*  **[Home invasion](https://en.wikipedia.org/wiki/Home_invasion#:~:text=A%20hot%20prowl%20burglary%2C%20cat,while%20the%20occupants%20are%20inside)**
+*  **[Health Feedback](https://healthfeedback.org/)**
+*  **[Prolife arguments and sources](https://docs.google.com/document/d/1-TpmwK9-8Gm6tkcwjsNbH9CpAdPXakcMdQ-2i0LjPWs/edit)**
+*  **[Stereotype Accuracy and Debunking Lee Jussim](https://docs.google.com/document/d/1AQvATilESV7C6cZN4dQhSswZKSTN0lVGOJRlJ25RbFY/edit#)**
+*  **[An Index to Creationist Claims](https://www.talkorigins.org/indexcc/)**
+*  **[REACTIONARY PHILOSOPHY IN AN ENORMOUS, PLANET-SIZED NUTSHELL](https://slatestarcodex.com/2013/03/03/reactionary-philosophy-in-an-enormous-planet-sized-nutshell/)**
+*  **[Traditional knowledge](https://en.wikipedia.org/wiki/Traditional_knowledge)**
+*  **[Public Policy and Homelessness: The Case of Calgary](https://www.homelesshub.ca/blog/public-policy-and-homelessness-case-calgary)**
+*  **[Will Goliath Blink? Charles Murray's Continuing Assault on the Orthodoxy](https://www.aporiamagazine.com/p/will-goliath-blink-charles-murrays)**
+*  **[Homelessness Research Document](https://docs.google.com/document/d/1_ft6xZNTbpND_ktyW-9vW3zQIUI23WaWt64jH3qCmcE/edit#heading=h.1zkuqrtq9wwh)**
+*  **[Replicability Index](https://replicationindex.com/)**
 
 </div>
 </div>
