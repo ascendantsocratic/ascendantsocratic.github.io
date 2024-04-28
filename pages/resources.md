@@ -9,7 +9,7 @@ permalink: /resources
 
 ### Blogs
 
-*   **[Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)</span>**
+*   **[Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)**
 *   **[Alternative Hypothesis Website](https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/)**
 *   **[Bonnell's Thoughts](https://destinygg.substack.com/)**
 *   **[Brittonic Memetics](https://brittonicmemetics.wordpress.com/)**
