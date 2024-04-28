@@ -111,7 +111,105 @@ permalink: /resources
 <div id="right-column">
 <div markdown="1"> 
         
-### Miscellaneous
+### Racial Issues
+
+*  **[Economic](https://files.catbox.moe/cxwv4l.pdf)**
+
+*  **[Islamic Terrorism and Shariah Law](https://docs.google.com/document/d/1upVrFd20fu2g20uoIiRkAB3ciJORo8FGBK5g8F2ggDE/edit#)**
+
+*  **[Muslims](https://files.catbox.moe/qp9bfe.pdf)**
+
+*  **[.Q and Human Intelligence](https://human-intelligence.org/)**
+
+*  **[G theory plus random psychometric data](https://docs.google.com/document/d/1XkABIGw9JpKIKkDoH1siZBDOnZoY-ApF7eWoHubx7eg/edit#)**
+
+*  **[Systemic Racism DEBUNKED](https://files.catbox.moe/153y9e.pdf)**
+
+*  **[Race science infographics archive [biology, genetics, anthropology, etc]](https://thuletide.wordpress.com/2021/08/21/race-science-infographics-archive-biology-genetics-anthropology-etc/)**
+
+*  **[100 Facts about Whites and Blacks (but one lie) REVISITED](https://files.catbox.moe/st3yff.pdf)**
+
+*  **[10 Studies Indicating No Police Racial Bias + Counterpoint Studies](https://docs.google.com/document/d/1kVlyqqLFT3mFlCc5pNM6iiqBcGLhX2r1V52VFm_ZGZE/edit)**
+
+*  **[Confronting Anti-Black Racism](https://library.harvard.edu/confronting-anti-black-racism)**
+
+*  **[Response to Vaporwave's Racism Document](https://docs.google.com/document/d/1kClKcuD-KxmPXhkQ5h-s3WO-4jMYKGg_WR8EYSyLp_4/edit#heading=h.10almic3b6ew)**
+
+*  **[A response to "How Heritability Misleads About Race"](https://docs.google.com/document/d/1xUvRX6Fcs7rsbUpWg0t6lxmPEe1vWypCRf4bkYLrJ9g/edit)**
+
+*  **[A response to "Race Realism"](https://docs.google.com/document/d/1xRBAJ4QcpbOhnZL9Q1xf5K8DU55KykAboxbd05EtfE0/edit#heading=h.odl0q8nsfp6)**
+
+*  **[A response to "Useful Links for Arguing with Racists"](https://docs.google.com/document/d/1_Rf0sHkDCGoy9X1izR8iZb2mugs8tV7Y4jEHx0M3JPY/edit)**
+
+*  **[Responses Race](https://drive.google.com/file/d/1Sgrj4tB-lYf7o2D94uljYMkod3JF7-cN/view)**
+
+*  **[A Response To The RationalWiki Page Regarding "Racialism"](https://docs.google.com/document/d/1TakeFDrUhy8Sg8LWaUuN82oIVRy8vecW4FSdgzPYoI4/edit#)**
+
+*  **[A Response to "Thorough refutation of race realism"](https://docs.google.com/document/d/1r6qzxYl62sud3oqCzkl9Mrqkzf7lYZ-XQi5vk3xUC1s/edit)**
+
+*  **[Whiteness studies](https://en.wikipedia.org/wiki/Whiteness_studies)**
+
+*  **[Human Phenotypes](http://www.humanphenotypes.net/)**
+
+*  **[HBD](http://www.humanbiologicaldiversity.com/)**
+
+*  **[HBD Fact Sheet v0.1](https://archive.ph/uzjXL)**
+
+*  **[HBD collection](https://files.catbox.moe/fcrps0.pdf)**
+
+*  **[PROSECUTION CHANNEL -- OFFICIAL RESEARCH DOCUMENT](https://files.catbox.moe/7esmlv.pdf)**
+
+*  **[Reddit Posts](https://files.catbox.moe/wcb135.pdf)**
+
+*  **[BLM is Wrong in 5 STEPS - For Public](https://docs.google.com/document/d/1ylDnGSk1kery15S1vKc3ydxYcvApy02JZ9mufWR88nc/edit)**
+
+*  **[4 Steps (100s of sources) Showing How Criminal Justice System's Racial Bias Is Non-Existent or Negligible ](https://docs.google.com/document/d/1I2CiV8fGWVMFgt2enjysCmdOBhAxfb-ZgvcDXGFn9KE/edit)**
+
+*  **[The Negative Impact of Racial and Ethnic Diversity Upon Societies and Individuals](https://files.catbox.moe/wk6sws.pdf)**
+
+*  **[Hybrid (biology)](https://en.wikipedia.org/wiki/Hybrid_(biology))**
+
+*  **[Sickle-cell disease](https://archive.ph/FhiAE#selection-8.0-10.0)**
+
+*  **[Outbreeding depression](https://archive.ph/K1JMQ)**
+
+*  **[OpenPsych pseudojournals](https://rationalwiki.org/wiki/OpenPsych_pseudojournals)**
+
+*  **[Race and intelligence](https://en.m.wikipedia.org/wiki/Race_and_intelligence)**
+
+*  **[Interracial marriage in the United States](https://en.m.wikipedia.org/wiki/Interracial_marriage_in_the_United_States)**
+
+*  **[Alternative Hypothesis/ Ryan Faulk distorts South Africa under Apartheid](https://www.reddit.com/r/badhistory/comments/iw0sbq/alternative_hypothesis_ryan_faulk_distorts_south/)**
+
+*  **[Why People of Color Need Spaces Without White People (Look at Sources)](https://arrow-journal.org/why-people-of-color-need-spaces-without-white-people/)**
+
+*  **[Debunking Myths About Race, Human Evolution and Intelligence](https://docs.google.com/document/d/1-ZJhkME8qqfm7GVLLk8tGwWNriWCl8UTRMlcCuNW-_Q/edit#)**
+
+*  **[Black Economic Progress After Slavery](https://cremieux.substack.com/p/black-economic-progress-after-slavery)**
+
+*  **[Slavery and Modern Black Poverty](https://ideasanddata.wordpress.com/2019/06/11/slavery-and-modern-black-poverty/)**
+
+*  **[On Generational Poverty Poverty Is Not Caused by Poor Parents](https://seanlast.substack.com/p/on-generational-poverty)**
+
+*  **[Racial Diversity: Strength or Weakness?](https://seanlast.substack.com/p/racial-diversity-strength-or-weakness)**
+
+*  **[Decoding Admixture Results](https://humanvarieties.org/2023/03/06/decoding-admixture-results/)**
+
+*  **[Genetic Admixture Studies](https://rentry.co/admixture)**
+
+*  **[A Tale of Two Political Narratives About Racial Inequality](http://www.thepipettepen.com/a-tale-of-two-political-narratives-about-racial-inequality/)**
+
+*  **[Assortative mating](https://en.wikipedia.org/wiki/Assortative_mating)**
+
+*  **[Kevin Bird Bibliography](https://docs.google.com/document/d/1DGRlPl0kiS2gJOuNIWZH7EhV_5ipRHscn1W3hclCdPc/edit)**
+
+*  **[What does identitarian deference require?](https://mattbruenig.com/2013/02/26/what-does-identitarian-deference-require/)**
+
+*  **[Foundation For Black Communities](https://www.forblackcommunities.org/)**
+
+*  **[The Stanford Open Policing Project 2019 - How They Likely Misled the Public](https://docs.google.com/document/d/1O1X58wnmjifVygG1CNfPiL9Ra8l_Y3wGnU58Hxb58jo/edit)**
+
+*  **[Responding to the "Resources against BLM skepticism" Document](https://docs.google.com/document/d/1b2Y-kW9vReS_X-cEA4pniSANePyFJiW2qSpyjlYO5m8/edit#)**
 
 </div>
 </div>
