@@ -195,5 +195,17 @@ permalink: /resources
 *  **[The Stanford Open Policing Project 2019 - How They Likely Misled the Public](https://docs.google.com/document/d/1O1X58wnmjifVygG1CNfPiL9Ra8l_Y3wGnU58Hxb58jo/edit)**
 *  **[Responding to the "Resources against BLM skepticism" Document](https://docs.google.com/document/d/1b2Y-kW9vReS_X-cEA4pniSANePyFJiW2qSpyjlYO5m8/edit#)**
 
+## Climatology
+
+*  **[Global Warming & Climate Change Myths](https://skepticalscience.com/argument.php)**
+*  **[CO2 Coalition](https://co2coalition.org/facts/)**\
+*  **[Real Climate Science](https://realclimatescience.com/)**
+*  **[Problems with Solar Power](https://docs.google.com/document/d/1gTwu4bI13ewq6wHYSBhvwfRptf6NL8u-03vFEnrKscA/edit)**
+*  **[Global Warming AKA Climate Change](https://docs.google.com/document/d/1vHU2hHXebxpvExT7srNNnX-VM7Qn9Ak_ZmdKCIcUti8/edit)**
+*  **[Master Resource](https://www.masterresource.org/)**
+*  **[Climate change mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation)**
+*  **[Climate change adaptation](https://en.wikipedia.org/wiki/Climate_change_adaptation)**
+*  **[Politics of climate change](https://en.wikipedia.org/wiki/Politics_of_climate_change)**
+
 </div>
 </div>
