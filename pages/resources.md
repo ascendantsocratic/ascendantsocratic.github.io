@@ -137,6 +137,18 @@ permalink: /resources
 *  **[Gender-equality paradox](https://en.wikipedia.org/wiki/Gender-equality_paradox)**
 *  **[Gender Resource Guide](https://genderresourceguide.com/)**
 
+### Guns
+
+*  **[Gun Control](https://guncite.com/)**
+*  **[A Factual Look at Guns in America](https://americangunfacts.com/)**
+*  **[For the Second Amendment](https://docs.google.com/document/d/1iEQRhxqYJcDntLXc0pu3VDA73T-1kM5CA9yfO4_1bgc/edit)**
+*  **[Progun quotes with sources](https://docs.google.com/document/d/1-FrPM4NjenkP1o9l9W2BzygrxqoXIGRrUNGtXPUNEc4/edit)**
+*  **[Second Amendment Rights](https://docs.google.com/document/d/1lNfCpesT-BhEhMiL5kY2O0VvJtnoAIZiYvvTb0_6eh0/edit)**
+*  **[Gun Control is auth cringe](https://files.catbox.moe/yq6iuu.pdf)**
+*  **[The Pro-Gun Guide](https://docs.google.com/document/d/1mBrxjLcuygRlG9Tgdw2CiHtV9g1kgUwZGRnieYBpwSo/edit)**
+*  **[Gun Control Ultimate Doc](https://docs.google.com/document/d/1V5dRnBbFkAQtv33MNGk0FSSOnV-_4-9kpjDbIMvghY4/edit#)**
+*  **[A Critique of Pure Gun Control](https://medium.com/colby-echo/a-critique-of-pure-gun-control-7dc55f1ccae9)**
+
 </div>
 </div>
     
