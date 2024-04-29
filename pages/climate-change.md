@@ -4,8 +4,6 @@ title: Climate Change
 permalink: /articles/climate-change
 ---
 
-Cuz attention soon as someone mentions me
-
 <div id="Header">
 <div markdown="1">
 
