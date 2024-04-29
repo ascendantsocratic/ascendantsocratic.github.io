@@ -17,4 +17,3 @@ The reason why weather can't really be predicted with current modelling while cl
 
 ## Example2
 ## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
