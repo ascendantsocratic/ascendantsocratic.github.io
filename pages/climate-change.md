@@ -4,7 +4,6 @@ title: Climate Change
 permalink: /articles/climate-change
 ---
 
-<div id="Header">
 <div markdown="1">
 
 ## **Table of Contents**
@@ -27,5 +26,4 @@ The reason why weather can't really be predicted with current modelling while cl
 
 ## Third Example
 
-</div>
 </div>
