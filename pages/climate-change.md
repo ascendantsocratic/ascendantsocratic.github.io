@@ -10,7 +10,7 @@ Cuz attention soon as someone mentions me
 <div markdown="1">
 
 ## **Table of Contents**
-- [Effects of CLimate Change](#effects-of-climate-change)
+- [Effects of Climate Change](#effects-of-climate-change)
 - - [Droughts](#droughts)
 - [Climate Model Accuracy](#climate-model-accuracy)
 - [Third Example](#third-example)
