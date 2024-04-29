@@ -14,6 +14,8 @@ permalink: /articles/climate-change
 
 ### **Droughts**
 
+Droughts have increased in frequency worldwide and have become more intense [(Hille, 2017;](https://www.nasa.gov/feature/goddard/2016/nasa-finds-drought-in-eastern-mediterranean-worst-of-past-900-years) [Marvel et al., 2019)](https://www.nature.com/articles/s41586-019-1149-8). Projections indicate that these will likely increase over time [(Cook et al., 2015)](https://www.science.org/doi/pdf/10.1126/sciadv.1400082). Although these projections look at one region of the United States, it seems reasonable to assert similar trends will likely occur in other places given the increased droughts worldwide. Increases in droughts that have already occurred have likely caused or contributed to conflict in already unstable regions, with [Kelley et al. (2014)](https://www.pnas.org/content/112/11/3241) finding that the 2007-2010 drought contributed to the conflict in Syria.
+
 ## **Climate Model Accuracy**
 
 While it is the case that short-term weather forecasts are bad at predicting future weather events and temperatures, climate models which look in the long-term have been as a whole very accurate at measuring temperature trends over time [(SkepticalScience, 2015;](https://skepticalscience.com/ipcc-global-warming-projections.htm) [Hausfather, 2019)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085378).
