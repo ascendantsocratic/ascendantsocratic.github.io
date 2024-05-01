@@ -4,8 +4,6 @@ title: Resources
 permalink: /resources
 ---
 
-testing, attention please
-
 <div id="left-column">
 <div markdown="1">
 
