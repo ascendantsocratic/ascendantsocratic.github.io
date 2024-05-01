@@ -149,22 +149,6 @@ permalink: /resources
 *  **[Gun Control Ultimate Doc](https://docs.google.com/document/d/1V5dRnBbFkAQtv33MNGk0FSSOnV-_4-9kpjDbIMvghY4/edit#)**
 *  **[A Critique of Pure Gun Control](https://medium.com/colby-echo/a-critique-of-pure-gun-control-7dc55f1ccae9)**
 
-### COVID
-
-*  **[All you need to know about COVID vaccine safety](https://www.skirsch.com/covid/All.pdf)**
-*  **[VaccineResearch2019](https://docs.google.com/document/d/1y4Ysa7OPnqMIj-NuNVYJnlHGsvbsyqFam8NaQDSSl8o/edit)**
-*  **[Covid 19 Facts](https://docs.google.com/document/d/1Xu13YEpKB9Oysqda0eLAzEzUbUg3WyA8muL9ELF1WVI/edit)**
-*  **[#DemandTheTruth](https://www.demandthetruth.xyz/)**
-*  **[Mask Facts Links updated 6.25.21](https://docs.google.com/document/d/1Fm4taZAIZ4HWjCSOfGgq6SdFIxEvwNWC/edit)**
-*  **[HCQ - Early Treatment and Prevention of COVID](https://docs.google.com/document/d/1vDD8JkHe62hmpkalx1tejkd_zDnVwJ9XXRjgXAc1qUc/edit)**
-*  **[References & Resources on the Inextricable Harm/Haraam of "Vaccines"](https://docs.google.com/document/d/1redE_uXjiaSG9DlNSMIu4gGoTec77QV0geTWTw3VaLA/edit#)**
-*  **[Uncompromised Science on Masks - various sources in links](https://docs.google.com/document/d/13Xt6pN_VASGOd3abMafH2Jj3Y2MMnj9NYF512KJLJ2M/edit)**
-*  **[COVID-19 early treatment: real-time analysis of 1,925 studies](https://c19early.com/)**
-*  **[Public Covid Catalogue](https://docs.google.com/document/d/1E74Eg-hcUvh4HLMb_ojly0nPYAmuzYAayIhkTFx0J18/edit)**
-*  **[Covid, Mask, and Vaccine Resources For Libertarians](https://docs.google.com/document/d/1VbLJJSSWYmAJJvfSkgrgkg6lvRccjthenzZ2gRCXNdk/edit)**
-*  **[Vacc](https://docs.google.com/document/d/1uIqJvOr9Gb7VsQnX7e3UDtYJ373rxfSLsiY7WfK9kmc/edit)**
-*  **[COVID-19: Do I Really Know Enough?](https://doireallyknowenough.info/)**
-
 </div>
 </div>
     
