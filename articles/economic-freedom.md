@@ -4,9 +4,6 @@ title: Economic Freedom
 permalink: /articles/economic-freedom
 ---
 
-<p><b>Test1</b></p>
-<p><strong>Test2</strong></p>
-
 <div markdown="1">
 
 **Economic freedom = based**
