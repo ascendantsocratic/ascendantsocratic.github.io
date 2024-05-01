@@ -209,7 +209,6 @@ permalink: /resources
 
 ### Miscellaneous
 
-*  **[Dysgenics, Overpopulation, and Conventional Ignorance](https://thewaywardaxolotl.blogspot.com/2017/11/dysgenics-overpopulation-and.html?m=1)**
 *  **[Death penalty](https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit)**
 *  **[hbomberguy - Vaccines: A Measured Response - A Measured Response](https://docs.google.com/document/d/1r-r53gIyjrtUaRIohFypLvECXbgBd_ibwhwGqTIRSNc/edit)**
 *  **[Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax)**
