@@ -140,8 +140,6 @@ permalink: /resources
 ### Guns
 
 *  **[Gun Control](https://guncite.com/)**
-*  **[A Factual Look at Guns in America](https://americangunfacts.com/)**
-*  **[For the Second Amendment](https://docs.google.com/document/d/1iEQRhxqYJcDntLXc0pu3VDA73T-1kM5CA9yfO4_1bgc/edit)**
 *  **[Progun quotes with sources](https://docs.google.com/document/d/1-FrPM4NjenkP1o9l9W2BzygrxqoXIGRrUNGtXPUNEc4/edit)**
 *  **[Second Amendment Rights](https://docs.google.com/document/d/1lNfCpesT-BhEhMiL5kY2O0VvJtnoAIZiYvvTb0_6eh0/edit)**
 *  **[Gun Control is auth cringe](https://files.catbox.moe/yq6iuu.pdf)**
