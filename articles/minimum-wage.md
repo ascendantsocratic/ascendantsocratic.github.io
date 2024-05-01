@@ -13,7 +13,7 @@ permalink: /articles/minimum-wage
   - [Prices](#prices)
   - [Labor Market Changes](#labor-market-changes)
 - [Quuality of Life Effects](#quality-of-life-effects)
-- - [Poverty and Wages(#poverty-and-wages)
+- - [Poverty and Wages](#poverty-and-wages)
   - [Wealth Inequality](#wealth-inequality)
   - [Health](#health)
   - [Education](#education)
