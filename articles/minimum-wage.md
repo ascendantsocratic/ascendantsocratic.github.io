@@ -4,6 +4,8 @@ title: Minimum Wage
 permalink: /articles/minimum-wage
 ---
 
+<div markdown="1">
+
 ## Table of Contents
 - [Monopsony and Effects on Firms](#monopsony-and-effects-on-firms)
 - [Channels of Adjustment](#channels-of-adjustment)
@@ -129,3 +131,5 @@ Interestingly however, these policies appear to have had the opposite effect tha
 ## In Developing Countries
 
 An interesting question to examine is how the minimum wage would work in developing countries which are characterized by significantly higher levels of low-wage labor. In these contexts, the minimum wage also appears to be effective in reducing poverty [(Margolis, 2014;](https://wol.iza.org/articles/introducing-a-statutory-minimum-wage-in-middle-and-low-income-countries) [Gindling, 2018)](https://wol.iza.org/articles/does-increasing-the-minimum-wage-reduce-poverty-in-developing-countries/long). As for the threshold of a minimum wage, I'd imagine 59% of the median wage could work, although I am not super confident on this just due to how these types of labor markets likely operate significantly differently compared to those in developed countries where minimum wage effects are typically studied. Importantly, institutional mechanisms must be in place to actually enforce a minimum wage in order for it to be effective, which is a concern in developing countries where rule of law is more questionable in some contexts to say the least.
+
+</div>
