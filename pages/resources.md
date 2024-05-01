@@ -151,8 +151,6 @@ permalink: /resources
 
 ### COVID
 
-*  **[Covid Resources 7:26:22 - B](https://docs.google.com/document/d/1-NoxLNYz5vfh19YROG2pQ3uRQySgzbSqG4QvU7cq-a8/edit)**
-*  **[COVID-19 Source Book](https://files.catbox.moe/420pmx.pdf)**
 *  **[All you need to know about COVID vaccine safety](https://www.skirsch.com/covid/All.pdf)**
 *  **[VaccineResearch2019](https://docs.google.com/document/d/1y4Ysa7OPnqMIj-NuNVYJnlHGsvbsyqFam8NaQDSSl8o/edit)**
 *  **[Covid 19 Facts](https://docs.google.com/document/d/1Xu13YEpKB9Oysqda0eLAzEzUbUg3WyA8muL9ELF1WVI/edit)**
