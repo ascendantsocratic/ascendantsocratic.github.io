@@ -229,7 +229,6 @@ permalink: /resources
 *  **[Archive content](https://files.catbox.moe/a2iw1f.pdf)**
 *  **[Random Pastebin Links](https://docs.google.com/document/d/1EBRmFmxib5mqBMN-vq08b5NqeuwtZikrt2sbcmwIMkQ/edit)**
 *  **[misc collection](https://files.catbox.moe/0xqieq.pdf)**
-*  **[Globalization and disease](https://en.wikipedia.org/wiki/Globalization_and_disease)**
 *  **[Democratic peace theory](https://en.wikipedia.org/wiki/Democratic_peace_theory)**
 *  **[Evictionism: The Libertarian Answer to Abortion](https://docs.google.com/document/d/19UhmPOIdX9dVOBnsmMsBDed0mDZO3-LzDyIl4vd8NlU/edit)**
 *  **[Home invasion](https://en.wikipedia.org/wiki/Home_invasion#:~:text=A%20hot%20prowl%20burglary%2C%20cat,while%20the%20occupants%20are%20inside)**
