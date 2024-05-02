@@ -71,7 +71,6 @@ permalink: /resources
 *  **[Rebuttals to the Source Library Doc Studies](https://drive.google.com/file/d/1Sz2K18x8Mc0hdTm-gP2IJqMAcoh1msjp/view)**
 *  **[CapitalismVSocialism Master Document](https://docs.google.com/document/d/10WRhRcrUCGGBJiIs4FiGG-MVHQjLisnA6gK7qHk0nNQ/edit)**
 *  **[Structural adjustment](https://en.wikipedia.org/wiki/Structural_adjustment)**
-*  **[Employment discrimination](https://en.wikipedia.org/wiki/Employment_discrimination)**
 *  **[Episode 2: Minwage](https://docs.google.com/document/d/1oH5ZPnzBQbTVfRebiyn3VwiAa1ezmJilLZOcvzufU-U/edit)**
 *  **[PRIVATIZED HEALTHCARE](https://docs.google.com/document/d/1rwdKqeILUlukMJxpIufcPcNZKzMO3ECY3hGBdTg-yH4/edit)**
 *  **[Mises Wiki](https://wiki.mises.org/wiki/Main_Page)**
