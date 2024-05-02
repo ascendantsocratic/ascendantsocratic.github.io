@@ -103,17 +103,10 @@ permalink: /resources
         
 ### Racial Issues
 
-*  **[Economic](https://files.catbox.moe/cxwv4l.pdf)**
-*  **[I.Q and Human Intelligence](https://human-intelligence.org/)**
 *  **[G theory plus random psychometric data](https://docs.google.com/document/d/1XkABIGw9JpKIKkDoH1siZBDOnZoY-ApF7eWoHubx7eg/edit#)**
 *  **[Systemic Racism DEBUNKED](https://files.catbox.moe/153y9e.pdf)**
-*  **[Race science infographics archive [biology, genetics, anthropology, etc]](https://thuletide.wordpress.com/2021/08/21/race-science-infographics-archive-biology-genetics-anthropology-etc/)**
 *  **[100 Facts about Whites and Blacks (but one lie) REVISITED](https://files.catbox.moe/st3yff.pdf)**
-*  **[10 Studies Indicating No Police Racial Bias + Counterpoint Studies](https://docs.google.com/document/d/1kVlyqqLFT3mFlCc5pNM6iiqBcGLhX2r1V52VFm_ZGZE/edit)**
 *  **[Response to Vaporwave's Racism Document](https://docs.google.com/document/d/1kClKcuD-KxmPXhkQ5h-s3WO-4jMYKGg_WR8EYSyLp_4/edit#heading=h.10almic3b6ew)**
-*  **[A response to "How Heritability Misleads About Race"](https://docs.google.com/document/d/1xUvRX6Fcs7rsbUpWg0t6lxmPEe1vWypCRf4bkYLrJ9g/edit)**
-*  **[A response to "Race Realism"](https://docs.google.com/document/d/1xRBAJ4QcpbOhnZL9Q1xf5K8DU55KykAboxbd05EtfE0/edit#heading=h.odl0q8nsfp6)**
-*  **[A response to "Useful Links for Arguing with Racists"](https://docs.google.com/document/d/1_Rf0sHkDCGoy9X1izR8iZb2mugs8tV7Y4jEHx0M3JPY/edit)**
 *  **[Responses Race](https://drive.google.com/file/d/1Sgrj4tB-lYf7o2D94uljYMkod3JF7-cN/view)**
 *  **[A Response To The RationalWiki Page Regarding "Racialism"](https://docs.google.com/document/d/1TakeFDrUhy8Sg8LWaUuN82oIVRy8vecW4FSdgzPYoI4/edit#)**
 *  **[A Response to "Thorough refutation of race realism"](https://docs.google.com/document/d/1r6qzxYl62sud3oqCzkl9Mrqkzf7lYZ-XQi5vk3xUC1s/edit)**
