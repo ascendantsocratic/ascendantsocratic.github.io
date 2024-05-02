@@ -239,7 +239,6 @@ permalink: /resources
 *  **[REACTIONARY PHILOSOPHY IN AN ENORMOUS, PLANET-SIZED NUTSHELL](https://slatestarcodex.com/2013/03/03/reactionary-philosophy-in-an-enormous-planet-sized-nutshell/)**
 *  **[Traditional knowledge](https://en.wikipedia.org/wiki/Traditional_knowledge)**
 *  **[Public Policy and Homelessness: The Case of Calgary](https://www.homelesshub.ca/blog/public-policy-and-homelessness-case-calgary)**
-*  **[Will Goliath Blink? Charles Murray's Continuing Assault on the Orthodoxy](https://www.aporiamagazine.com/p/will-goliath-blink-charles-murrays)**
 *  **[Homelessness Research Document](https://docs.google.com/document/d/1_ft6xZNTbpND_ktyW-9vW3zQIUI23WaWt64jH3qCmcE/edit#heading=h.1zkuqrtq9wwh)**
 *  **[Replicability Index](https://replicationindex.com/)**
 
