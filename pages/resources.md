@@ -212,7 +212,6 @@ permalink: /resources
 *  **[Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax)**
 *  **[Twin Studies](https://files.catbox.moe/vflrn8.pdf)**
 *  **[Archive content](https://files.catbox.moe/xovpgi.pdf)**
-*  **[Mainstream Media Malpractice](https://docs.google.com/document/d/1wRT5HEiDNrHBqPooMW9i7I0DzQN7texTZKzq0u-IvLo/edit)**
 *  **[Vegays btfo](https://files.catbox.moe/d5wpuc.pdf)**
 *  **[Archive content](https://files.catbox.moe/qghrlg.pdf)**
 *  **[Archive content](https://files.catbox.moe/a2iw1f.pdf)**
