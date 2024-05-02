@@ -211,19 +211,12 @@ permalink: /resources
 
 *  **[Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax)**
 *  **[Twin Studies](https://files.catbox.moe/vflrn8.pdf)**
-*  **[Your Brain on Porn](https://www.yourbrainonporn.com/research/)**
-*  **[Population Problems](https://docs.google.com/document/d/1P5E7KXffXhi_nqMJETLjtoVfYdVHr-pVrYWzVg36ykk/edit)**
-*  **[On Marriage 100% 15](https://docs.google.com/document/d/1jK9ralAIMSiayjzAdIZDoCAiDKeqJlQhc9yNsXey7XQ/edit)**
-*  **[Abstracts Aren't Always Accurate](https://blackfrancis.substack.com/p/abstracts-arent-always-accurate?s=r)**
 *  **[Archive content](https://files.catbox.moe/xovpgi.pdf)**
 *  **[Mainstream Media Malpractice](https://docs.google.com/document/d/1wRT5HEiDNrHBqPooMW9i7I0DzQN7texTZKzq0u-IvLo/edit)**
 *  **[Vegays btfo](https://files.catbox.moe/d5wpuc.pdf)**
 *  **[Archive content](https://files.catbox.moe/qghrlg.pdf)**
 *  **[Archive content](https://files.catbox.moe/a2iw1f.pdf)**
 *  **[misc collection](https://files.catbox.moe/0xqieq.pdf)**
-*  **[Democratic peace theory](https://en.wikipedia.org/wiki/Democratic_peace_theory)**
-*  **[Home invasion](https://en.wikipedia.org/wiki/Home_invasion#:~:text=A%20hot%20prowl%20burglary%2C%20cat,while%20the%20occupants%20are%20inside)**
-*  **[Stereotype Accuracy and Debunking Lee Jussim](https://docs.google.com/document/d/1AQvATilESV7C6cZN4dQhSswZKSTN0lVGOJRlJ25RbFY/edit#)**
 *  **[Public Policy and Homelessness: The Case of Calgary](https://www.homelesshub.ca/blog/public-policy-and-homelessness-case-calgary)**
 *  **[Homelessness Research Document](https://docs.google.com/document/d/1_ft6xZNTbpND_ktyW-9vW3zQIUI23WaWt64jH3qCmcE/edit#heading=h.1zkuqrtq9wwh)**
 *  **[Replicability Index](https://replicationindex.com/)**
@@ -232,6 +225,7 @@ permalink: /resources
 
 *  **[Death penalty](https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit)**
 *  **[The Model for Intelligence](https://files.catbox.moe/q511hd.pdf)**
+*  **[Your Brain on Porn](https://www.yourbrainonporn.com/research/)**
 
 </div>
 </div>
