@@ -48,16 +48,6 @@ permalink: /resources
 ### Economics
 
 *  [A Summary of Austrian Refutations of Marx's Labor Theory of Value](https://docs.google.com/document/d/1lzzBPSfpoa3_R_sP0iVkpZnINUMBZUWV_wzy_LKIBso/edit)
-*  **[Capitalism V Socialism Master Document](https://docs.google.com/document/d/10WRhRcrUCGGBJiIs4FiGG-MVHQjLisnA6gK7qHk0nNQ/edit)**
-*  **[Anti-tankie resources and notes](https://docs.google.com/document/d/18m1zCEFKIQbEyzx7PJyeXVVjwYtqMgv6kIGUKr8z5Rg/edit)**
-*  **[A Case for Capitalism, In Regards to Space Travel](https://thepolicy.us/a-case-for-capitalism-in-regards-to-space-travel-d77e50f8116e)**
-*  **["Debunk the TOP"](https://voluntaryisthaven.wordpress.com/2021/04/02/debunk-the-top/)**
-*  **[An Overview of the Housing Market](https://docs.google.com/document/d/1Rlh7hZ_fmogcH2CZlsCTDfV7885cJzPFNarxJY95BLE/edit)**
-*  **[Why is Housing so Expensive?](https://docs.google.com/document/d/1bZ35_cfhafYFDE9tuQvwLaXQZI9W_Jz-GrDswtf2ZAc/edit)**
-*  **[The case against 15 dollar minimum wage](https://docs.google.com/document/d/1JrT_Mfn_L_N9-xDIUFbpKP_TdoaHoK_VFmJ4ggKhr-g/edit)**
-*  **[Natural Monopolies and the Failures of Government Interventionism](https://docs.google.com/document/d/1lBMMOLlecCmLs0tLgbVg790BUx-ax8lT02W_XDwOuWg/edit)**
-*  **[Rebuttals to the Source Library Doc Studies](https://drive.google.com/file/d/1Sz2K18x8Mc0hdTm-gP2IJqMAcoh1msjp/view)**
-*  **[CapitalismVSocialism Master Document](https://docs.google.com/document/d/10WRhRcrUCGGBJiIs4FiGG-MVHQjLisnA6gK7qHk0nNQ/edit)**
 
 </div>
 </div>
