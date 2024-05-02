@@ -11,10 +11,10 @@ permalink: /resources
 
 *   [Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)
 *   **[Alternative Hypothesis Website](https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/)**
+*   [Blithering Genius: Expanding Rationality](https://expandingrationality.substack.com/)
 *   **[Cremieux Recueil](https://www.cremieux.xyz/)**
 *   **[Emil Kirkegaard](https://front.emilkirkegaard.dk/)**
 *   **[Eternal Anglo](https://eternalanglo.com/)**
-*   **[Expanding Rationality](https://expandingrationality.substack.com/)**
 *   **[Five Fifths Blog](https://fivefifthsblog.substack.com/)**
 *   **[Gnew's Corner](https://gnew.substack.com/archive)**
 *   **[Human Varieties](https://humanvarieties.org/)**
