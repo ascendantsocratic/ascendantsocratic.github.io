@@ -207,16 +207,6 @@ permalink: /resources
 *  **[Climate change adaptation](https://en.wikipedia.org/wiki/Climate_change_adaptation)**
 *  **[Politics of climate change](https://en.wikipedia.org/wiki/Politics_of_climate_change)**
 
-### Miscellaneous
-
-*  **[Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax)**
-*  **[Twin Studies](https://files.catbox.moe/vflrn8.pdf)**
-*  **[Archive content](https://files.catbox.moe/xovpgi.pdf)**
-*  **[Vegays btfo](https://files.catbox.moe/d5wpuc.pdf)**
-*  **[Archive content](https://files.catbox.moe/qghrlg.pdf)**
-*  **[Archive content](https://files.catbox.moe/a2iw1f.pdf)**
-*  **[misc collection](https://files.catbox.moe/0xqieq.pdf)**
-
 ### To Look at Later
 
 *  **[Death penalty](https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit)**
