@@ -235,7 +235,6 @@ permalink: /resources
 *  **[Health Feedback](https://healthfeedback.org/)**
 *  **[Prolife arguments and sources](https://docs.google.com/document/d/1-TpmwK9-8Gm6tkcwjsNbH9CpAdPXakcMdQ-2i0LjPWs/edit)**
 *  **[Stereotype Accuracy and Debunking Lee Jussim](https://docs.google.com/document/d/1AQvATilESV7C6cZN4dQhSswZKSTN0lVGOJRlJ25RbFY/edit#)**
-*  **[An Index to Creationist Claims](https://www.talkorigins.org/indexcc/)**
 *  **[Traditional knowledge](https://en.wikipedia.org/wiki/Traditional_knowledge)**
 *  **[Public Policy and Homelessness: The Case of Calgary](https://www.homelesshub.ca/blog/public-policy-and-homelessness-case-calgary)**
 *  **[Homelessness Research Document](https://docs.google.com/document/d/1_ft6xZNTbpND_ktyW-9vW3zQIUI23WaWt64jH3qCmcE/edit#heading=h.1zkuqrtq9wwh)**
