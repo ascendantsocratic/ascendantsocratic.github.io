@@ -49,7 +49,6 @@ permalink: /resources
 
 *  [A Summary of Austrian Refutations of Marx's Labor Theory of Value](https://docs.google.com/document/d/1lzzBPSfpoa3_R_sP0iVkpZnINUMBZUWV_wzy_LKIBso/edit)
 *  **[Capitalism V Socialism Master Document](https://docs.google.com/document/d/10WRhRcrUCGGBJiIs4FiGG-MVHQjLisnA6gK7qHk0nNQ/edit)**
-*  **[PRIVATIZED HEALTHCARE](https://docs.google.com/document/d/1rwdKqeILUlukMJxpIufcPcNZKzMO3ECY3hGBdTg-yH4/edit)**
 *  **[Anti-tankie resources and notes](https://docs.google.com/document/d/18m1zCEFKIQbEyzx7PJyeXVVjwYtqMgv6kIGUKr8z5Rg/edit)**
 *  **[A Case for Capitalism, In Regards to Space Travel](https://thepolicy.us/a-case-for-capitalism-in-regards-to-space-travel-d77e50f8116e)**
 *  **["Debunk the TOP"](https://voluntaryisthaven.wordpress.com/2021/04/02/debunk-the-top/)**
@@ -59,8 +58,6 @@ permalink: /resources
 *  **[Natural Monopolies and the Failures of Government Interventionism](https://docs.google.com/document/d/1lBMMOLlecCmLs0tLgbVg790BUx-ax8lT02W_XDwOuWg/edit)**
 *  **[Rebuttals to the Source Library Doc Studies](https://drive.google.com/file/d/1Sz2K18x8Mc0hdTm-gP2IJqMAcoh1msjp/view)**
 *  **[CapitalismVSocialism Master Document](https://docs.google.com/document/d/10WRhRcrUCGGBJiIs4FiGG-MVHQjLisnA6gK7qHk0nNQ/edit)**
-*  **[Structural adjustment](https://en.wikipedia.org/wiki/Structural_adjustment)**
-*  **[PRIVATIZED HEALTHCARE](https://docs.google.com/document/d/1rwdKqeILUlukMJxpIufcPcNZKzMO3ECY3hGBdTg-yH4/edit)**
 
 </div>
 </div>
