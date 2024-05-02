@@ -116,9 +116,6 @@ permalink: /resources
 *  **[Slavery and Modern Black Poverty](https://ideasanddata.wordpress.com/2019/06/11/slavery-and-modern-black-poverty/)**
 *  **[On Generational Poverty Poverty Is Not Caused by Poor Parents](https://seanlast.substack.com/p/on-generational-poverty)**
 *  **[Racial Diversity: Strength or Weakness?](https://seanlast.substack.com/p/racial-diversity-strength-or-weakness)**
-*  **[Kevin Bird Bibliography](https://docs.google.com/document/d/1DGRlPl0kiS2gJOuNIWZH7EhV_5ipRHscn1W3hclCdPc/edit)**
-*  **[Foundation For Black Communities](https://www.forblackcommunities.org/)**
-*  **[The Stanford Open Policing Project 2019 - How They Likely Misled the Public](https://docs.google.com/document/d/1O1X58wnmjifVygG1CNfPiL9Ra8l_Y3wGnU58Hxb58jo/edit)**
 *  **[Responding to the "Resources against BLM skepticism" Document](https://docs.google.com/document/d/1b2Y-kW9vReS_X-cEA4pniSANePyFJiW2qSpyjlYO5m8/edit#)**
 
 ### Climatology
