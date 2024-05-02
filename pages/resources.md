@@ -77,7 +77,6 @@ permalink: /resources
 *  **[Wagnerocks' Misc Stats Dump Doc](https://files.catbox.moe/4ql5qv.pdf)**
 *  **[Naomi's Research and Rhetoric Masterdoc](https://docs.google.com/document/d/1WZBpR9Ll3lNi7-ig8FvB2grMlhsmRZNa34cROGK2rEE/edit)**
 *  **[Left-Wing > Right-Wing](https://docs.google.com/document/d/16pRhvX51OQkQnt2eiuBU9vZ5RH0Gnla55S3qad37qUg/mobilebasic)**
-*  **[Right Wing Data](https://rightwingdata.cf/?i=1)**
 *  **[Unorthodox Theory's Rebuttal to the Ultimate Research Document Debunked](https://docs.google.com/document/d/1-iaG91cE0vT-21OPV0kZPu7lN3PsPtMs8yvobjtov64/edit#)**
 *  **[Vaush: Ultimate Research Document Rebuttal 2.0](https://raceandconflicts.home.blog/2021/03/30/vaush-response-2/)**
 *  **[Vaush Response Doc (8th edition)](https://docs.google.com/document/d/1bT_Q3TXZX0ZjnNS_QMsR-MEPut7S5EIkFeAkIO7vEGI/edit)**
