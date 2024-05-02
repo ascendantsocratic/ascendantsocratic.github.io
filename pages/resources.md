@@ -47,27 +47,16 @@ permalink: /resources
 
 ### Economics
 
-*  **[Free Markets Work](https://docs.google.com/document/d/1DMJmApJ0ueMKn5viHJlLA2t4WyKF4T0P/edit#h)**
-*  **[A Summary of Austrian Refutations of Marx's Labor Theory of Value](https://docs.google.com/document/d/1lzzBPSfpoa3_R_sP0iVkpZnINUMBZUWV_wzy_LKIBso/edit)**
-*  **[Not enough people are aware of the negative effects of the minimum wage](https://docs.google.com/document/d/1DxhqfhUy1Bi_ei2vuZwROMgOKWQfu0xmYD2tOSqEI9k/edit#)**
+*  [A Summary of Austrian Refutations of Marx's Labor Theory of Value](https://docs.google.com/document/d/1lzzBPSfpoa3_R_sP0iVkpZnINUMBZUWV_wzy_LKIBso/edit)
 *  **[Capitalism V Socialism Master Document](https://docs.google.com/document/d/10WRhRcrUCGGBJiIs4FiGG-MVHQjLisnA6gK7qHk0nNQ/edit)**
-*  **[Why American Healthcare is Subpar and Expensive](https://docs.google.com/document/d/1oZl3f-X1pWFaspsNutMZYv59TA_RkgZ572XmAnbeFdQ/edit)**
-*  **[Healthcare Research Doc](https://docs.google.com/document/d/1-xDTcHLU2LMN9R70bjrLPVlgwy5dX5V5NGCcvjRTZc0/edit)**
-*  **[Private Healthcare is Better Than Public Healthcare](https://docs.google.com/document/d/1d95SABzltFe46U0CdW8WvAJ2_7TYmsLBJq-lNNad2_0/edit)**
 *  **[PRIVATIZED HEALTHCARE](https://docs.google.com/document/d/1rwdKqeILUlukMJxpIufcPcNZKzMO3ECY3hGBdTg-yH4/edit)**
 *  **[Anti-tankie resources and notes](https://docs.google.com/document/d/18m1zCEFKIQbEyzx7PJyeXVVjwYtqMgv6kIGUKr8z5Rg/edit)**
 *  **[A Case for Capitalism, In Regards to Space Travel](https://thepolicy.us/a-case-for-capitalism-in-regards-to-space-travel-d77e50f8116e)**
 *  **["Debunk the TOP"](https://voluntaryisthaven.wordpress.com/2021/04/02/debunk-the-top/)**
-*  **[Free-market roads](https://en.wikipedia.org/wiki/Free-market_roads#cite_note-8)**
 *  **[An Overview of the Housing Market](https://docs.google.com/document/d/1Rlh7hZ_fmogcH2CZlsCTDfV7885cJzPFNarxJY95BLE/edit)**
 *  **[Why is Housing so Expensive?](https://docs.google.com/document/d/1bZ35_cfhafYFDE9tuQvwLaXQZI9W_Jz-GrDswtf2ZAc/edit)**
-*  **[In Defense of Wealth Inequality](https://docs.google.com/document/d/1HkJU7h3kycDEOBixGZ8OzdMaxDSFm2zfrHFkIkFzx8g/edit#)**
 *  **[The case against 15 dollar minimum wage](https://docs.google.com/document/d/1JrT_Mfn_L_N9-xDIUFbpKP_TdoaHoK_VFmJ4ggKhr-g/edit)**
-*  **[Not enough people are aware of the negative effects of the minimum wage](https://docs.google.com/document/d/1DxhqfhUy1Bi_ei2vuZwROMgOKWQfu0xmYD2tOSqEI9k/edit#)**
-*  **[Parker's Work or Die video](https://docs.google.com/document/d/16RPkq5vdPnWoGh3aPX8KeqJXUSk3sC_fZKosZogClDY/edit)**
 *  **[Natural Monopolies and the Failures of Government Interventionism](https://docs.google.com/document/d/1lBMMOLlecCmLs0tLgbVg790BUx-ax8lT02W_XDwOuWg/edit)**
-*  **[Austrian Economics](https://docs.google.com/document/d/1-SvXhG0nkHdTUzjgjrYkoymYtoXexDzjPaBRHLmFil0/edit)**
-*  **[A Summary of Austrian Economics](https://docs.google.com/document/d/1oj-XYhUV54R4TjLT8Ge-LC7smJIDGW6lJlggGLtYlN8/edit)**
 *  **[Rebuttals to the Source Library Doc Studies](https://drive.google.com/file/d/1Sz2K18x8Mc0hdTm-gP2IJqMAcoh1msjp/view)**
 *  **[CapitalismVSocialism Master Document](https://docs.google.com/document/d/10WRhRcrUCGGBJiIs4FiGG-MVHQjLisnA6gK7qHk0nNQ/edit)**
 *  **[Structural adjustment](https://en.wikipedia.org/wiki/Structural_adjustment)**
@@ -195,6 +184,7 @@ permalink: /resources
 *  **[Death penalty](https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit)**
 *  **[The Model for Intelligence](https://files.catbox.moe/q511hd.pdf)**
 *  **[Your Brain on Porn](https://www.yourbrainonporn.com/research/)**
+*  **[Free Markets Work](https://docs.google.com/document/d/1DMJmApJ0ueMKn5viHJlLA2t4WyKF4T0P/edit#h)**
 
 </div>
 </div>
