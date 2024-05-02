@@ -60,16 +60,7 @@ permalink: /resources
 *  **[Rebuttals to the Source Library Doc Studies](https://drive.google.com/file/d/1Sz2K18x8Mc0hdTm-gP2IJqMAcoh1msjp/view)**
 *  **[CapitalismVSocialism Master Document](https://docs.google.com/document/d/10WRhRcrUCGGBJiIs4FiGG-MVHQjLisnA6gK7qHk0nNQ/edit)**
 *  **[Structural adjustment](https://en.wikipedia.org/wiki/Structural_adjustment)**
-*  **[Episode 2: Minwage](https://docs.google.com/document/d/1oH5ZPnzBQbTVfRebiyn3VwiAa1ezmJilLZOcvzufU-U/edit)**
 *  **[PRIVATIZED HEALTHCARE](https://docs.google.com/document/d/1rwdKqeILUlukMJxpIufcPcNZKzMO3ECY3hGBdTg-yH4/edit)**
-*  **[Mises Wiki](https://wiki.mises.org/wiki/Main_Page)**
-*  **[Debunking r/socialism Megathread on Venezuela](https://docs.google.com/document/d/1toUEzjJVd_JdPvOvch1yRXp1OxraukTeSCTBvsdfQCM/edit)**
-*  **[Debunking the 1986 Study](https://docs.google.com/document/d/1F_NS_-X9aCMpv2peDHKFdKmS_F7N3dweOy9Klt7mvjk/edit)**
-*  **[The Economic Calculation Problem: Why Socialism is an Obsolete Meme](https://docs.google.com/document/d/1VQ27K56rpR0Jy7ENiQP6ngke-t1bLj5UFldg_PYkb3k/edit)**
-*  **[Participatory Economics](https://participatoryeconomics.info/)**
-*  **[World Economic Forum](https://www.weforum.org/)**
-*  **[Minimum wage](https://en.wikipedia.org/wiki/Minimum_wage)**
-*  **[The Equality Trust](https://equalitytrust.org.uk/)**
 
 </div>
 </div>
@@ -185,6 +176,7 @@ permalink: /resources
 *  **[The Model for Intelligence](https://files.catbox.moe/q511hd.pdf)**
 *  **[Your Brain on Porn](https://www.yourbrainonporn.com/research/)**
 *  **[Free Markets Work](https://docs.google.com/document/d/1DMJmApJ0ueMKn5viHJlLA2t4WyKF4T0P/edit#h)**
+*  **[The Equality Trust](https://equalitytrust.org.uk/)**
 
 </div>
 </div>
