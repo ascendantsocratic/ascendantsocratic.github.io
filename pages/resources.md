@@ -71,7 +71,7 @@ permalink: /resources
 *  [Matty's Index](https://drive.google.com/file/d/1h4dbFRlFGfLKwpQM51TL3pgnN77C_gLq/view)
 *  [Libertarian Fact Sheet](https://docs.google.com/document/d/1f4MupVrgz_YcsDXGOdTHyOBDVBEn_s_IVgqyrURvPX4/edit)
 *  [Right Wing Fact Sheet](https://docs.google.com/document/d/10i7GdDU_TFMybmxokyXdMjvhJTqC4Tk-TM3pUGhoPdI/edit)
-*  **[Left-Libertarian Mega Document](https://docs.google.com/document/d/1baYefN-5_dVLsAh4mBrKYKImdRD5mNloM4VtHx71NzU/edit)**
+*  [Left-Libertarian Mega Document](https://docs.google.com/document/d/1baYefN-5_dVLsAh4mBrKYKImdRD5mNloM4VtHx71NzU/edit)
 *  **[Leaving the Cathedral](https://temora.neocities.org/b/TALAU3.pdf)**
 *  **[Research Document](https://docs.google.com/document/d/1PKDABLjgkWS8e4ShiIcCF8I0P7spKSUet9LnKdpPQWA/edit#)**
 *  **[Right Wing Culture Sheet](https://docs.google.com/document/d/17xxkugV38ZjTWLTbZZGt2wy2d0Sp4tl4F9vwGNhiLYI/edit#)**
