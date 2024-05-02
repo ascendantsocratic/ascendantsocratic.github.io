@@ -210,11 +210,7 @@ permalink: /resources
 ### Miscellaneous
 
 *  **[Death penalty](https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit)**
-*  **[hbomberguy - Vaccines: A Measured Response - A Measured Response](https://docs.google.com/document/d/1r-r53gIyjrtUaRIohFypLvECXbgBd_ibwhwGqTIRSNc/edit)**
 *  **[Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax)**
-*  **[Abortion Debates Doc](https://docs.google.com/document/d/1RU22f-emlRGp67E6tikkGeVuqVbpU1EHVR8zqxRUWt0/edit)**
-*  **[Apologetic Document](https://files.catbox.moe/d8u6xm.pdf)**
-*  **[STANDING UP FOR THE BIBLE BEFORE IT'S TOO LATE](https://defendinginerrancy.com/)**
 *  **[extra studies on poverty and crime](https://docs.google.com/document/d/1R4X4S6A1n1Qu2TfRF2H28ZBQWN0JfVtAn_l6lsTXj_c/edit)**
 *  **[The Model for Intelligence](https://files.catbox.moe/q511hd.pdf)**
 *  **[Twin Studies](https://files.catbox.moe/vflrn8.pdf)**
