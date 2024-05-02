@@ -103,27 +103,20 @@ permalink: /resources
         
 ### Racial Issues
 
+*  [What does identitarian deference require?](https://mattbruenig.com/2013/02/26/what-does-identitarian-deference-require/)
 *  **[G theory plus random psychometric data](https://docs.google.com/document/d/1XkABIGw9JpKIKkDoH1siZBDOnZoY-ApF7eWoHubx7eg/edit#)**
 *  **[Systemic Racism DEBUNKED](https://files.catbox.moe/153y9e.pdf)**
 *  **[HBD](http://www.humanbiologicaldiversity.com/)**
 *  **[BLM is Wrong in 5 STEPS - For Public](https://docs.google.com/document/d/1ylDnGSk1kery15S1vKc3ydxYcvApy02JZ9mufWR88nc/edit)**
 *  **[4 Steps (100s of sources) Showing How Criminal Justice System's Racial Bias Is Non-Existent or Negligible ](https://docs.google.com/document/d/1I2CiV8fGWVMFgt2enjysCmdOBhAxfb-ZgvcDXGFn9KE/edit)**
 *  **[The Negative Impact of Racial and Ethnic Diversity Upon Societies and Individuals](https://files.catbox.moe/wk6sws.pdf)**
-*  **[OpenPsych pseudojournals](https://rationalwiki.org/wiki/OpenPsych_pseudojournals)**
 *  **[Race and intelligence](https://en.m.wikipedia.org/wiki/Race_and_intelligence)**
-*  **[Alternative Hypothesis/ Ryan Faulk distorts South Africa under Apartheid](https://www.reddit.com/r/badhistory/comments/iw0sbq/alternative_hypothesis_ryan_faulk_distorts_south/)**
-*  **[Why People of Color Need Spaces Without White People (Look at Sources)](https://arrow-journal.org/why-people-of-color-need-spaces-without-white-people/)**
 *  **[Debunking Myths About Race, Human Evolution and Intelligence](https://docs.google.com/document/d/1-ZJhkME8qqfm7GVLLk8tGwWNriWCl8UTRMlcCuNW-_Q/edit#)**
 *  **[Black Economic Progress After Slavery](https://cremieux.substack.com/p/black-economic-progress-after-slavery)**
 *  **[Slavery and Modern Black Poverty](https://ideasanddata.wordpress.com/2019/06/11/slavery-and-modern-black-poverty/)**
 *  **[On Generational Poverty Poverty Is Not Caused by Poor Parents](https://seanlast.substack.com/p/on-generational-poverty)**
 *  **[Racial Diversity: Strength or Weakness?](https://seanlast.substack.com/p/racial-diversity-strength-or-weakness)**
-*  **[Decoding Admixture Results](https://humanvarieties.org/2023/03/06/decoding-admixture-results/)**
-*  **[Genetic Admixture Studies](https://rentry.co/admixture)**
-*  **[A Tale of Two Political Narratives About Racial Inequality](http://www.thepipettepen.com/a-tale-of-two-political-narratives-about-racial-inequality/)**
-*  **[Assortative mating](https://en.wikipedia.org/wiki/Assortative_mating)**
 *  **[Kevin Bird Bibliography](https://docs.google.com/document/d/1DGRlPl0kiS2gJOuNIWZH7EhV_5ipRHscn1W3hclCdPc/edit)**
-*  **[What does identitarian deference require?](https://mattbruenig.com/2013/02/26/what-does-identitarian-deference-require/)**
 *  **[Foundation For Black Communities](https://www.forblackcommunities.org/)**
 *  **[The Stanford Open Policing Project 2019 - How They Likely Misled the Public](https://docs.google.com/document/d/1O1X58wnmjifVygG1CNfPiL9Ra8l_Y3wGnU58Hxb58jo/edit)**
 *  **[Responding to the "Resources against BLM skepticism" Document](https://docs.google.com/document/d/1b2Y-kW9vReS_X-cEA4pniSANePyFJiW2qSpyjlYO5m8/edit#)**
