@@ -109,9 +109,6 @@ permalink: /resources
 *  **[BLM is Wrong in 5 STEPS - For Public](https://docs.google.com/document/d/1ylDnGSk1kery15S1vKc3ydxYcvApy02JZ9mufWR88nc/edit)**
 *  **[4 Steps (100s of sources) Showing How Criminal Justice System's Racial Bias Is Non-Existent or Negligible ](https://docs.google.com/document/d/1I2CiV8fGWVMFgt2enjysCmdOBhAxfb-ZgvcDXGFn9KE/edit)**
 *  **[The Negative Impact of Racial and Ethnic Diversity Upon Societies and Individuals](https://files.catbox.moe/wk6sws.pdf)**
-*  **[Hybrid (biology)](https://en.wikipedia.org/wiki/Hybrid_(biology))**
-*  **[Sickle-cell disease](https://archive.ph/FhiAE#selection-8.0-10.0)**
-*  **[Outbreeding depression](https://archive.ph/K1JMQ)**
 *  **[OpenPsych pseudojournals](https://rationalwiki.org/wiki/OpenPsych_pseudojournals)**
 *  **[Race and intelligence](https://en.m.wikipedia.org/wiki/Race_and_intelligence)**
 *  **[Alternative Hypothesis/ Ryan Faulk distorts South Africa under Apartheid](https://www.reddit.com/r/badhistory/comments/iw0sbq/alternative_hypothesis_ryan_faulk_distorts_south/)**
