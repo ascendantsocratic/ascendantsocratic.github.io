@@ -232,7 +232,6 @@ permalink: /resources
 *  **[Democratic peace theory](https://en.wikipedia.org/wiki/Democratic_peace_theory)**
 *  **[Evictionism: The Libertarian Answer to Abortion](https://docs.google.com/document/d/19UhmPOIdX9dVOBnsmMsBDed0mDZO3-LzDyIl4vd8NlU/edit)**
 *  **[Home invasion](https://en.wikipedia.org/wiki/Home_invasion#:~:text=A%20hot%20prowl%20burglary%2C%20cat,while%20the%20occupants%20are%20inside)**
-*  **[Prolife arguments and sources](https://docs.google.com/document/d/1-TpmwK9-8Gm6tkcwjsNbH9CpAdPXakcMdQ-2i0LjPWs/edit)**
 *  **[Stereotype Accuracy and Debunking Lee Jussim](https://docs.google.com/document/d/1AQvATilESV7C6cZN4dQhSswZKSTN0lVGOJRlJ25RbFY/edit#)**
 *  **[Public Policy and Homelessness: The Case of Calgary](https://www.homelesshub.ca/blog/public-policy-and-homelessness-case-calgary)**
 *  **[Homelessness Research Document](https://docs.google.com/document/d/1_ft6xZNTbpND_ktyW-9vW3zQIUI23WaWt64jH3qCmcE/edit#heading=h.1zkuqrtq9wwh)**
