@@ -227,7 +227,6 @@ permalink: /resources
 *  **[Vegays btfo](https://files.catbox.moe/d5wpuc.pdf)**
 *  **[Archive content](https://files.catbox.moe/qghrlg.pdf)**
 *  **[Archive content](https://files.catbox.moe/a2iw1f.pdf)**
-*  **[Random Pastebin Links](https://docs.google.com/document/d/1EBRmFmxib5mqBMN-vq08b5NqeuwtZikrt2sbcmwIMkQ/edit)**
 *  **[misc collection](https://files.catbox.moe/0xqieq.pdf)**
 *  **[Democratic peace theory](https://en.wikipedia.org/wiki/Democratic_peace_theory)**
 *  **[Home invasion](https://en.wikipedia.org/wiki/Home_invasion#:~:text=A%20hot%20prowl%20burglary%2C%20cat,while%20the%20occupants%20are%20inside)**
