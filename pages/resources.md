@@ -217,8 +217,6 @@ permalink: /resources
 *  **[Archive content](https://files.catbox.moe/qghrlg.pdf)**
 *  **[Archive content](https://files.catbox.moe/a2iw1f.pdf)**
 *  **[misc collection](https://files.catbox.moe/0xqieq.pdf)**
-*  **[Public Policy and Homelessness: The Case of Calgary](https://www.homelesshub.ca/blog/public-policy-and-homelessness-case-calgary)**
-*  **[Homelessness Research Document](https://docs.google.com/document/d/1_ft6xZNTbpND_ktyW-9vW3zQIUI23WaWt64jH3qCmcE/edit#heading=h.1zkuqrtq9wwh)**
 *  **[Replicability Index](https://replicationindex.com/)**
 
 ### To Look at Later
