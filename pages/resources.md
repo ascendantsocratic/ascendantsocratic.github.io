@@ -124,18 +124,10 @@ permalink: /resources
 *  **[The Scully Effect](https://en.wikipedia.org/wiki/Dana_Scully#%22The_Scully_Effect%22)**
 *  **[Homosexinfo](http://www.homosexinfo.org/)**
 *  **[Facts That Are Gay](https://files.catbox.moe/w67ifz.pdf)**
-*  **[Male expendability](https://en.wikipedia.org/wiki/Male_expendability)**
-*  **[Hegemonic masculinity](https://en.wikipedia.org/wiki/Hegemonic_masculinity)**
-*  **[Gender Identity Development Service Evidence](https://gids.nhs.uk/professionals/evidence-base/)**
 *  **[The trouble with feminism](https://necpluribusimpar.net/the-trouble-with-feminism/)**
-*  **[The War Against White Women: How Feminism & Diversity are Harming Them](https://counter-currents.com/2018/09/the-war-against-white-women/)**
-*  **[Bechdel test](https://en.wikipedia.org/wiki/Bechdel_test)**
-*  **[Detransition](https://en.wikipedia.org/wiki/Detransition)**
 *  **[Gender Health Query](https://www.genderhq.org/trans-youth-regret-rates-long-term-mental-health)**
-*  **[Detransition Facts and Statistics 2022: Exploding the Myths Around Detransitioning](https://www.gendergp.com/detransition-facts/)**
 *  **[Debunked: The Transgender 'Brain Sex' Argument](https://buttonslives.substack.com/p/debunked-the-transgender-brain-sex)**
 *  **[Gender-equality paradox](https://en.wikipedia.org/wiki/Gender-equality_paradox)**
-*  **[Gender Resource Guide](https://genderresourceguide.com/)**
 
 </div>
 </div>
@@ -146,15 +138,12 @@ permalink: /resources
 ### Racial Issues
 
 *  **[Economic](https://files.catbox.moe/cxwv4l.pdf)**
-*  **[Islamic Terrorism and Shariah Law](https://docs.google.com/document/d/1upVrFd20fu2g20uoIiRkAB3ciJORo8FGBK5g8F2ggDE/edit#)**
-*  **[Muslims](https://files.catbox.moe/qp9bfe.pdf)**
 *  **[I.Q and Human Intelligence](https://human-intelligence.org/)**
 *  **[G theory plus random psychometric data](https://docs.google.com/document/d/1XkABIGw9JpKIKkDoH1siZBDOnZoY-ApF7eWoHubx7eg/edit#)**
 *  **[Systemic Racism DEBUNKED](https://files.catbox.moe/153y9e.pdf)**
 *  **[Race science infographics archive [biology, genetics, anthropology, etc]](https://thuletide.wordpress.com/2021/08/21/race-science-infographics-archive-biology-genetics-anthropology-etc/)**
 *  **[100 Facts about Whites and Blacks (but one lie) REVISITED](https://files.catbox.moe/st3yff.pdf)**
 *  **[10 Studies Indicating No Police Racial Bias + Counterpoint Studies](https://docs.google.com/document/d/1kVlyqqLFT3mFlCc5pNM6iiqBcGLhX2r1V52VFm_ZGZE/edit)**
-*  **[Confronting Anti-Black Racism](https://library.harvard.edu/confronting-anti-black-racism)**
 *  **[Response to Vaporwave's Racism Document](https://docs.google.com/document/d/1kClKcuD-KxmPXhkQ5h-s3WO-4jMYKGg_WR8EYSyLp_4/edit#heading=h.10almic3b6ew)**
 *  **[A response to "How Heritability Misleads About Race"](https://docs.google.com/document/d/1xUvRX6Fcs7rsbUpWg0t6lxmPEe1vWypCRf4bkYLrJ9g/edit)**
 *  **[A response to "Race Realism"](https://docs.google.com/document/d/1xRBAJ4QcpbOhnZL9Q1xf5K8DU55KykAboxbd05EtfE0/edit#heading=h.odl0q8nsfp6)**
@@ -162,11 +151,7 @@ permalink: /resources
 *  **[Responses Race](https://drive.google.com/file/d/1Sgrj4tB-lYf7o2D94uljYMkod3JF7-cN/view)**
 *  **[A Response To The RationalWiki Page Regarding "Racialism"](https://docs.google.com/document/d/1TakeFDrUhy8Sg8LWaUuN82oIVRy8vecW4FSdgzPYoI4/edit#)**
 *  **[A Response to "Thorough refutation of race realism"](https://docs.google.com/document/d/1r6qzxYl62sud3oqCzkl9Mrqkzf7lYZ-XQi5vk3xUC1s/edit)**
-*  **[Whiteness studies](https://en.wikipedia.org/wiki/Whiteness_studies)**
-*  **[Human Phenotypes](http://www.humanphenotypes.net/)**
 *  **[HBD](http://www.humanbiologicaldiversity.com/)**
-*  **[HBD Fact Sheet v0.1](https://archive.ph/uzjXL)**
-*  **[HBD collection](https://files.catbox.moe/fcrps0.pdf)**
 *  **[PROSECUTION CHANNEL -- OFFICIAL RESEARCH DOCUMENT](https://files.catbox.moe/7esmlv.pdf)**
 *  **[Reddit Posts](https://files.catbox.moe/wcb135.pdf)**
 *  **[BLM is Wrong in 5 STEPS - For Public](https://docs.google.com/document/d/1ylDnGSk1kery15S1vKc3ydxYcvApy02JZ9mufWR88nc/edit)**
@@ -177,7 +162,6 @@ permalink: /resources
 *  **[Outbreeding depression](https://archive.ph/K1JMQ)**
 *  **[OpenPsych pseudojournals](https://rationalwiki.org/wiki/OpenPsych_pseudojournals)**
 *  **[Race and intelligence](https://en.m.wikipedia.org/wiki/Race_and_intelligence)**
-*  **[Interracial marriage in the United States](https://en.m.wikipedia.org/wiki/Interracial_marriage_in_the_United_States)**
 *  **[Alternative Hypothesis/ Ryan Faulk distorts South Africa under Apartheid](https://www.reddit.com/r/badhistory/comments/iw0sbq/alternative_hypothesis_ryan_faulk_distorts_south/)**
 *  **[Why People of Color Need Spaces Without White People (Look at Sources)](https://arrow-journal.org/why-people-of-color-need-spaces-without-white-people/)**
 *  **[Debunking Myths About Race, Human Evolution and Intelligence](https://docs.google.com/document/d/1-ZJhkME8qqfm7GVLLk8tGwWNriWCl8UTRMlcCuNW-_Q/edit#)**
