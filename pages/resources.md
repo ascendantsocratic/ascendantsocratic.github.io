@@ -105,13 +105,7 @@ permalink: /resources
 
 *  **[G theory plus random psychometric data](https://docs.google.com/document/d/1XkABIGw9JpKIKkDoH1siZBDOnZoY-ApF7eWoHubx7eg/edit#)**
 *  **[Systemic Racism DEBUNKED](https://files.catbox.moe/153y9e.pdf)**
-*  **[100 Facts about Whites and Blacks (but one lie) REVISITED](https://files.catbox.moe/st3yff.pdf)**
-*  **[Responses Race](https://drive.google.com/file/d/1Sgrj4tB-lYf7o2D94uljYMkod3JF7-cN/view)**
-*  **[A Response To The RationalWiki Page Regarding "Racialism"](https://docs.google.com/document/d/1TakeFDrUhy8Sg8LWaUuN82oIVRy8vecW4FSdgzPYoI4/edit#)**
-*  **[A Response to "Thorough refutation of race realism"](https://docs.google.com/document/d/1r6qzxYl62sud3oqCzkl9Mrqkzf7lYZ-XQi5vk3xUC1s/edit)**
 *  **[HBD](http://www.humanbiologicaldiversity.com/)**
-*  **[PROSECUTION CHANNEL -- OFFICIAL RESEARCH DOCUMENT](https://files.catbox.moe/7esmlv.pdf)**
-*  **[Reddit Posts](https://files.catbox.moe/wcb135.pdf)**
 *  **[BLM is Wrong in 5 STEPS - For Public](https://docs.google.com/document/d/1ylDnGSk1kery15S1vKc3ydxYcvApy02JZ9mufWR88nc/edit)**
 *  **[4 Steps (100s of sources) Showing How Criminal Justice System's Racial Bias Is Non-Existent or Negligible ](https://docs.google.com/document/d/1I2CiV8fGWVMFgt2enjysCmdOBhAxfb-ZgvcDXGFn9KE/edit)**
 *  **[The Negative Impact of Racial and Ethnic Diversity Upon Societies and Individuals](https://files.catbox.moe/wk6sws.pdf)**
