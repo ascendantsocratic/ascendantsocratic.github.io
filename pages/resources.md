@@ -209,10 +209,7 @@ permalink: /resources
 
 ### Miscellaneous
 
-*  **[Death penalty](https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit)**
 *  **[Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax)**
-*  **[extra studies on poverty and crime](https://docs.google.com/document/d/1R4X4S6A1n1Qu2TfRF2H28ZBQWN0JfVtAn_l6lsTXj_c/edit)**
-*  **[The Model for Intelligence](https://files.catbox.moe/q511hd.pdf)**
 *  **[Twin Studies](https://files.catbox.moe/vflrn8.pdf)**
 *  **[Your Brain on Porn](https://www.yourbrainonporn.com/research/)**
 *  **[Population Problems](https://docs.google.com/document/d/1P5E7KXffXhi_nqMJETLjtoVfYdVHr-pVrYWzVg36ykk/edit)**
@@ -230,6 +227,11 @@ permalink: /resources
 *  **[Public Policy and Homelessness: The Case of Calgary](https://www.homelesshub.ca/blog/public-policy-and-homelessness-case-calgary)**
 *  **[Homelessness Research Document](https://docs.google.com/document/d/1_ft6xZNTbpND_ktyW-9vW3zQIUI23WaWt64jH3qCmcE/edit#heading=h.1zkuqrtq9wwh)**
 *  **[Replicability Index](https://replicationindex.com/)**
+
+### To Look at Later
+
+*  **[Death penalty](https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit)**
+*  **[The Model for Intelligence](https://files.catbox.moe/q511hd.pdf)**
 
 </div>
 </div>
