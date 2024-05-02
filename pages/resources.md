@@ -217,7 +217,6 @@ permalink: /resources
 *  **[Archive content](https://files.catbox.moe/qghrlg.pdf)**
 *  **[Archive content](https://files.catbox.moe/a2iw1f.pdf)**
 *  **[misc collection](https://files.catbox.moe/0xqieq.pdf)**
-*  **[Replicability Index](https://replicationindex.com/)**
 
 ### To Look at Later
 
