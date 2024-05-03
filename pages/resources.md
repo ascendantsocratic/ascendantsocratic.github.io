@@ -21,8 +21,7 @@ permalink: /resources
 *   [Ideas and Data Wordpress](https://ideasanddata.wordpress.com/)
 *   **[Ideas Sleep Furiously](https://ideassleepfuriously.substack.com/)**
 *   **[Idek Blog](https://medium.com/@Idek)**
-*   **[Infrared](https://substack.com/@infrared)**
-*   **[Inverse Florida](https://inverseflorida.substack.com/)**
+*   [Inverse Florida](https://inverseflorida.substack.com/)
 *   **[Jayman's Blog](https://jaymans.wordpress.com/)**
 *   **[Joseph Bronski](https://substack.com/@josephbronski)**
 *   **[Just Emil Kirkegaard Things](https://kirkegaard.substack.com/)**
