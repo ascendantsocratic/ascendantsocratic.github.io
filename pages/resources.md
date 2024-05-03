@@ -67,10 +67,6 @@ permalink: /resources
 *  [Research Document](https://docs.google.com/document/d/1PKDABLjgkWS8e4ShiIcCF8I0P7spKSUet9LnKdpPQWA/edit#)
 *  [Leaving the Cathedral](https://temora.neocities.org/b/TALAU3.pdf)
 
-### Gender Issues
-
-*  **[The trouble with feminism](https://necpluribusimpar.net/the-trouble-with-feminism/)**
-
 </div>
 </div>
     
