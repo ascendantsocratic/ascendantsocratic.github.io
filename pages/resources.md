@@ -13,7 +13,7 @@ permalink: /resources
 *   **[Alternative Hypothesis Website](https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/)**
 *   [Aporia Magazine](https://ideassleepfuriously.substack.com/)
 *   [Blithering Genius: Expanding Rationality](https://expandingrationality.substack.com/)
-*   **[Cremieux Recueil](https://www.cremieux.xyz/)**
+*   [Cremieux Recueil](https://www.cremieux.xyz/)
 *   [Emil Kirkegaard](https://front.emilkirkegaard.dk/)
 *   [Five Fifths Blog](https://fivefifthsblog.substack.com/)
 *   [Gnew's Corner](https://gnew.substack.com/archive)
