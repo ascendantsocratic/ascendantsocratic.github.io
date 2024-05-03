@@ -35,7 +35,7 @@ permalink: /resources
 *   [The Wayward Axolotl](https://thewaywardaxolotl.blogspot.com/)
 *   [Ubersoy](https://ubersoy.substack.com/)
 *   [Werkat: Half-Baked Thoughts](https://werkat.substack.com/)
-*   **[Zero Contradictions](https://zerocontradictions.net/)**
+*   [Zero Contradictions](https://zerocontradictions.net/)
 
 ### Economics
 
@@ -65,7 +65,7 @@ permalink: /resources
 *  [Right Wing Fact Sheet](https://docs.google.com/document/d/10i7GdDU_TFMybmxokyXdMjvhJTqC4Tk-TM3pUGhoPdI/edit)
 *  [Left-Libertarian Mega Document](https://docs.google.com/document/d/1baYefN-5_dVLsAh4mBrKYKImdRD5mNloM4VtHx71NzU/edit)
 *  [Research Document](https://docs.google.com/document/d/1PKDABLjgkWS8e4ShiIcCF8I0P7spKSUet9LnKdpPQWA/edit#)
-*  **[Leaving the Cathedral](https://temora.neocities.org/b/TALAU3.pdf)**
+*  [Leaving the Cathedral](https://temora.neocities.org/b/TALAU3.pdf)
 
 ### Gender Issues
 
