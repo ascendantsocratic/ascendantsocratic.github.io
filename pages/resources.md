@@ -22,8 +22,7 @@ permalink: /resources
 *   **[Ideas Sleep Furiously](https://ideassleepfuriously.substack.com/)**
 *   **[Idek Blog](https://medium.com/@Idek)**
 *   [Inverse Florida](https://inverseflorida.substack.com/)
-*   **[Jayman's Blog](https://jaymans.wordpress.com/)**
-*   **[Joseph Bronski](https://substack.com/@josephbronski)**
+*   [Joseph Bronski](https://substack.com/@josephbronski)
 *   **[Just Emil Kirkegaard Things](https://kirkegaard.substack.com/)**
 *   **[La Griffe du Lion](http://www.lagriffedulion.f2s.com/index.html)**
 *   [Noah's Newsletter](https://noahcarl.substack.com/archive?sort=new)
