@@ -27,7 +27,7 @@ permalink: /resources
 *   [La Griffe du Lion](http://www.lagriffedulion.f2s.com/index.html)
 *   [Noah's Newsletter](https://noahcarl.substack.com/archive?sort=new)
 *   [Noahpinion](https://www.noahpinion.blog/archive)
-*   **[Random Critical Analysis](https://randomcriticalanalysis.com/)**
+*   [Random Critical Analysis](https://randomcriticalanalysis.com/)
 *   **[Reason Without Restraint](https://reasonwithoutrestraint.com/)**
 *   **[Rose's Garden](https://rosewrist.substack.com/)**
 *   **[Russell T. Warne](https://russellwarne.com/)**
