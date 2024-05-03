@@ -79,18 +79,6 @@ permalink: /resources
 *  [HBD](http://www.humanbiologicaldiversity.com/)
 *  [4 Steps (100s of sources) Showing How Criminal Justice System's Racial Bias Is Non-Existent or Negligible ](https://docs.google.com/document/d/1I2CiV8fGWVMFgt2enjysCmdOBhAxfb-ZgvcDXGFn9KE/edit)
 
-### Climatology
-
-*  [Global Warming & Climate Change Myths](https://skepticalscience.com/argument.php)
-*  **[CO2 Coalition](https://co2coalition.org/facts/)**
-*  **[Real Climate Science](https://realclimatescience.com/)**
-*  **[Problems with Solar Power](https://docs.google.com/document/d/1gTwu4bI13ewq6wHYSBhvwfRptf6NL8u-03vFEnrKscA/edit)**
-*  **[Global Warming AKA Climate Change](https://docs.google.com/document/d/1vHU2hHXebxpvExT7srNNnX-VM7Qn9Ak_ZmdKCIcUti8/edit)**
-*  **[Master Resource](https://www.masterresource.org/)**
-*  **[Climate change mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation)**
-*  **[Climate change adaptation](https://en.wikipedia.org/wiki/Climate_change_adaptation)**
-*  **[Politics of climate change](https://en.wikipedia.org/wiki/Politics_of_climate_change)**
-
 ### To Look at Later
 
 *  **[Death penalty](https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit)**
@@ -98,6 +86,9 @@ permalink: /resources
 *  **[Your Brain on Porn](https://www.yourbrainonporn.com/research/)**
 *  **[Free Markets Work](https://docs.google.com/document/d/1DMJmApJ0ueMKn5viHJlLA2t4WyKF4T0P/edit#h)**
 *  **[The Equality Trust](https://equalitytrust.org.uk/)**
+*  **[Climate change mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation)**
+*  **[Climate change adaptation](https://en.wikipedia.org/wiki/Climate_change_adaptation)**
+*  **[Politics of climate change](https://en.wikipedia.org/wiki/Politics_of_climate_change)**
 
 </div>
 </div>
