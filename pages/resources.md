@@ -70,9 +70,6 @@ permalink: /resources
 ### Gender Issues
 
 *  **[The trouble with feminism](https://necpluribusimpar.net/the-trouble-with-feminism/)**
-*  **[Gender Health Query](https://www.genderhq.org/trans-youth-regret-rates-long-term-mental-health)**
-*  **[Debunked: The Transgender 'Brain Sex' Argument](https://buttonslives.substack.com/p/debunked-the-transgender-brain-sex)**
-*  **[Gender-equality paradox](https://en.wikipedia.org/wiki/Gender-equality_paradox)**
 
 </div>
 </div>
