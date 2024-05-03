@@ -30,7 +30,6 @@ permalink: /resources
 *   [Random Critical Analysis](https://randomcriticalanalysis.com/)
 *   [Reason Without Restraint](https://reasonwithoutrestraint.com/)
 *   [Rose's Garden](https://rosewrist.substack.com/)
-*   **[Russell T. Warne](https://russellwarne.com/)**
 *   **[Singal-Minded](https://jessesingal.substack.com/?utm_source=homepage_recommendations&utm_campaign=1111741)**
 *   [The Science of Social Problems](https://scienceofsocialproblems.com/blog/)
 *   **[The Wayward Axolotl](https://thewaywardaxolotl.blogspot.com/)**
