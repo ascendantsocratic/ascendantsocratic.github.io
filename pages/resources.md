@@ -20,7 +20,7 @@ permalink: /resources
 *   [Human Varieties](https://humanvarieties.org/)
 *   **[Ideas and Data Substack](https://seanlast.substack.com/archive)**
 *   [Ideas and Data Wordpress](https://ideasanddata.wordpress.com/)
-*   **[Idek Blog](https://medium.com/@Idek)**
+*   [Idek Blog](https://medium.com/@Idek)
 *   [Inverse Florida](https://inverseflorida.substack.com/)
 *   [Joseph Bronski](https://substack.com/@josephbronski)
 *   **[Just Emil Kirkegaard Things](https://kirkegaard.substack.com/)**
