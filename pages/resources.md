@@ -76,10 +76,8 @@ permalink: /resources
 ### Racial Issues
 
 *  [What does identitarian deference require?](https://mattbruenig.com/2013/02/26/what-does-identitarian-deference-require/)
-*  **[HBD](http://www.humanbiologicaldiversity.com/)**
-*  **[BLM is Wrong in 5 STEPS - For Public](https://docs.google.com/document/d/1ylDnGSk1kery15S1vKc3ydxYcvApy02JZ9mufWR88nc/edit)**
-*  **[4 Steps (100s of sources) Showing How Criminal Justice System's Racial Bias Is Non-Existent or Negligible ](https://docs.google.com/document/d/1I2CiV8fGWVMFgt2enjysCmdOBhAxfb-ZgvcDXGFn9KE/edit)**
-*  **[Slavery and Modern Black Poverty](https://ideasanddata.wordpress.com/2019/06/11/slavery-and-modern-black-poverty/)**
+*  [HBD](http://www.humanbiologicaldiversity.com/)
+*  [4 Steps (100s of sources) Showing How Criminal Justice System's Racial Bias Is Non-Existent or Negligible ](https://docs.google.com/document/d/1I2CiV8fGWVMFgt2enjysCmdOBhAxfb-ZgvcDXGFn9KE/edit)
 
 ### Climatology
 
