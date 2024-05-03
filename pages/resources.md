@@ -23,7 +23,7 @@ permalink: /resources
 *   [Idek Blog](https://medium.com/@Idek)
 *   [Inverse Florida](https://inverseflorida.substack.com/)
 *   [Joseph Bronski](https://substack.com/@josephbronski)
-*   **[Just Emil Kirkegaard Things](https://kirkegaard.substack.com/)**
+*   [Just Emil Kirkegaard Things](https://kirkegaard.substack.com/)
 *   [La Griffe du Lion](http://www.lagriffedulion.f2s.com/index.html)
 *   [Noah's Newsletter](https://noahcarl.substack.com/archive?sort=new)
 *   [Noahpinion](https://www.noahpinion.blog/archive)
