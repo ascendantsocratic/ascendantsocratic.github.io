@@ -37,10 +37,6 @@ permalink: /resources
 *   [Werkat: Half-Baked Thoughts](https://werkat.substack.com/)
 *   [Zero Contradictions](https://zerocontradictions.net/)
 
-### Economics
-
-*  [A Summary of Austrian Refutations of Marx's Labor Theory of Value](https://docs.google.com/document/d/1lzzBPSfpoa3_R_sP0iVkpZnINUMBZUWV_wzy_LKIBso/edit)
-
 </div>
 </div>
     
@@ -72,7 +68,11 @@ permalink: /resources
     
 <div id="right-column">
 <div markdown="1"> 
-        
+
+### Economics
+
+*  [A Summary of Austrian Refutations of Marx's Labor Theory of Value](https://docs.google.com/document/d/1lzzBPSfpoa3_R_sP0iVkpZnINUMBZUWV_wzy_LKIBso/edit)
+
 ### Racial Issues
 
 *  [What does identitarian deference require?](https://mattbruenig.com/2013/02/26/what-does-identitarian-deference-require/)
