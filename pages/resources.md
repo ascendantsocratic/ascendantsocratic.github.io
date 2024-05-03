@@ -32,8 +32,8 @@ permalink: /resources
 *   [Rose's Garden](https://rosewrist.substack.com/)
 *   [Singal-Minded](https://jessesingal.substack.com/?utm_source=homepage_recommendations&utm_campaign=1111741)
 *   [The Science of Social Problems](https://scienceofsocialproblems.com/blog/)
-*   **[The Wayward Axolotl](https://thewaywardaxolotl.blogspot.com/)**
-*   **[Ubersoy](https://ubersoy.substack.com/)**
+*   [The Wayward Axolotl](https://thewaywardaxolotl.blogspot.com/)
+*   [Ubersoy](https://ubersoy.substack.com/)
 *   [Werkat: Half-Baked Thoughts](https://werkat.substack.com/)
 *   **[Zero Contradictions](https://zerocontradictions.net/)**
 
