@@ -18,7 +18,7 @@ permalink: /resources
 *   [Five Fifths Blog](https://fivefifthsblog.substack.com/)
 *   [Gnew's Corner](https://gnew.substack.com/archive)
 *   [Human Varieties](https://humanvarieties.org/)
-*   **[Ideas and Data Substack](https://seanlast.substack.com/archive)**
+*   [Ideas and Data Substack](https://seanlast.substack.com/archive)
 *   [Ideas and Data Wordpress](https://ideasanddata.wordpress.com/)
 *   [Idek Blog](https://medium.com/@Idek)
 *   [Inverse Florida](https://inverseflorida.substack.com/)
