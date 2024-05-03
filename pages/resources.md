@@ -16,7 +16,7 @@ permalink: /resources
 *   [Emil Kirkegaard](https://front.emilkirkegaard.dk/)
 *   [Five Fifths Blog](https://fivefifthsblog.substack.com/)
 *   [Gnew's Corner](https://gnew.substack.com/archive)
-*   **[Human Varieties](https://humanvarieties.org/)**
+*   [Human Varieties](https://humanvarieties.org/)
 *   **[Ideas and Data Substack](https://seanlast.substack.com/archive)**
 *   [Ideas and Data Wordpress](https://ideasanddata.wordpress.com/)
 *   **[Ideas Sleep Furiously](https://ideassleepfuriously.substack.com/)**
