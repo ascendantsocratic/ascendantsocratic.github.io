@@ -15,7 +15,7 @@ permalink: /resources
 *   **[Cremieux Recueil](https://www.cremieux.xyz/)**
 *   [Emil Kirkegaard](https://front.emilkirkegaard.dk/)
 *   [Five Fifths Blog](https://fivefifthsblog.substack.com/)
-*   **[Gnew's Corner](https://gnew.substack.com/archive)**
+*   [Gnew's Corner](https://gnew.substack.com/archive)
 *   **[Human Varieties](https://humanvarieties.org/)**
 *   **[Ideas and Data Substack](https://seanlast.substack.com/archive)**
 *   [Ideas and Data Wordpress](https://ideasanddata.wordpress.com/)
