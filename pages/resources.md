@@ -69,7 +69,6 @@ permalink: /resources
 
 ### Gender Issues
 
-*  **[The Scully Effect](https://en.wikipedia.org/wiki/Dana_Scully#%22The_Scully_Effect%22)**
 *  **[Homosexinfo](http://www.homosexinfo.org/)**
 *  **[Facts That Are Gay](https://files.catbox.moe/w67ifz.pdf)**
 *  **[The trouble with feminism](https://necpluribusimpar.net/the-trouble-with-feminism/)**
