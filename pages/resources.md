@@ -69,8 +69,6 @@ permalink: /resources
 
 ### Gender Issues
 
-*  **[Homosexinfo](http://www.homosexinfo.org/)**
-*  **[Facts That Are Gay](https://files.catbox.moe/w67ifz.pdf)**
 *  **[The trouble with feminism](https://necpluribusimpar.net/the-trouble-with-feminism/)**
 *  **[Gender Health Query](https://www.genderhq.org/trans-youth-regret-rates-long-term-mental-health)**
 *  **[Debunked: The Transgender 'Brain Sex' Argument](https://buttonslives.substack.com/p/debunked-the-transgender-brain-sex)**
