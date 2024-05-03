@@ -28,7 +28,7 @@ permalink: /resources
 *   [Noah's Newsletter](https://noahcarl.substack.com/archive?sort=new)
 *   [Noahpinion](https://www.noahpinion.blog/archive)
 *   [Random Critical Analysis](https://randomcriticalanalysis.com/)
-*   **[Reason Without Restraint](https://reasonwithoutrestraint.com/)**
+*   [Reason Without Restraint](https://reasonwithoutrestraint.com/)
 *   **[Rose's Garden](https://rosewrist.substack.com/)**
 *   **[Russell T. Warne](https://russellwarne.com/)**
 *   **[Singal-Minded](https://jessesingal.substack.com/?utm_source=homepage_recommendations&utm_campaign=1111741)**
