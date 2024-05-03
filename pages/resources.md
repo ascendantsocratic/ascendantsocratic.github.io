@@ -11,6 +11,7 @@ permalink: /resources
 
 *   [Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)
 *   **[Alternative Hypothesis Website](https://web.archive.org/web/20220531093112/https://thealternativehypothesis.org/index.php/about-the-alternative-hypothesis/)**
+*   [Aporia Magazine](https://ideassleepfuriously.substack.com/)
 *   [Blithering Genius: Expanding Rationality](https://expandingrationality.substack.com/)
 *   **[Cremieux Recueil](https://www.cremieux.xyz/)**
 *   [Emil Kirkegaard](https://front.emilkirkegaard.dk/)
@@ -19,7 +20,6 @@ permalink: /resources
 *   [Human Varieties](https://humanvarieties.org/)
 *   **[Ideas and Data Substack](https://seanlast.substack.com/archive)**
 *   [Ideas and Data Wordpress](https://ideasanddata.wordpress.com/)
-*   **[Ideas Sleep Furiously](https://ideassleepfuriously.substack.com/)**
 *   **[Idek Blog](https://medium.com/@Idek)**
 *   [Inverse Florida](https://inverseflorida.substack.com/)
 *   [Joseph Bronski](https://substack.com/@josephbronski)
