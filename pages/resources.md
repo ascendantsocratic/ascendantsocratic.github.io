@@ -63,6 +63,20 @@ permalink: /resources
 *  [Research Document](https://docs.google.com/document/d/1PKDABLjgkWS8e4ShiIcCF8I0P7spKSUet9LnKdpPQWA/edit#)
 *  [Leaving the Cathedral](https://temora.neocities.org/b/TALAU3.pdf)
 
+### Coding
+
+* [Jekyll Quick Reference](https://gist.github.com/roachhd/779fa77e9b90fe945b0c)
+* [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+* [Stack Edit](https://stackedit.io/) (In-Browser Markdown Editor)
+**To Look Into**
+* [Microsoft Designer](https://designer.microsoft.com/)
+* [Brandmark](https://brandmark.io/)
+* [Bardeen](https://www.bardeen.ai/)
+* [Background Remover](https://www.remove.bg/)
+* [Tinywow](https://tinywow.com/)
+* [Axiom](https://axiom.ai/)
+* [AgentGPT](https://agentgpt.reworkd.ai/)
+
 </div>
 </div>
     
@@ -89,6 +103,14 @@ permalink: /resources
 *  **[Climate change mitigation](https://en.wikipedia.org/wiki/Climate_change_mitigation)**
 *  **[Climate change adaptation](https://en.wikipedia.org/wiki/Climate_change_adaptation)**
 *  **[Politics of climate change](https://en.wikipedia.org/wiki/Politics_of_climate_change)**
+
+### AI Tools
+
+*  [ChatGPT](https://chat.openai.com/) (For asking questions, summarizing, etc.)
+*  [Connected Papers](https://www.connectedpapers.com/) (For finding publications related to a given paper)
+*  [Consensus](https://consensus.app/) (For finding out the consensus in a field of literature)
+*  [Elicit](https://elicit.com/?workflow=table-of-papers) (For finding papers on a given topic)
+*  [Vondy](https://www.vondy.com/) (For making bots, automization)
 
 </div>
 </div>
