@@ -42,34 +42,6 @@ Some climatic variables have global thresholds which if crossed will have qualit
 
 ### Energy Transition
 
-**The effects of energy policies and environmental regulation on employment are unclear, but they appear to have small but positive effects on employment. Additionally, they decrease air polluting, which increases health and labor productivity.**
-
-[Employment effects of green energy policies](https://wol.iza.org/articles/employment-effects-of-green-energy-policies)
-
--   Examines employment effects of green energy policies
-
--   Finds that they have a small positive employment effect at best, although they decrease air pollution, improving health and labor productivity.
-
--   Subsidizing renewable energy through feed-in tariffs does increase energy costs and put industrial jobs at risk when labor and energy are complementary inputs in industrial production.
-
-[Impacts of regulation on eco-innovation and job creation](https://wol.iza.org/articles/impacts-of-regulation-on-eco-innovation-and-job-creation)
-
--   Finds small but positive effects of environmental regulation on employment, resulting from environmental product innovations and the introduction of cleaner technologies within firms.
-
-[Renewable energy creates more jobs than fossil fuels](https://skepticalscience.com/renewable-energy-investment-kills-jobs.htm)
-
--   While it is a complex comparison to make, it is most likely the case based on empirical evidence that renewable energy generates more jobs than fossil fuels.
-
-**Keep in mind that this is a net effect. As a transition occurs to more green energy policies and energy sources there are people in the fossil fuel industry who will become unemployed. These people's interests should be considered in any green energy policy through short-run retraining programs and long-run shifts in the educational system.**
-
-[Employment Implications of Green Growth: Linking jobs, growth, and green policies](https://www.oecd.org/environment/Employment-Implications-of-Green-Growth-OECD-Report-G7-Environment-Ministers.pdf)
-
--   Green energy policies, if well implemented, do not have to cause reductions in employment.
-
--   "Green policies can achieve job creation in a number of 'green' economic sectors and through a transition of the economy towards more labour-intensive services sectors, while job destruction especially occurs in 'brown' sectors whose activities get replaced by green sectors. The knock-on effects on employment in other sectors can also be significant."
-
--   "In the short run, training and skill development programs are important to allow workers to shift from declining to emerging sectors. In the long run, structural changes in the education system need to be addressed. It is important to bear in mind that labour market inefficiencies such as wage rigidities can prevent employment gains. This needs to be addressed through conventional labour market policies that enhance the adaptive capacity of the labour market."
-
--   Income support is also important
+**The effects of energy policies and environmental regulation on employment are unclear, but they appear to have small but positive effects on employment [(Pestel, 2019;](https://wol.iza.org/articles/employment-effects-of-green-energy-policies) [Horbach, 2020;](https://wol.iza.org/articles/impacts-of-regulation-on-eco-innovation-and-job-creation) [Cook, 2024)](https://skepticalscience.com/renewable-energy-investment-kills-jobs.htm). Additionally, they decrease air polluting, which increases health and labor productivity. Keep in mind that this is a net effect. As a transition occurs to more green energy policies and energy sources there are people in the fossil fuel industry who will become unemployed. These people's interests should be considered in any green energy policy through short-run retraining programs and long-run shifts in the educational system [(OECD, 2017)](https://www.oecd.org/environment/Employment-Implications-of-Green-Growth-OECD-Report-G7-Environment-Ministers.pdf). Income support is also important.
 
 </div>
