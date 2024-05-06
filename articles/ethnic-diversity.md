@@ -6,6 +6,15 @@ permalink: /articles/ethnic-diversity
 
 <div markdown="1">
 
+## Table of Contents
+- [Social Trust](#social-trust)
+- [Conflict](#conflict)
+- [Altruism](#altruism)
+- [Health and Poverty](#health-and-poverty)
+- [Economic Effects](#economic-effects)
+- [Schooling](#schooling)
+- [Ethnocentrism](#ethnocentrism)
+
 ## Social Trust
 
 The overall research suggests that ethnic diversity has negative effects on social trust, based on results from both meta-analytical and experimental data and also a literature review on the subject. However, this varies according to measure, and the evidence suggests the effect is strongest in the context of within-neighborhood interactions [(Glaeser et al., 2000;](https://scholar.harvard.edu/files/laibson/files/measuring_trust.pdf) [Van Der Meer & Tolsma, 2014;](https://bafybeia7okjmu2yyksgvggzdhfg342n2tmsau5tqh6wqksuak5ub3hhvxq.ipfs.cf-ipfs.com/Ethnic%20Diversity%20and%20Its%20Effects%20on%20Social%20Cohesion%20(van%20der%20Meer,%202014).pdf) [Dinesen et al., 2020)](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-052918-020708). Conversely, there is a positive relationship between co-ethnic concentration and trust in neighbors [(Wu et al., 2017)](https://journals.sagepub.com/doi/full/10.1177/0042098017708939). Interestingly, immigrants appear to also adopt levels of social trust consistent with those of native-born citizens, and this effect becomes stronger for second-generation immigrants [(Dinesen & Hooghe, 2010;](https://journals.sagepub.com/doi/pdf/10.1111/j.1747-7379.2010.00822.x?casa_token=PRVrKPvQdYgAAAAA:6mMETyqE3_ehhA9xQnBAXIDDIJ0uO-_2EibBAP5J1-moqwj1RF1OKtnypEZO-tsCkuJdfSimRSLv) [Helliwell et al., 2015)](https://link.springer.com/article/10.1007/s11205-015-1026-2). This suggests that ethnic diversity in general reduces social cohesion and immigrants also feel these effects. On an individual level, this effect certainly varies from person to person, as research has found that those who move into a diverse place experience no negative effects on social cohesion while those who are in a community which becomes more diverse do have negative social cohesion effects [(Laurence & Bentley, 2015)](https://archive.is/EyRQQ). This is likely due to selection bias of those moving being more likely to be sympathetic towards diverse communities. Ethnic diversity also erodes social capital [(Hotchkiss & Rupasingha, 2018)](https://www2.census.gov/ces/wp/2018/CES-WP-18-32.pdf), including the probability of volunteering, having a group membership, and the probability of entertaining [(Costa & Kahn, 2001)](https://www.nber.org/system/files/working_papers/w8295/w8295.pdf).
