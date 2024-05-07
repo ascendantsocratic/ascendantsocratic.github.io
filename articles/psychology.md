@@ -6,6 +6,8 @@ permalink: /articles/psychology
 
 <div markdown="1">
 
+*This page is essentially a dump for stuff about psychology which should be split into multiple sections or be reorganized.
+
 ## Autism
 
 Interesting factoids about autism:
@@ -64,8 +66,7 @@ Academic performance correlates significantly with agreeableness, conscientiousn
 
 ## Political Orientation
 
-<details markdown="1">
-  <summary>Ideology and Cognition</summary>
+### Ideology and Cognition
 
 Right-wingers tend to have lower openness and higher conscientiousness compared to left-wingers. There is also some evidence suggesting right-wingers also tend to have lower neuroticism and agreeableness, and higher extraversion [(Sibley et al., 2012;](https://www.sciencedirect.com/science/article/pii/S0092656612001158?via%3Dihub) [Phillips, 2021)](https://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1109&context=tdr). The correlation between personality traits and political orientation is a function of an innate common genetic factor, as opposed to being causal in one direction or another [(Verhulst et al., 2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3809096/#:~:text=The%20results%20suggest%20that%20personality,innate%20common%20underlying%20genetic%20factor). Conservatives and liberals also have equal levels of narcissism, although they differ in the ways in which narcissists of each orientation tend to express their narcissism, where conservatives are more entitled and liberals are more exhibitionistic [(Hatemi & Fazekas, 2018)](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12380).
 
@@ -75,10 +76,7 @@ Needs for security and certainty generally yield culturally conservative but eco
 
 The brains of right-wingers/conservatives tend to be more reactive to fear, aversive stimuli, sudden noises, and threatening visual images [(Oxley et al., 2008;](https://pubmed.ncbi.nlm.nih.gov/18801995/) [Kanai et al., 2011;](https://www.cell.com/current-biology/fulltext/S0960-9822(11)00289-2) [Dodd et al., 2012)](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2011.0268#aff-1).
 
-</details>
-
-<details markdown="1">
-  <summary>Ideology and Intelligence</summary>
+### Ideology and Intelligence
 
 Libertarians (economically right-wing, socially left-wing) tend to be the most intelligent [(Iyer et al., 2012;](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042366) [Carl, 2014;](https://www.sciencedirect.com/science/article/abs/pii/S0160289614000373) [Caplan, 2015;](https://www.econlib.org/archives/2015/01/intelligence_ma_1.html) [Kirkegaard et al., 2017;](https://www.researchgate.net/profile/Emil-O-W-Kirkegaard/publication/313890514_Cognitive_Ability_and_Political_Preferences_in_Denmark/links/58adc44b92851cf7ae85ac79/Cognitive-Ability-and-Political-Preferences-in-Denmark.pdf) [Carl, 2018;](https://www.sciencedirect.com/science/article/abs/pii/S0160289618300667) [Jedinger, 2021)](https://journals.sagepub.com/doi/full/10.1177/01461672211046808), followed by liberals (economically and socially left-wing) and then conservatives (economically and socially right-wing) [(Onraet et al., 2015)](https://journals.sagepub.com/doi/abs/10.1002/per.2027). This appears to be due to beliefs in personal and economic liberalism both being correlated with intelligence.
 
@@ -86,10 +84,7 @@ However, this effect varies across cultures [(Rindermann et al., 2012)](https://
 
 Intelligence is also associated with thinking more like economists, who tend to among other things, trust market mechanisms [(Caplan & Miller, 2010)](https://econfaculty.gmu.edu/bcaplan/pdfs/intelligencethinklike.pdf).
 
-</details>
-
-<details markdown="1">
-  <summary>Ideology and Well-Being</summary>
+### Ideology and Well-Being
 
 Conservatives tend to be happier [(Wojcik et al., 2015)](https://www.science.org/doi/10.1126/science.1260817), have more meaning in life [(Newman et al., 2018)](https://journals.sagepub.com/doi/10.1177/1948550618768241), have better mental health [(Newport, 2007;](https://news.gallup.com/poll/102943/republicans-report-much-better-mental-health-than-others.aspx) [Kirkegaard, 2020)](https://www.researchgate.net/publication/339541044_Mental_illness_and_the_left), and are physically healthier [(Subramanian & Perkins, 2010;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2912481/) [Chan et al., 2019)](http://sciencedirect.com/science/article/abs/pii/S0191886919300054). These effects are due to a number of causes, most notably a belief in personal agency being a cause of the happiness and health effects [(Schlenker et al., 2012)](https://sci-hub.se/https://doi.org/10.1016/j.jrp.2011.12.009).
 
@@ -101,24 +96,17 @@ Conservatives generally have more kids and have them earlier, as well as being m
 
 States that become more politically liberal tend to have increases in their demand for alcohol, with consumption of beer and spirits rising and consumption of wine potentially falling [(Yakovlev & Guessford, 2013)](https://www.cambridge.org/core/journals/journal-of-wine-economics/article/abs/alcohol-consumption-and-political-ideology-whats-party-got-to-do-with-it/D7191B2F1C4F11D9527AFA6F06614912).
 
-</details>
-
-<details markdown="1">
-  <summary>Ideology and Physical Appearance</summary>
+### Ideology and Physical Appearance
 
 Right-wingers tend to be more attractive than left-wingers [(Berggren et al., 2017;](https://sci-hub.ru/https://doi.org/10.1016/j.jpubeco.2016.12.008) [Peterson & Palmer, 2017)](https://sci-hub.ru/https://doi.org/10.1017/pls.2017.18), partially due to attractive people being more likely to support inequality [(Belmi & Neale, 2014)](https://sci-hub.ru/https://doi.org/10.1016/j.obhdp.2014.03.002), as they earn more. Appearance is a substantial predictor of political ideology, as facial recognition technology can correctly identify political orientation in liberal-conservative face pairs significantly greater than at random [(Kosinski, 2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7801376/).
 
-</details>
-
-<details markdown="1">
-  <summary>Heritability of Political Views</summary>
+### Heritability of Political Views
 
 Political views appear to be roughly 40% heritable [(Hatemi et al., 2014)](https://link.springer.com/article/10.1007/s10519-014-9648-8), if not more [(Pew, 2013;](https://www.pewresearch.org/short-reads/2013/12/09/study-on-twins-suggests-our-political-beliefs-may-be-hard-wired/). This varies heavily with political sophistication, with people high in political sophistication having an estimated heritability of political views of 74% [Kalmoe & Johnson, 2021)](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/genes-ideology-and-sophistication/91C7C343BBA8801732F62E7D55B16676). There is significant genetic overlap between political views and a variety of psychological traits, such as cognitive ability and personality [(Dawes & Weinschenk, 2020)](https://www.sciencedirect.com/science/article/pii/S2352154620300553), suggesting that much of these beliefs are byproducts of indirectly related psychological characteristics.
 
 </details>
 
-<details markdown="1">
-  <summary>Ideology and Cognitive Bias</summary>
+### Ideology and Cognitive Bias
 
 Both conservatives and liberals have motivated disbelief in political problems when averse to the solutions of such problems, such as conservatives not believing in climate change [(Campbell & Kay, 2014)](https://pubmed.ncbi.nlm.nih.gov/25347128/). [Ditto et al. (2019)](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/602/files/2019/08/Ditto-et-al.-2018-Perspectives-on-Psychological-Science-paper.pdf) meta-analyzed the results of 51 experimental studies and found that liberals and conservatives had the same level of tendency to evaluate otherwise identical information more favorably when it supports one's political beliefs or allegiances than when it challenges those beliefs or allegiances. People perceive the world in a manner consistent with their political views, meaning there is a selective pattern of learning in which partisans have higher levels of knowledge for facts that confirm their worldview and lower levels of knowledge for facts that challenge them [(Jerit & Barabas, 2012)](https://www.jstor.org/stable/10.1017/s0022381612000187).
 
@@ -126,10 +114,7 @@ Liberals tend to be better at identifying flawed arguments supporting conservati
 
 Both liberals and conservatives find Stephen Colbert funny, but conservatives are more likely to report that Colbert only pretends to be joking and genuinely means what he says while liberals are more likely to report that Colbert used satire and was not serious when offering political statements. Conservatism also significantly predicted perceptions that Colbert disliked liberalism [(LaMarre et al., 2009)](https://journals.sagepub.com/doi/abs/10.1177/1940161208330904).
 
-</details>
-
-<details markdown="1">
-  <summary>Ideology and Morality</summary>
+### Ideology and Morality
 
 Conservatives are significantly more charitable than liberals [(Yang & Liu, 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0049089X21000752). Liberals self-report more criminal conduct than do conservatives [(Wright et al., 2017)](https://www.sciencedirect.com/science/article/abs/pii/S0191886916310996?via%3Dihub). Political and religious conservatism are both inversely related to child abuse rates, although only the religious conservatism effect remained after controlling for population density [(Brayer & MacPhee, 2015)](https://www.sciencedirect.com/science/article/abs/pii/S0145213414004074).
 
@@ -137,17 +122,11 @@ Liberals tend to express compassion toward less structured and more encompassing
 
 Genetic attributions are more likely to be made by liberals, are associated with higher and not lower levels of tolerance of vulnerable individuals, and are unrelated with unseemly racial attitudes [(Schneider et al., 2018)](https://www.journals.uchicago.edu/doi/10.1086/696860). Both conservative economic and social political ideology indirectly predict homophobia through binding foundations [(Barnett et al., 2018)](https://pubmed.ncbi.nlm.nih.gov/28466228/#:~:text=Study%202%20found%20that%20both,between%20political%20ideology%20and%20homophobia). Compared to conservatives, moderates and liberals are much less accepting of discriminatory actions. Conservatives tend to value employers' decision rights while others value utilitarian concerns [(Kuhn & Osaki, 2023)](https://www.nber.org/papers/w30236#fromrss).
 
-</details>
-
-<details markdown="1">
-  <summary>Age and Ideology</summary>
+### Age and Ideology
 
 Older Americans tend to be more conservative [(Pew, 2014)](https://www.pewresearch.org/fact-tank/2014/07/09/the-politics-of-american-generations-how-age-affects-attitudes-and-voting-behavior/), and this is due to the effect of ageing increasing one's likelihood of being conservative [(Tilley & Evans, 2014)](https://www.sciencedirect.com/science/article/abs/pii/S0261379413000875).
 
-</details>
-
-<details markdown="1">
-  <summary>Miscellaneous</summary>
+### Miscellaneous
 
 Consistent liberals and consistent conservatives are the people most likely to engage in activism and the political process [(Pew, 2014)](https://www.pewresearch.org/politics/2014/06/12/section-5-political-engagement-and-activism/).
 
@@ -167,33 +146,21 @@ Right-wing authoritarianism and left-wing authoritarianism are separate construc
 
 ## Religious Belief
 
-<details markdown="1">
-  <summary>Religiosity and Suicide</summary>
+### Religiosity and Suicide
 
 Religion overall plays a pretective role in preventing suicide [(Hilton et al., 2002;](https://academic.oup.com/aje/article/155/5/413/171404) [Wu et al., 2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131715). This can be seen in terms of both suicide attempts and completed suicides, although religion does not reduce suicidal ideation [(Lawrence et al., 2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7310534/#:~:text=Several%20studies%20have%20found%20lower,after%20adjusting%20for%20social%20support). This may be due to religion providing access to a supportive community, shaping a person’s beliefs about suicide, providing a source of hope and providing ways to interpret suffering.
 
-</details>
-
-<details markdown="1">
-  <summary>Religiosity and Mental Health</summary>
+### Religiosity and Mental Health
 
 Religiousity and spirituality is associated with better mental health [(Garssen et al., 2020)](https://www.tandfonline.com/doi/full/10.1080/10508619.2020.1729570), lower depressive symptoms and less anxiety [(Coelho-Júnior et al., 2022)](https://www.frontiersin.org/articles/10.3389/fmed.2022.877213/full), as well as increased life satisfaction [(Yaden et al., 2022)](https://www.researchgate.net/publication/364086091_A_Meta-Analysis_of_ReligionSpirituality_and_Life_Satisfaction).
 
-</details>
-
-<details markdown="1">
-  <summary>Religiosity and Sense of Purpose</summary>
+### Religiosity and Sense of Purpose
 
 Conservative religiousity is associated with high levels of a sense of purpose in life [(Dufton, 1986)](https://journals.sagepub.com/doi/10.1177/009164718601400105). For socially connected individuals, a religious belief in itself has minimal impact on their sense of purpose in life. However, for those who are socially disconnected, being highly religious predicted greater levels of purpose in life [(Chan et al., 2018)](https://onlinelibrary.wiley.com/doi/full/10.1111/jopy.12401). Because though religion brings people social connection in many cases, controlling for it may only tell the effect of theistic belief in sense of purpose and not the broader effect of religiousity in general. A sense of meaning in life is a crucial element of religious coping and psychological well-being [(Krok, 2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580713/).
 
-</details>
-
-<details markdown="1">
-  <summary>Religiosity and Crime</summary>
+### Religiosity and Crime
 
 Religion is negatively associated with crime on both an individual level [(Baier & Wright, 2001)](https://journals.sagepub.com/doi/abs/10.1177/0022427801038001001#:~:text=The%20results%20of%20the%20meta,effect%20on%20individuals'%20criminal%20behavior) and a societal level [(Ellis & Peterson, 1996)](https://www.sciencedirect.com/science/article/pii/0191886996000232), as well as being negatively associated with involvement in delinquent behaviors [(Kelly et al., 2018)](https://scholarlycommons.obu.edu/articles/131/).
-
-</details>
 
 ## Self Control
 
