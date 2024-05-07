@@ -304,6 +304,8 @@ Around 11% of transgender people have autism spectrum disorder [(Warrier et al.,
 
 ### Neurology
 
+Gender identity is approximately 30-60% heritable [(Polderman et al., 2018)](https://link.springer.com/article/10.1007/s10519-018-9889-z).
+
 The brains of transgender people exhibit features resembling those of their experienced gender [(Guillamon et al., 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987404/), despite the majority of features resembling those from their natal sex [(Frigerio et al., 2018)](https://link.springer.com/content/pdf/10.1007/s10508-021-02005-9.pdf). However, there is a high correlation between transgenderism and homosexuality, which makes it difficult to entable correlates of sexual orientation and gender identity [(Smith et al., 2015)](https://www.sciencedirect.com/science/article/abs/pii/S0149763415002432). After controlling for sexual orientation, transgender people had relatively similar brain structures for the exception of parts that mediate their own body perception [(Burke et al., 2017)](https://www.nature.com/articles/s41598-017-17352-8.pdf).
 
 This is consistent with research suggesting that while there is a genetic role for the development of gender identity disorders [(Heylens et al., 2011;](https://www.jsm.jsexmed.org/article/S1743-6095(15)33906-0/fulltext)  [Diamond, 2013)](https://www.tandfonline.com/doi/abs/10.1080/15532739.2013.750222) , transgenderism does not seem to be associated with any molecular mutations of some of the main genes involved in sexual differentiation [(Lombardo et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23324476/).
