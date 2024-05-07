@@ -10,14 +10,16 @@ permalink: /articles/sex-differences
 
 - [Physical](#physical)
 - [Psychological](#psychological)
-- - [Brain Differences](#brain-differences)
-- - [Personality](#personality)
-- - [Interests](#interests)
-- - [Aggression](#aggression)
-- - [Knowledge](#knowledge)
-- - [Motor Control](#motor-control)
-- - [Mental Health](#mental-health)
-- - [Intelligence](#intelligence)
+- - [General](#general)
+  - [Brain Differences](#brain-differences)
+  - [Personality](#personality)
+  - [Interests](#interests)
+  - [Aggression](#aggression)
+  - [Knowledge](#knowledge)
+  - [Motor Control](#motor-control)
+  - [Mental Health](#mental-health)
+  - [Intelligence](#intelligence)
+  - [Spatial Abilities](#spatial-abilities)
 
 ## Physical
 
@@ -26,6 +28,20 @@ Physical sex differences are small but noticeable at birth, and increase signifi
 Fat free mass and limb muscle volume in men are significant predictors of the numbers of total and past-year self-reported sex partners, as well as age at first intercourse, suggesting that sexual selection may have contributed to these physical sex differences [(Lassek & Gaulin, 2009)](https://www.sciencedirect.com/science/article/abs/pii/S1090513809000397?via%3Dihub).
 
 ## Psychological
+
+### General
+
+[Krizan & Teeter (2015)](https://www.researchgate.net/profile/Zlatan-Krizan/publication/271722875_Evaluating_Gender_Similarities_and_Differences_Using_Metasynthesis/links/55c35cdf08aea2d9bdc06e70/Evaluating-Gender-Similarities-and-Differences-Using-Metasynthesis.pdf) used meta-synthesis to examine gender similarities and differences, and found that the average absolute difference between men and women across domains was relatively small, with the distributions of men and women on most variables overlapping by about 84%. Sex differences in psychological traits including personality, sexuality, attitudes, emotions, behaviors, and cognitive abilities, are larger in cultures with more egalitarian sex role socialization and greater sociopolitical gender equity [(Schmitt, 2015)](https://www.researchgate.net/publication/289724723_The_Evolution_of_Culturally-Variable_Sex_Differences_Men_and_Women_Are_Not_Always_Different_but_When_They_AreIt_Appears_Not_to_Result_from_Patriarchy_or_Sex_Role_Socialization). Even sex differences in physical traits such as height, obesity, and blood pressure are exacerbated in such cultures.
+
+### Evidence for Biological Origin + Causes
+
+[Reiner & Gearhart (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1421517/) looked at 16 genetic males with cloacal exstrophy, an extremely rare birth defect that is associated with severe phallic inadequacy or phallic absence. As a result, 14 of the 16 males were neonatally assigned female socially, legally, and surgically. They tracked all of the children from ages 5 to 16 and found that 8 of the 14 subjects assigned to the female sex declared themselves male during the course of the study. Moreover, all 16 subjects had moderate to marked interests and attitudes that were considered typical of males.
+
+[The John Money experiment](https://embryo.asu.edu/pages/david-reimer-and-john-money-gender-reassignment-controversy-johnjoan-case) was a very famous experiment which examined the degree to which gender identity is intractable. To simplify, David and Brian Reimer were identical twins. After David suffered from a botched circumcision, he was raised as a girl while Brian was raised as a boy. David received estrogen during adolescence to help the development of feminine characteristics. In spite of the socialization David received, he experienced intense gender dysphoria as a child and desired to become a male. This would be consistent with the idea that a person's gender identity generally corresponds to a person's biological sex.
+
+Boys and girls aged 9-17 months old, an age when they show few signs if any of recognizing their sex or the sex of others, still have marked differences in preference for stereotypically male vs stereotypically female toys. These sex differences in toy preferences also occur with rhesus monkeys [(Goldman, 2017)](https://stanmed.stanford.edu/how-mens-and-womens-brains-are-different/). Girls exposed to high levels of androgen in the prenatal and early postnatal periods show increased play with boys' toys and reduced play with girls' toys suggesting hormones may play a role in this sex difference [(Berenbaum & Hines, 1992)](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.1992.tb00028.x).
+
+Differential sexual selective pressures for men and women can help to explain how psychological sex differences may emerge [(Buss, 1995)](https://psycnet.apa.org/record/1995-21138-001). Men can only be certain about whether they have in fact reproduced if they have a woman who is sexually loyal, while women can be guaranteed following sexual intercourse that they have reproduced. Through this mechanism, men and women will naturally develop different preferences in terms of their mate's personalities as well as different tendencies, personalities, etc. [Janicke et al. (2016)](https://www.science.org/doi/10.1126/sciadv.1500983) finds that across the animal kingdom, sexual selection is stronger in males than in females and is evolutionarily tied to sex biases in parental care and sexual dimorphism. In the animal kingdom, females typically exhibit greater parental investment which leads to them becoming a limiting resource, such that males compete for females and not the other way around.
 
 ### Brain Differences
 
@@ -82,6 +98,16 @@ Further Information:
 [Neuroanatomical morphometric characterization of sex differences in youth using statistical learning](https://www.sciencedirect.com/science/article/abs/pii/S105381191830065X)
 
 ### Personality
+
+In terms of the magnitude of sex differences in personality, Giudice et al. (2012) found that on aggregate there is an overlap of only 10% between the male and female distributions, an extremely large difference by psychological standards. Falk & Hermle (2018) found that across countries, gender differences in preferences (which include willingness to take risks, patience, altruism, positive and negative reciprocity, and trust) are positively related to economic development and gender equality.
+
+Women are generally seen as being more nurturing and empathetic compared to men. Nonhuman animals as well as human infants and children have all been observed to have these sex differences in empathy, suggesting that these differences have evolutionary origins. This is also corroborated by examinations of the brains of men and women, who differ in the basic networks involved in affective and cognitive forms of empathy (Christov-Moore et al., 2014).
+
+There exist gender differences in competitiveness which may in part serve to explain various socioeconomic gender gaps observed in society (Lackner, 2021). Girls tend to compete using strategies that avoid direct interference with other girl’s goals, minimize the risk of retaliation, disguise competition, and reduce the strength of other girls. They only compete overtly from a position of high status within the community. This enforces equality in the female community and socially excludes other girls (Benenson, 2013). Women also tend to spend more time engaging in gossip (Levin & Arluke, 1985).
+
+Women tend to become more angry in response to transgressions by a same-sex peer, and report their anger dissipating less quickly relative to men. Women also report taking longer to reconcile. This suggests that women are less prepared than men to resolve a conflict with a same-sex peer (Benenson et al., 2014). Consistent with this, mutual dislikability of team members tends to not impede team behavior in all-male teams, but does so in mixed sex teams and all-female teams (Gerhards & Kosfeld, 2017).
+
+Men tend to be funnier than women (Greengross et al., 2020).
 
 **Research has overwhelmingly suggested that psychological sex differences exist in terms of personality (many papers use gender instead of sex, given that biological and sex converge upon one another 99% of the time, it's reasonable to treat these as synonymous for the purposes of our discussion). The most notable sex differences occur on the aggregate big five personality trait measures of neuroticism and agreeableness.**
 
@@ -172,6 +198,8 @@ Further Information:
 ##IMAGE##IMAGE
 
 ### Interests
+
+Sex differences in people and things orientation are reflected in academic publishing, where women are more prevalent as the first authors of articles in more people-oriented fields compared to fields that are more things-oriented, which have a high proportion of male first authors [(Luoto, 2020)](https://www.researchgate.net/publication/339507855_Sex_differences_in_people_and_things_orientation_are_reflected_in_sex_differences_in_academic_publishing).
 
 **Men prefer working with things and women prefer working with people. This gender difference is consistent across cultures and time, which suggests there is at least a partially biological cause for it.**
 
@@ -291,5 +319,9 @@ In spite of all of this, men have higher suicide rates [(Crump et al., 2013)](ht
 Male and female children tend to have roughly similar overall intelligence with each sex outperforming the other in certain forms of intelligence [(Giofrè et al., 2022)](https://link.springer.com/article/10.1007/s10648-022-09705-1).  Women have a very small advantage in verbal ability [(Hyde & Linn, 1988)](https://www.researchgate.net/publication/232528001_Gender_Differences_in_Verbal_Ability_A_Meta-Analysis). They have better reading comprehension and writing ability [(Goldman, 2017)](https://stanmed.stanford.edu/how-mens-and-womens-brains-are-different/).  Men have an advantage in visuo-spatial abilities [(Voyer et al., 1995;](https://sci-hub.ru/https://doi.org/10.1037/0033-2909.117.2.250)  [Voyer, 2011;](https://link.springer.com/article/10.3758/s13423-010-0042-0)  [Voyer et al., 2016)](https://sci-hub.ru/https://doi.org/10.3758/s13423-016-1085-7).  Women have an advantage in verbal episodic-memory tasks but have a disadvantage in episodic-memory tasks requiring both verbal and visuospatial processing [(Herlitz & Rehnman, 2008)](https://journals.sagepub.com/doi/10.1111/j.1467-8721.2008.00547.x). Women outperform men in fine motor coordination and perceptual speed [(Goldman, 2017)](https://stanmed.stanford.edu/how-mens-and-womens-brains-are-different/).
 
 Men have significantly more gray matter in the brain, while women have significantly more white matter, suggesting that while there are essentially no disparities in general intelligence the ways in which that intelligence manifests itself is different [(Haier et al., 2005)](https://www.sciencedaily.com/releases/2005/01/050121100142.htm).  There is greater male than female variability in regional brain structure across the lifespan, which suggests that men may have higher variability in their intelligence than women [(Wierenga et al., 2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25204).
+
+### Spatial Abilities
+
+Men tend to have a sex advantage in terms of completing mental rotation tasks. Given that spatial thinking is an important predictor of success within STEM fields, this provides a mechanism by which the gender gap in participation in STEM may arise [(Levine et al., 2016)](https://tdlc.ucsd.edu/global/images/Levine_et%20al_WIREs_Mental_Rotation_review.pdf). Additionally, men tend to have better navigation skills compared to women [(Nazareth et al., 2019)](https://link.springer.com/article/10.3758/s13423-019-01633-6).
 
 </div>
