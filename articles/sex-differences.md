@@ -29,6 +29,8 @@ Fat free mass and limb muscle volume in men are significant predictors of the nu
 
 ### Brain Differences
 
+Neural networks utilizing neuroimaging can successfully differentiate between a male brain and a female brain with 93.3% accuracy [(Xin et al., 2019)](https://www.frontiersin.org/articles/10.3389/fnins.2019.00185/full). There is immense overlap between the brains of men and women however [(Joel et al., 2015)](https://www.pnas.org/doi/10.1073/pnas.1509654112).
+
 **There are a very wide number of documented sex differences which exist in the brain, many of which are tied to functions which may explain differences between men and women in certain tasks, with men excelling and some and women excelling at others.**
 
 **Moreover, models have been developed which can predict a person's sex based on certain pieces of information about the brain such as MRI scans or electroencephalogram data with up to 96% accuracy, suggesting that these differences are not trivial.**
