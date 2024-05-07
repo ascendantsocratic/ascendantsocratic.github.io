@@ -22,6 +22,7 @@ permalink: /articles/sex-differences
   - [Spatial Abilities](#spatial-abilities)
   - [Values](#values)
   - [Ingroup Preference](#ingroup-preference)
+- [Intersex](#intersex)
 
 ## Physical
 
@@ -335,5 +336,9 @@ Men tend to have a sex advantage in terms of completing mental rotation tasks. G
 ### Ingroup Preference
 
 Women tend to have a stronger in-group bias than men do [(Rudman & Goodman, 2004)](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.87.4.494). While men and women do not differ in number of friends or amount of time spent with friends, nor in the value placed on intimate friendships, there exist sex differences in the nature of interactions with friends. Women tend to emphasize emotional sharing and talking, while men emphasize activities and doing things together [(Caldwell & Peplau, 1982)](https://link.springer.com/article/10.1007/BF00287568).
+
+## Intersex
+
+The percentage of people who are intersex differs significantly depending on which criterion one uses to identify who is and isn't intersex. While some estimate the number to be as high as 1.7%, [Sax (2002)](https://pubmed.ncbi.nlm.nih.gov/12476264/) argues that to have any meaning, intersex should be restricted to those conditions where chromosomal sex is inconsistent with phenotypic sex, or in which the phenotype is not classifiable as either male or female. Under this definition, the true prevalence is actually about 0.018%.
 
 </div>
