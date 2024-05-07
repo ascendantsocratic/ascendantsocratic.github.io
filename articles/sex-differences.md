@@ -20,6 +20,8 @@ permalink: /articles/sex-differences
   - [Mental Health](#mental-health)
   - [Intelligence](#intelligence)
   - [Spatial Abilities](#spatial-abilities)
+  - [Values](#values)
+  - [Ingroup Preference](#ingroup-preference)
 
 ## Physical
 
@@ -323,5 +325,15 @@ Men have significantly more gray matter in the brain, while women have significa
 ### Spatial Abilities
 
 Men tend to have a sex advantage in terms of completing mental rotation tasks. Given that spatial thinking is an important predictor of success within STEM fields, this provides a mechanism by which the gender gap in participation in STEM may arise [(Levine et al., 2016)](https://tdlc.ucsd.edu/global/images/Levine_et%20al_WIREs_Mental_Rotation_review.pdf). Additionally, men tend to have better navigation skills compared to women [(Nazareth et al., 2019)](https://link.springer.com/article/10.3758/s13423-019-01633-6).
+
+### Values
+
+[Luoto & Varella (2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8015803/#B80) looked at the relationship between policy interventions conducted to deal with the COVID-19 pandemic and the sex of the politicians enacting the interventions. They found that on average, female leaders seem more focused on minimizing direst human suffering caused by the virus, while male leaders implement riskier short-term decisions with the possible intent of minimizing economic disruptions. This is consistent with findings that women tend to have stronger empathy, higher pathogen disgust, health concern, care-taking orientation, and dislike for the suffering of other people. On the other hand, it is also consistent with findings that men tend to engage in higher-risk-taking, are more machiavellian, more psychopathic, and focus more on financial indicators of success and status.
+
+[Atari et al. (2020)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.1201) found that women across cultures consistently score higher than men on care, fairness, and purity moral foundations, with no sex differences on loyalty and authority, which are negligible and highly variable across cultures. These differences were larger in individualist and gender-equal societies with more flexible social norms. Consistent with this, [Benenson et al. (2018)](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12750) finds that women tend to be more egalitarian than men, a difference which emerges in early childhood.
+
+### Ingroup Preference
+
+Women tend to have a stronger in-group bias than men do [(Rudman & Goodman, 2004)](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.87.4.494). While men and women do not differ in number of friends or amount of time spent with friends, nor in the value placed on intimate friendships, there exist sex differences in the nature of interactions with friends. Women tend to emphasize emotional sharing and talking, while men emphasize activities and doing things together [(Caldwell & Peplau, 1982)](https://link.springer.com/article/10.1007/BF00287568).
 
 </div>
