@@ -22,6 +22,7 @@ permalink: /articles/sexism
   - [Sentencing](#sentencing)
 - [Politics](#politics)
 - - [Political Quotas](#political-quotas)
+- [Matriarchy](#matriarchy)
 
 ## Bias
 
@@ -360,5 +361,9 @@ Further Information:
 [Quota Shocks: Electoral Gender Quotas and Government Spending Priorities Worldwide](http://uu.diva-portal.org/smash/get/diva2:1246248/FULLTEXT01)
 
 -   "We find that substantial quota shocks - those associated with a large increase in women's parliamentary representation - are followed by increased government expenditures towards public health. Further, we find that increases in health spending are offset by relative decreases in military spending and other spending categories. Our findings provide strong evidence that quota policies influence government priorities in historically feminized policy areas, but principally when they are complied with and have substantial numerical consequences."
+
+## Matriarchy
+
+A matriarchy is a social system in which the mother or a female elder has absolute authority over the family group, and by extension, one or more women exert a similar level of authority over the community as a whole. Under this definition, matriarchal societies have never existed [(Encyclopedia Britannica, n.d.)](https://www.britannica.com/topic/matriarchy). [Dube & Harish (2017)](https://www.nber.org/papers/w23337) looked at the effect of female rule on war among European polities between the 15th and 20th centuries. They found that polities led by queens are more likely to engage in war than polities led by kings.
  
 </div>
