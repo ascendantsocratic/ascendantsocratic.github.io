@@ -312,6 +312,8 @@ This is consistent with research suggesting that while there is a genetic role f
 
 This is also consistent with evidence suggesting that prenatal hormone exposure, while having an effect on sex-typed activity interests and engagement, as well as spatial abilities, has no major effect on gender identity or sexual orientation [(Hines, 2006;](https://pubmed.ncbi.nlm.nih.gov/17074984/)  [Berenbaum & Beltz, 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4681519/).
 
+Mothers of boys with gender identity disorder had borderline personality disorder at a vastly higher rate than mothers of normal boys [(Marantz & Coates, 1991)](https://pubmed.ncbi.nlm.nih.gov/2016237/). The associated child-rearing attitudes and practices that discourage autonomy may potentially contribute to the development of gender identity disorder in the children.
+
 ### Early Development
 
 While I will not comment on the desistance debate as from what I've seen there's a lot of conflicting evidence on it and the issue is relatively unimportant to me, children referred for gender dysphoria have high levels of suicidality [(Aitken & Vanderlaan, 2016)](https://www.researchgate.net/publication/300420411_Self-Harm_and_Suicidality_in_Children_Referred_for_Gender_Dysphoria). Children with persistent gender dysphoria have gender dysphoria to a much more extreme extent, suggesting that there may be some predictability to who desists and who does not [(Wallien & Cohen-Kettenis, 2008;](https://pubmed.ncbi.nlm.nih.gov/18981931/)  [Steensma et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23702447/), irrespective of the actual desistance rate.
