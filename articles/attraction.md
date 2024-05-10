@@ -98,4 +98,10 @@ There is interrater reliability in terms of who people find is and is not attrac
 
 Men tend to prefer to ask out women and ask out women more. On the other hand, women tend to prefer to be asked out and ask out men less. This has not changed in spite of great changes in gender relations over the past few decades. This may be because women evolutionarily want to demonstrate sexual fidelity to attract an ideal partner [(Mills, 2011)](https://www.psychologytoday.com/us/blog/the-how-and-why-sex-differences/201104/why-dont-women-ask-men-out-first-dates).
 
+## Creepiness and Sexual Harassment
+
+Men are perceived as being more creepy than women and women are more likely to associate sexual threat with creepiness. Unusual nonverbal behavior and unpredictability were also predictors of creepiness. This is consistent with the hypothesis that being creeped out is an evolved adaptive emotional response [(McAndrew & Koehnke, 2016)](https://www.sciencedirect.com/science/article/abs/pii/S0732118X16300320).
+
+Attractiveness and high social status are predictive of tolerance for sexual harassment [(Wuensch & Moore, 2004;](https://pubmed.ncbi.nlm.nih.gov/15074507/)  [Angelone et al., 2009)](https://pubmed.ncbi.nlm.nih.gov/19030980/).
+
 </div>
