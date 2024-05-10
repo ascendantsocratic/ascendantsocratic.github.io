@@ -134,4 +134,22 @@ Female adolescents who had sex had significant decreases in peer acceptance over
 
 Penile-vaginal intercourse is associated with a wide range of better psychological and physiological health indices. Other activities have weaker, null, or inverse associations with health indices [(Brody, 2010)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1743-6109.2009.01677.x#b34).
 
+## Other Attractiveness
+
+Physical attractiveness and race are the strongest predictors of decisions in a swiping experiment [(Chopik & Johnson, 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0092656621000131?via%3Dihub).
+
+For men, being unattractive decreases the likelihood of finding a partner or finding a partner of a higher educational level, but not for women [(Pastor, 2017)](https://reis.cis.es//REIS/PDF/REIS_159_07_ENGLISH1499424514902.pdf).
+
+Identical twins have more similar preferences for traits such as height, skin color, hair color and length, chest hair, facial hair, and breast size, suggesting genetic effects. Heritability estimates range from zero to 57% [(Verweij et al., 2012)](https://www.researchgate.net/publication/233725541_Evidence_for_Genetic_Variation_in_Human_Mate_Preferences_for_Sexually_Dimorphic_Physical_Traits).
+
+There is a robust association between physical attractiveness and various measures of health. This suggests that physical attractiveness is a phenotypic marker for health [(Nedelec & Beaver, 2014)](https://psycnet.apa.org/record/2014-29517-001).
+
+Those who are physically more attractive tend to be more optimistic and have higher social mobility [(Urbatsch, 2018)](https://www.sciencedirect.com/science/article/abs/pii/S0049089X17305215?via%3Dihub).
+
+Physically attractive people are perceived as more sociable, dominant, sexually warm, mentally healthy, intelligent, and socially skilled. However, relationships between physical attractiveness and personality or mental ability are generally trivial, although good-looking people were less lonely, less socially anxious, more popular, more socially skilled, and more sexually experienced. Self-ratings of physical attractiveness are positively correlated with more attributes than actual physical attractiveness [(Feingold, 1992)](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-2909.111.2.304).
+
+More attractive people are less likely to be arrested and convicted [(Beaver et al., 2019)](https://www.tandfonline.com/doi/abs/10.1080/13218719.2019.1618750?journalCode=tppl20).
+
+Physically attractive workers are more confident, have better oral skills, and are independently considered more able by employers, increasing their wages [(Mobius & Rosenblat, 2006)](https://dash.harvard.edu/bitstream/handle/1/3043406/mobius_beauty.pdf?s).
+
 </div>
