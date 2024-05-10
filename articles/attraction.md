@@ -104,4 +104,34 @@ Men are perceived as being more creepy than women and women are more likely to a
 
 Attractiveness and high social status are predictive of tolerance for sexual harassment [(Wuensch & Moore, 2004;](https://pubmed.ncbi.nlm.nih.gov/15074507/)  [Angelone et al., 2009)](https://pubmed.ncbi.nlm.nih.gov/19030980/).
 
+## Sexuality
+
+### Monogamy/Promiscuity
+
+Having multiple sex partners is not related to increased anxiety or depression but is related to alcohol and drug dependence issues [(Whitbourne et al., 2013)](https://www.psychologytoday.com/intl/blog/fulfillment-any-age/201304/the-long-term-psychological-effects-multiple-sex-partners).
+
+Across cultures, women tend to suppress female sexuality much more than men. This is because women sex is a limited resource that women use to negotiate with men, and scarcity gives women an advantage [(Baumeister & Twenge, 2002)](https://journals.sagepub.com/doi/10.1037/1089-2680.6.2.166).
+
+Men who transition into monogamous behavior, a less competitive mode of sexual behavior, reduce their risk of violence [(Seffrin, 2016)](https://www.tandfonline.com/doi/abs/10.1080/07418825.2016.1216153?journalCode=rjqy20).
+
+The number of sexual partners individuals had in their lifetimes was associated with lower levels of sexual quality, communication, and relationship stability [(Busby et al., 2013)](https://sci-hub.hkvisa.net/10.1111/pere.12009).
+
+People with more premarital sex partners tend to have higher divorse rates [(Wolfinger, 2016)](https://archive.ph/Mj4eo).
+
+Sexual and emotional infidelity are related to sexual and emotional promiscuity [(Pinto & Arantes, 2017)](https://www.athensjournals.gr/social/2017-4-4-3-Pinto.pdf).
+
+Across cultures, women's virginity is viewed as a gift and women are viewed as sexually submissive to men. On the other hand, male virginity was seen as a failure to men's masculinity [(Tejada, 2020)](https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1008&context=senior_comm).
+
+### Sex Drive/Sociosexuality
+
+Men tend to have a higher sex drive and greater sociosexuality than women across countries [(Baumeister et al., 2001;](https://www.semanticscholar.org/paper/Is-There-a-Gender-Difference-in-Strength-of-Sex-and-Baumeister-Catanese/5f8446340d4ed375007351539e7993fa44e2e31b?p2df)  [Lippa, 2009)](https://pubmed.ncbi.nlm.nih.gov/17975724/). The evidence on sociosexuality consistent with a hybrid model in which both biological and social structural influences contribute to sex differences, while sex drive is consistent with a biological model.
+
+### Virginity
+
+Female adolescents who had sex had significant decreases in peer acceptance over time, while male adolescents who had sex had significant increases in peer acceptance. Interestingly however, findings for making out suggested that female adolescents had increases in peer acceptance and male adolescents had decreases in peer acceptance [(Kreager et al., 2016)](https://link.springer.com/article/10.1007/s11199-016-0618-x).
+
+### Sexual Activity
+
+Penile-vaginal intercourse is associated with a wide range of better psychological and physiological health indices. Other activities have weaker, null, or inverse associations with health indices [(Brody, 2010)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1743-6109.2009.01677.x#b34).
+
 </div>
