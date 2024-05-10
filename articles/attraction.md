@@ -84,4 +84,18 @@ Across cultures, facial averageness, symmetry, and sexual dimorphism are attract
 
 Across North America, Europe, Australia and New Zealand, there has been a 50-60% decline in sperm counts between 1973 and 2011 [(Levine et al., 2017)](https://academic.oup.com/humupd/article/23/6/646/4035689?login=false).
 
+## Race
+
+Men of all races tend to rate Asian women as being relatively attractive and black women as being relatively unattractive, although tend to also be biased in favor of their own race. Numbers are mixed for white women and latina women. Women tend to rate their own race as being the most attractive [(Rudder, 2014)](https://www.gwern.net/docs/psychology/okcupid/raceandattraction20092014.html).
+
+Europeans living in countries with a large foreign-born population have an increased preference for minority groups [(Potarca & Mills, 2015)](https://www.researchgate.net/publication/271837870_Racial_Preferences_in_Online_Dating_across_European_Countries).
+
+## Beauty
+
+There is interrater reliability in terms of who people find is and is not attractive both within and across cultures. Moreover, attractive children and adults are judged and treated more positively than unattractive children and adults, even by those who know them, and attractive children and adults exhibit more positive behaviors and traits [(Langlois et al., 2000)](https://pubmed.ncbi.nlm.nih.gov/10825783/). People assessed as more physically attractive at age 15 had higher socioeconomic status at age 36 and were more likely to be married, even after controlling for other factors [(Benzeval et al., 2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0063975).
+
+## Asking Out
+
+Men tend to prefer to ask out women and ask out women more. On the other hand, women tend to prefer to be asked out and ask out men less. This has not changed in spite of great changes in gender relations over the past few decades. This may be because women evolutionarily want to demonstrate sexual fidelity to attract an ideal partner [(Mills, 2011)](https://www.psychologytoday.com/us/blog/the-how-and-why-sex-differences/201104/why-dont-women-ask-men-out-first-dates).
+
 </div>
