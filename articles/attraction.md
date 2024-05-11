@@ -152,4 +152,28 @@ More attractive people are less likely to be arrested and convicted [(Beaver et 
 
 Physically attractive workers are more confident, have better oral skills, and are independently considered more able by employers, increasing their wages [(Mobius & Rosenblat, 2006)](https://dash.harvard.edu/bitstream/handle/1/3043406/mobius_beauty.pdf?s).
 
+## Relationships
+
+### Loneliness and Rejection
+
+Social rejection is reflected in the part of the brain that experiences physical pain, suggesting that experiencing rejection is neurologically analogous to experiencing physical pain [(Kross et al., 2011)](https://www.pnas.org/doi/10.1073/pnas.1102693108). Greater social connection is associated with a reduced risk of early death. Social isolation and loneliness significantly increase premature mortality [(Lunstad et al., 2010;](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316)  [Sliwa, 2017)](https://www.apa.org/news/press/releases/2017/08/lonely-die).
+
+Subjective well-being is associated with higher productivity and improved country economic performance [(DiMaria et al., 2019)](https://link.springer.com/article/10.1007/s10902-019-00074-1).
+
+Individuals who have poor mating performance experience more negative emotions, fewer positive emotions, and are less satisfied with their lives [(Apostolou et al., 2019)](https://www.sciencedirect.com/science/article/abs/pii/S0191886918305348?via%3Dihub). In fact, even viewing pictures of a romantic partner reduces experimental pain [(Younger et al., 2010)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013309).
+
+Warm partner contact is related to lower cardiovascular reactivity, suggesting that affectionate relationships with a partner may contribute to someone being less reactive to stressful life events [(Grewen et al., 2010)](https://www.tandfonline.com/doi/abs/10.1080/08964280309596065).
+
+### Single Motherhood
+
+The less time fathers spend with their children,, the more conduct problems their children had, but only if fathers did not engage in antisocial behavior. If they are high in anti-social behavior, time spent with their children increases the conduct problems of their children [(Jaffee et al., 2003)](https://pubmed.ncbi.nlm.nih.gov/12625439/).
+
+### Marriage and Divorce
+
+There is a positive relationship between premarital sex and risk of divorse. This is not a direct causal effect, but rather due to prior unobserved differences such as the willingness to break traditional norms [(Kahn & London, 1991)](https://www.jstor.org/stable/352992?seq=1#page_scan_tab_contents).
+
+Premarital cohabitation is negatively related to marital happiness and positively related to conflict [(James & Beattie, 2012)](https://academic.oup.com/sf/article/91/2/635/2235785).
+
+Women are more likely to initiate divorce than men, but men and women are equally likely to initiate a breakup of a non-marriage relationship [(LaBier, 2015)](https://www.psychologytoday.com/us/blog/the-new-resilience/201508/women-initiate-divorce-much-more-men-heres-why). It is hypothesized that the difference in marriage is due to women being more likely to express overt conflict and dissatisfaction about the state of the marriage, while the man is more likely to feel troubled but fine with the way things are. On the other hand, with non-marital but committed relationships which are often composed of younger people, the relationships tend to be formed in a more egalitarian manner which means that both people are equally likely to address any conflicts that occur.
+
 </div>
