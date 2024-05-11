@@ -194,4 +194,8 @@ Women tend to approve of benevolent sexist men but disapprove of hostile sexist 
 
 Women's sex role ideology, but not men's, is negatively related to marital happiness and stability, with nontraditional women being less happy and more likely to be separated or divorced [(Lueptow et al., 1989)](https://journals.sagepub.com/doi/10.1177/019251389010003005).
 
+## Criminality
+
+Typical perpetrators of mass killings are low- or mid-status men with relatively low educational attainment and in a history of relationship problems. The trigger in most cases of these is a status loss or threat. This suggests that autogenic murderous rampages, although clearly psychopathological, may be rooted in a biological male desire to defend status [(Harrison & Bowers, 2010)](https://www.researchgate.net/publication/233146324_Autogenic_massacre_as_a_maladaptive_response_to_status_threat).
+
 </div>
