@@ -176,4 +176,16 @@ Premarital cohabitation is negatively related to marital happiness and positivel
 
 Women are more likely to initiate divorce than men, but men and women are equally likely to initiate a breakup of a non-marriage relationship [(LaBier, 2015)](https://www.psychologytoday.com/us/blog/the-new-resilience/201508/women-initiate-divorce-much-more-men-heres-why). It is hypothesized that the difference in marriage is due to women being more likely to express overt conflict and dissatisfaction about the state of the marriage, while the man is more likely to feel troubled but fine with the way things are. On the other hand, with non-marital but committed relationships which are often composed of younger people, the relationships tend to be formed in a more egalitarian manner which means that both people are equally likely to address any conflicts that occur.
 
+## Politics and Sexuality
+
+Attractive candidates tend to get more votes. Politically unpopular parties tend to be represented by physically unattractive candidates [(Efrain & Patterson, 1974)](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0081881).
+
+Conservatives are less likely to use a short-term mating strategy that is distinctive from their long-term strategy [(Muggleton & Fincher, 2018)](https://www.sciencedirect.com/science/article/abs/pii/S1090513818300643?via%3Dihub).
+
+Even after controlling for socioeconomic status, more attractive individuals are more likely to report higher levels of political efficacy, identify as conservative, and identify as Republican [(Peterson & Palmer, 2017)](https://www.cambridge.org/core/journals/politics-and-the-life-sciences/article/abs/effects-of-physical-attractiveness-on-political-beliefs/D5214D0CAE37EE5947B7BF29762547EE).
+
+[Price et al. (2017)](https://www.sciencedirect.com/science/article/pii/S1090513816303907) found that sociopolitical egalitarianism is negatively related to bodily formidability but is unrelated to other measures of facial formidability or attractiveness.
+
+Both self-rated attractiveness and attractiveness rated by other people predict the endorsement of a belief in a just world and are related to a person's level of life satisfaction [(Westfall et al., 2018)](https://journals.sagepub.com/doi/10.1177/0033294118763172).
+
 </div>
