@@ -188,4 +188,10 @@ Even after controlling for socioeconomic status, more attractive individuals are
 
 Both self-rated attractiveness and attractiveness rated by other people predict the endorsement of a belief in a just world and are related to a person's level of life satisfaction [(Westfall et al., 2018)](https://journals.sagepub.com/doi/10.1177/0033294118763172).
 
+## Sexism
+
+Women tend to approve of benevolent sexist men but disapprove of hostile sexist men [(Kilianski & Rudman, 1998)](https://www.researchgate.net/profile/Laurie-Rudman/publication/251261112_Wanting_It_Both_Ways_Do_Women_Approve_of_Benevolent_Sexism/links/597f8e72458515687b4bb94f/Wanting-It-Both-Ways-Do-Women-Approve-of-Benevolent-Sexism.pdf). Women tend to also prefer men with benevolent sexist attitudes over those without them, despite also perceiving them as patronizing and undermining [(Bohner et al., 2009;](https://link.springer.com/article/10.1007/s11199-009-9665-x)  [Gul & Kupfer, 2018)](https://journals.sagepub.com/doi/full/10.1177/0146167218781000). Benevolent sexism in women is associated with greater preferences for high-resource partners, while hostile sexism in men is associated with stronger preferences for physically attractive partners. This along with other evidence suggests that women's desire for high-resource partners is related to a protection and security-provision motive, while men's desire for attractive partners is related to a dominance-based status-marker motive [(Sibley & Overall, 2011)](https://journals.sagepub.com/doi/10.1177/0361684311401838).
+
+Women's sex role ideology, but not men's, is negatively related to marital happiness and stability, with nontraditional women being less happy and more likely to be separated or divorced [(Lueptow et al., 1989)](https://journals.sagepub.com/doi/10.1177/019251389010003005).
+
 </div>
