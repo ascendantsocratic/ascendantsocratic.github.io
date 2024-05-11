@@ -198,4 +198,14 @@ Women's sex role ideology, but not men's, is negatively related to marital happi
 
 Typical perpetrators of mass killings are low- or mid-status men with relatively low educational attainment and in a history of relationship problems. The trigger in most cases of these is a status loss or threat. This suggests that autogenic murderous rampages, although clearly psychopathological, may be rooted in a biological male desire to defend status [(Harrison & Bowers, 2010)](https://www.researchgate.net/publication/233146324_Autogenic_massacre_as_a_maladaptive_response_to_status_threat).
 
+## Biorealism
+
+### Life History
+
+Women who engage in short-term mating in the form of extra-pair liaisons tend to do so to acquire a better mate and to accrue immediate resources [(Greiling & Buss, 2000)](https://psycnet.apa.org/record/2000-03010-010).
+
+### Sexual Selection
+
+While in modern times, actual male fertility is uncorrelated with social status, social status is highly correlated with potential fertility as estimated from copulation frequency [(Pérusse, 2010)](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/cultural-and-reproductive-success-in-industrial-societies-testing-the-relationship-at-the-proximate-and-ultimate-levels/F4BC3086E2AF8ED56FE0AB88E173E97F). This suggests that evolutionary explanations of human behavior are still relevant in modern societies.
+
 </div>
