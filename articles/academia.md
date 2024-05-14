@@ -389,4 +389,22 @@ While manuscripts appear to be improved by blinded peer reviewing [(Fletcher & F
 Polling of university professors finds that there are many pernicious publication practices, including false criticisms and inferior expertise from peer reviewers [(Bradley, 1981)](https://sci-hub.ru/https://doi.org/10.3758/BF03333562).\
 Across all disciplines, papers are more likely to support a tested hypothesis if their corresponding authors work in states that produce more academic papers per capita. This suggests that competitive academic environments may increase scientists' bias [(Fanelli, 2010)](https://sci-hub.se/https://doi.org/10.1371/journal.pone.0010271).
 
+## Experts
+
+It is only a relatively small number of physicists who contribute substantially to the advance of science through their research. Only about 15-20% of the work cited in significant discoveries is produced by average scientists. Even papers of minor significance tend to disproportionately use the work of eminent scientists. Most articles published even in leading journals receive very few citations. Independent multiple discoveries are extremely common within science, so the work of average scientists can easily be replaced. Major contributions to teaching are also likely done by a small handful of scientists, as the great majority of elite scientists are trained by other members of the elite [(Cole & Cole, 1972)](https://www.science.org/doi/10.1126/science.178.4059.368).
+
+In many cases there exists a necessity to publish for the purposes of career advancement. This leads to poor research design and data analysis [(Smaldino & McElreath, 2016)](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.160384).
+
+Competition amongst scientists leads to strategic game-playing in science, a decline in free and open sharing of information and methods, sabotage of others' ability to use one's work, interference with peer-review processes, deformation of relationships, and careless or questionable research conduct.
+
+Competition among scientists for funding, positions and prestige, among other things, is often seen as a salutary driving force in U.S. science. Its effects on scientists, their work and their relationships are seldom considered. Focus-group discussions with 51 mid- and early-career scientists, on which this study is based, reveal a dark side of competition in science. According to these scientists, competition contributes to strategic game-playing in science, a decline in free and open sharing of information and methods, sabotage of others' ability to use one's work, interference with peer-review processes, deformation of relationships, and careless or questionable research conduct. When competition is pervasive, such effects may jeopardize the progress, efficiency and integrity of science [(Anderson et al., 2007)](https://sci-hub.ru/https://doi.org/10.1007/s11948-007-9042-5).
+
+[Breznau et al. (2022)](https://www.pnas.org/doi/10.1073/pnas.2203150119) coordinated 161 researchers in 73 research teams to examine their research decisions as they used the same data to independently test the hypothesis that greater immigration reduces public support for social policies. Research teams reported both widely different numerical findings and substantive conclusions despite identical start conditions. Researchers' expertise, prior beliefs, and expectations barely predicted the variation. In fact, more than 95% of the variance remained unexplained. This suggests that many scientific hypotheses remain uncontested for valid reasons.
+
+Data in abstracts that are inconsistent with or absent from the body of an article is a common occurrence, even within large-circulation general medical journals [(Pitkin et al., 1999)](https://sci-hub.ru/https://doi.org/10.1001/jama.281.12.1110).
+
+There exists a positive correlation between the prestige of a management research article and its reading difficulty. Passages that are more difficult to read but with identical content are rated as higher in research competence. This suggests that management scientists gain prestige through unintelligible writing [(Armstrong, 1980)](https://sci-hub.se/https://doi.org/10.1287/inte.10.2.80).
+
+[Eichorn & Yankauer (1987)](https://sci-hub.ru/https://doi.org/10.2105/AJPH.77.8.1011) looked at a random sample of 50 references in three public health journals. They found that 31% of the total 150 references had citation errors.
+
 </div>
