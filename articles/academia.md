@@ -292,13 +292,17 @@ Further Information:
 
 -   Although experienced researchers can correctly answer complex data analysis questions at a chance better than average, they appear to misunderstand a lot of fundamental concepts in data analysis.
 
-Further Information:
-
-[Physician's use of probabilistic information in a real clinical setting](https://pubmed.ncbi.nlm.nih.gov/6457103/)
-
 [Misinterpretations of Significance: A Problem Students Share with Their Teachers?](https://www.researchgate.net/publication/27262211_Misinterpretations_of_Significance_A_Problem_Students_Share_with_Their_Teachers)
 
+-   Presented 6 common significance testing misinterpretations to psychologists who work in German universities. These misinterpretations are still widespread even amongst instructors who teach statistics to psychology students.
+
 [Beyond psychology: prevalence of p value and confidence interval misinterpretation across different fields](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D1520CFBFEB2C282E93484057D84B6C6/S183449091900028Xa.pdf/beyond_psychology_prevalence_of_p_value_and_confidence_interval_misinterpretation_across_different_fields.pdf)
+
+-   Looks at researchers and students from a wide range of different fields, which include management, social science, economics, engineering, science, psychology, medicine, math and statistics
+
+-   Most respondents regardless of academic degrees, research fields and stages of career could not interpret p values and CIs correctly.
+
+-   The majority were moreover confident about their inaccurate judgments
 
 ## Censorship in Academia
 
