@@ -30,4 +30,12 @@ There is a positive correlation between national IQ score and innovation [(Azam,
 
 The black-white IQ gap is larger on "non-cultural" test items compared to "cultural" test items because non-cultural items require more sheer reasoning ability than cultural items [(Jensen & McGurk, 1986)](http://arthurjensen.net/wp-content/uploads/2014/06/Black-White-Bias-in-Cultural-and-Noncultural-Test-Items-1987-by-Arthur-Robert-Jensen-Frank-C.-J.-McGurk.pdf).
 
+## Climatic Variables
+
+Across African and Eurasian countries, nasal index, lower precipitation, and lower temperature are all positively associated with IQ [(Templer & Stephens, 2014)](https://www.researchgate.net/publication/264085536_The_relationship_between_IQ_and_climatic_variables_in_African_and_Eurasian_countries). However, temperature strongly predicts American state IQ, suggesting that evolution is not necessary for temperature and IQ to meaningfully co-vary [(Pesta & Poznanski, 2014)](https://www.sciencedirect.com/science/article/pii/S0160289614001019#:~:text=CWT%20proposes%20that%20race%20differences,selection%20premium%20on%20higher%20IQ.).
+
+Exposure to infectious disease is a strong predictor of IQ across both American states and across countries internationally [(Eppig, 2011)](https://www.scientificamerican.com/article/why-is-average-iq-higher-in-some-places/).
+
+Hominid brain evolution since Homo Habilis between 1.9 million to 10 thousand years ago has been driven by population density, variation in paleoclimate, and temperature variation [(Bailey & Geary, 2009)](https://sci-hub.se/https://doi.org/10.1007/s12110-008-9054-0).
+
 </div>
