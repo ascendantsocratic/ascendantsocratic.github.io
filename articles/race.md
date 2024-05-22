@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Racism
+title: Race
 permalink: /articles/race
 ---
 
