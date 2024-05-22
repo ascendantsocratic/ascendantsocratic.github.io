@@ -52,4 +52,16 @@ Contemporary differences in racial IQs can be identified as far back as 10,000 y
 
 Races differ in mean cranial capacities, with Asians at the highest, then Europeans, and then Africans at the lowest [(Rushton & Rushton, 2003)](https://sci-hub.se/https://doi.org/10.1016/S0160-2896(02)00137-X). The relation between brain size and cognitive ability increases from Africans to Europeans to Asians [(Rushton & Ankney, 1996)](https://philipperushton.net/wp-content/uploads/2015/02/Brain-Size-and-Cognitive-Ability-Correlations-with-Age-Sex-Social-Class-and-Race-1996-by-John-Philippe-Rushton-C.-Davison-Ankney.pdf).
 
+## Cortical Structure
+
+MRI analysis indicates significant brain differences between caucasian and indian people [(Rao et al., 2017)](http://cds.iisc.ac.in/faculty/yalavarthy/Rao_Psyn_2017.pdf).
+
+Three-dimensional geometry of the cortical surface is highly predictive of individuals' genetic ancestry. It also shows distinct ancestral patterns in the folding and gyrification of the brain [(Fan et al., 2015)](https://files.catbox.moe/d8gdf7.pdf).
+
+Resting state functional MRI connectivity data can predict genetic ancestry at very high performance [(Altmann & Miranda, 2018)](https://www.biorxiv.org/content/10.1101/440776v1.full.pdf).
+
+Many of the amino acid polymorphic sites from the brain size regulating gene CASC5 have high frequencies of derived alleles in East Asians, but are rare in Europeans and Africans. This suggests that there was natural selection that tended to favor a larger gray matter volume in East Asians [(Shi et al., 2016)](https://files.catbox.moe/dmg1zr.pdf).
+
+[Kirkegaard & Fuerst (2023)](https://www.researchgate.net/publication/369479241_A_Multimodal_MRI-based_Predictor_of_Intelligence_and_Its_Relation_to_RaceEthnicity) found that when applying a multimodal MRI-based predictor of intelligence, race can confound models when a multiracial training sample is used because models learn to predict race and use race to predict intelligence
+
 </div>
