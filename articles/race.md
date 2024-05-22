@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Racism
-permalink: /articles/racism
+permalink: /articles/race
 ---
 
 <div markdown="1">
