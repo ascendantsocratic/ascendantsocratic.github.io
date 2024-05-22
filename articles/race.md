@@ -38,4 +38,8 @@ Exposure to infectious disease is a strong predictor of IQ across both American 
 
 Hominid brain evolution since Homo Habilis between 1.9 million to 10 thousand years ago has been driven by population density, variation in paleoclimate, and temperature variation [(Bailey & Geary, 2009)](https://sci-hub.se/https://doi.org/10.1007/s12110-008-9054-0).
 
+## Expert Opinion
+
+Only 16% of experts on intelligence believe in a 100% environmental explanation for the black-white difference in IQ [(Rindermann et al., 2020)](https://www.sciencedirect.com/science/article/pii/S0160289619301886).
+
 </div>
