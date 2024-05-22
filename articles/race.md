@@ -42,4 +42,8 @@ Hominid brain evolution since Homo Habilis between 1.9 million to 10 thousand ye
 
 Only 16% of experts on intelligence believe in a 100% environmental explanation for the black-white difference in IQ [(Rindermann et al., 2020)](https://www.sciencedirect.com/science/article/pii/S0160289619301886).
 
+## Socioeconomics
+
+Black-white IQ gaps do not go away when SES is controlled for, but also IQ also determines SES so it is fallacious to assume that there is a unidirectional effect of SES on IQ [(Neisser et al., 1996)](https://scottbarrykaufman.com/wp-content/uploads/2012/01/IntUnknown.pdf).
+
 </div>
