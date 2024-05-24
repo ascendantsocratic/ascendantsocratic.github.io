@@ -74,4 +74,10 @@ In general, it can be problematic to draw causal explanations of polygenic score
 
 Polygenic scores for educational attainment and intelligence were found to correlate with population differences in IQ, with Asian populations at the highest, followed by Europeans, followed by Africans [(Piffer, 2019)](https://www.researchgate.net/publication/332076417_Evidence_for_Recent_Polygenic_Selection_on_Educational_Attainment_and_Intelligence_Inferred_from_Gwas_Hits_A_Replication_of_Previous_Findings_Using_Recent_Data).
 
+## Racial Classifications
+
+### Expert Opinion
+
+The concept of race is generally rejected amongst anthropologists in the United States and Canada. Rejection is moderate in Europe, sizable in Poland and Cuba, and lowest in Russia and China. This suggests that there is cross-country variation in rejecting the race concept without global consensus [(Lieberman et al., 2004)](https://hrcak.srce.hr/file/8770).
+
 </div>
