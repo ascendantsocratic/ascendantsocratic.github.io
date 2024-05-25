@@ -31,4 +31,8 @@ The evidence on the effects of abortion restrictions on the birth rate is fairly
 
 Research unanimously shows that bans on abortion lead to increases in maternal mortality, which are often very large [(Haddad & Nour, 2009;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2709326/) [Benson et al., 2011;](https://reproductive-health-journal.biomedcentral.com/articles/10.1186/1742-4755-8-39) [Latt et al., 2019;](https://bmcwomenshealth.biomedcentral.com/track/pdf/10.1186/s12905-018-0705-y.pdf) [Marshall, 2021)](https://www.colorado.edu/today/2021/09/08/study-banning-abortion-would-boost-maternal-mortality-double-digits). This also appears to be the case with simple restrictions on abortion [(Vilda et al., 2021)](https://sph.tulane.edu/news/study-finds-higher-maternal-mortality-rates-states-more-abortion-restrictions).
 
+## When Life Begins
+
+95% of biologists affirm that life begins at conception [(Jacobs, 2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3211703).
+
 </div>
