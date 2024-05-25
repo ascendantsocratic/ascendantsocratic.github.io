@@ -308,6 +308,8 @@ Further Information:
 
 **There is a very strong anti right-wing bias in academia in terms of the endorsement of censoring right-wing beliefs. This appears to exist amongst both students and faculty.**
 
+Taking offense is a common experience on campuses and a sizable number of students are in favor of restricting speech on campuses. There is evidence of conformity pressures existing on university campuses. Left-leaning students are less likely to tolerate controversial viewpoints and right-leaning students are more likely to self-censor on politically sensitive issues such as gender, immigration, or sexual and ethnic minorities [(Revers & Traunmüller, 2020)](https://link.springer.com/article/10.1007/s11577-020-00713-z).
+
 [Academic Freedom in Crisis: Punishment, Political Discrimination, and Self-Censorship](https://cspicenter.org/wp-content/uploads/2021/03/AcademicFreedom.pdf)
 
 -   Uses large survey data for the US, Canada, and the UK
