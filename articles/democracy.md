@@ -70,4 +70,8 @@ Further Information:
 
 [The Democracy Advantage: How Democracies Promote Prosperity and Peace](https://web.archive.org/web/20060628061201/http://carnegiecouncil.org/viewMedia.php/prmTemplateID/9/prmID/5129)
 
+## Public Opinion and Political Change
+
+The impact of public opinion on public policy is substantial, and salience of issues enhances the impact. This impact remains strong even when the activities of political organizations and elites are taken into account [(Burstein, 2003;](https://www.jstor.org/stable/3219881#metadata_info_tab_contents)  [Page & Shapiro, 2014)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/effects-of-public-opinion-on-policy/856B172A7DC19A7EB72C569A7F6F2104). Policy also drives public opinion, as the public naturally responds positively or negatively to policy changes by the government [(Wlezien & Soroka, 2021)](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-74).
+
 </div>
