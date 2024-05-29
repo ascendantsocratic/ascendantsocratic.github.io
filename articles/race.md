@@ -74,6 +74,14 @@ In general, it can be problematic to draw causal explanations of polygenic score
 
 Polygenic scores for educational attainment and intelligence were found to correlate with population differences in IQ, with Asian populations at the highest, followed by Europeans, followed by Africans [(Piffer, 2019)](https://www.researchgate.net/publication/332076417_Evidence_for_Recent_Polygenic_Selection_on_Educational_Attainment_and_Intelligence_Inferred_from_Gwas_Hits_A_Replication_of_Previous_Findings_Using_Recent_Data).
 
+## Racism
+
+The black-white IQ gap tends to be smaller in counties with more republicans, more white people, and higher implicit anti-black racism. This suggests that systemic racism does not explain racial gaps in IQ tests [(Kirkegaard, 2023)](https://www.researchgate.net/publication/377204444_Systemic_Racism_Does_Not_Explain_Variation_in_Race_Gaps_on_Cognitive_Tests).
+
+## Taboo
+
+Race and IQ is a more taboo topic than even topics such as incest and pedophilia [(Pesta et al., 2024)](https://www.researchgate.net/publication/379846490_Is_Research_on_the_Genetics_of_Race_IQ_Gaps_Mythically_Taboo).
+
 ## Racial Classifications
 
 ### Expert Opinion
