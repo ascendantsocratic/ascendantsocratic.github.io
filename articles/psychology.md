@@ -46,17 +46,103 @@ Heritability is a very misleading concept for several reasons. It is often assum
 
 ## Intelligence
 
-**IQ and Crime**
+### IQ and Crime
 
 Research suggests that intelligence is correlated with crime, most research suggesting independently of socio-economics status [(Erickson, 1929;](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=2123&context=jclc) [Gendreau et al., 1996;](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-9125.1996.tb01220.x) [Levine, 2011)](https://www.sciencedirect.com/science/article/pii/S0191886911000912). This predictive validity of IQ persists in cross-state comparisons [(Bartels et al., 2010)](https://www.sciencedirect.com/science/article/pii/S0191886909005169). This relationship, however, is not perfectly linear. People who have very low intelligence have slightly lower criminality than people with fairly low intelligence, and people with very high intelligence have slightly higher criminality than people with fairly high intelligence [(Schwartz et al., 2015;](https://www.sciencedirect.com/science/article/pii/S016028961500077X) [Oleson, 2017)](https://clcjbooks.rutgers.edu/books/criminal-genius-a-portrait-of-high-iq-offenders/).
 
-**IQ and Individual Income/Wealth**
+### IQ and Individual Income/Wealth
 
 There is a relationship between an individual’s intelligence level and their future income. People with higher intelligence levels tend to have higher incomes [(Irwing & Lynn, 2006;](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6fdb1364dc3e73c44441ba55a15f1b9bc49265a) [Wolfinger, 2019)](https://ifstudies.org/blog/can-intelligence-predict-income). Importantly, however, this relationship does not appear to translate perfectly in terms of total wealth. While intelligence predicts higher income, it has a quadratic relationship with financial distress [(Zagorsky, 2007)](https://www.sciencedirect.com/science/article/pii/S0160289607000219). Therefore, it is not entirely clear how much net wealth is affected by intelligence.
 
-**IQ and Educational Attainment**
+### IQ and Educational Attainment
 
 Intelligence is a major predictor of school achievements, partially through more intelligent people having higher levels of motivation to succeed in school environments [(Roth et al., 2015;](https://www.sciencedirect.com/science/article/pii/S0160289615001269) [Kriegbaum et al., 2018)](https://www.sciencedirect.com/science/article/pii/S1747938X18300691).
+
+### Heritability of Intelligence
+
+Intelligence is highly heritable at as high as 0.8 [(Sauce & Matzel, 2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754247/).
+
+There are a very high number of genetic loci which have been found to be associated with intelligence [(Sniekers et al., 2017;](https://www.nature.com/articles/ng.3869)  [Davies et al., 2018;](https://www.nature.com/articles/s41467-018-04362-x?ref=iqpredictionnews)  [Huguet et al., 2020)](https://www.biorxiv.org/content/10.1101/2020.04.03.024554v3.full.pdf).
+
+High intelligence is also familial, heritable, and caused by the same genetic and environmental factors responsible for the normal distribution of intelligence [(Shakeshaft et al., 2015)](https://files.catbox.moe/xd769q.pdf). Additionally, intellectual disability is heritable at 51% [(Lichtenstein et al., 2021)](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13560).
+
+Similarly, educational attainment is reasonably heritable [(Silventoinen et al., 2020;](https://www.nature.com/articles/s41598-020-69526-6)  [Wolfram & Morris, 2023)](https://files.catbox.moe/3t8uvr.pdf).
+
+### Adoption and IQ
+
+Adopted siblings or peers have higher IQ scores than their nonadopted siblings or peers who stayed behind [(Ijzendoorn et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/15740423/). These effects are not g-loaded [(Nijenhuis et al., 2015)](https://www.sciencedirect.com/science/article/abs/pii/S0191886914005248).
+
+### Lead and IQ
+
+There is an inverse relationship between blood lead concentration and IQ and reading test scores [(Lanphear et al., 2005;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1257652/)  [Aizer et al., 2016)](https://www.nber.org/system/files/working_papers/w22558/w22558.pdf). These effects are g loaded [(Woodley et al., 2019)](https://sci-hub.se/https://doi.org/10.1016/j.paid.2018.09.005).
+
+### Emotional Intelligence
+
+Emotional intelligence can be reduced to g, personality trait agreeableness, and sex [(Schulte et al., 2004)](https://sci-hub.ru/https://doi.org/10.1016/j.paid.2003.11.014).
+
+### Multiple Intelligences
+
+Highly diverse tests of purely cognitive abilities are strongly g-loaded, suggesting that multiple intelligences do not exist [(Visser et al., 2006)](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.02.004).
+
+### Knowledge Retention
+
+Across a variety of fields, students lose a large percentage of the knowledge they receive in a course within the first two years following completion [(Kohen & Kipps, 1979;](https://sci-hub.ru/https://doi.org/10.2307/1182376)  [Bacon & Stewart, 2006;](https://sci-hub.ru/https://doi.org/10.1177/0273475306291463)  [D'eon, 2006;](https://sci-hub.ru/https://doi.org/10.1186/1472-6920-6-5)  [Custers, 2010)](https://sci-hub.ru/https://doi.org/10.1007/s10459-008-9101-y).
+
+### Test Anxiety
+
+Test anxiety does not induce measurement bias in aptitude and cognitive ability test scores [(Reeve & Bonnacio, 2008;](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2007.11.003)  [Sommer & Arendasy, 2015;](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.08.007)  [Sommer & Arendasy, 2016)](https://sci-hub.ru/https://doi.org/10.1016/j.lindif.2016.06.030). Rather, test anxiety is most closely related to psychometric g [(Sommer & Arendasy, 2014)](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2013.11.003).
+
+### IQ and Health
+
+Higher intelligence is associated with a substantially lower risk of death, even after adjusting for childhood and adult socioeconomic status as well as education, although adult SES and education attenuate it substantially [(Calvin et al., 2010)](https://sci-hub.ru/https://doi.org/10.1093/ije/dyq190). Research suggests that this effect is mostly genetic in origin [(Arden et al., 2015)](https://sci-hub.ru/https://doi.org/10.1093/ije/dyv112).
+
+### IQ Testing Bias
+
+IQ test-retest score gains are correlated with g loadings at -1, meaning that score gains are not g-loaded at all [(Nijenhuis et al., 2006;](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.07.006)  [Sala & Gobet, 2018)](https://sci-hub.ru/https://doi.org/10.1016/j.tics.2018.10.004).
+
+### Wilson Effect
+
+The heritability of IQ increases with age, reaching a maximum of about 0.6-0.8 (Bouchard, 2013; Briley & Drob, 2013).
+
+### G Factor
+
+Rats display a general factor of intelligence [(Anderson, 1993)](https://pubmed.ncbi.nlm.nih.gov/8510832/), as well as dogs [(Arden & Adams, 2016)](https://www.sciencedirect.com/science/article/pii/S016028961630023X).
+
+The there exists a general intelligence, or g factor, which is highly heritable [(Toga & Thompson, 2005;](https://pubmed.ncbi.nlm.nih.gov/15651931/)  [Panizzon et al., 2014)](https://sci-hub.hkvisa.net/https://linkinghub.elsevier.com/retrieve/pii/S0160289614000099). General cognitive ability can predict academic performance, career potential, creativity, and job performance [(Kuncel et al., 2004)](https://sci-hub.ru/https://doi.org/10.1037/0022-3514.86.1.148).
+
+This general factor has been shown to also exist in international cognitive ability comparisons [(Rindermann, 2007)](https://onlinelibrary.wiley.com/doi/abs/10.1002/per.634).
+
+There is expert consensus that g is an important non-trivial predictor or determinant of important real world outcomes, and that g tests are valid and generally do not have racial bias [(Reeve & Charles, 2008)](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2008.03.007).
+
+### IQ and Fertility
+
+There is a small negative correlation between cognitive ability and fertility among modern humans [(Reeve et al., 2018)](https://www.gwern.net/docs/genetics/selection/dysgenics/2018-reeve.pdf). There is strong assortative mating for intelligence [(Escorial & Buro, 2012)](https://sci-hub.se/https://doi.org/10.5209/rev_SJOP.2012.v15.n2.38879).
+
+### Predictive Validity
+
+In higher ability populations, cognitive ability tests are less correlated with one another and less g loaded [(Blum & Holling, 2017)](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.07.004).
+
+There is a small negative relationship between IQ and rearrest [(Schwartz & Beaver, 2019)](https://www.researchgate.net/publication/336572503_A_longitudinal_examination_of_the_association_between_intelligence_and_rearrest_using_a_latent_trait-state-occasion_modeling_approach_in_a_sample_of_previously_adjudicated_youth).
+
+There is a small and heterogeneous positive correlation between IQ and creativity [(Kim, 2005)](https://journals.sagepub.com/doi/10.4219/jsge-2005-473).
+
+Estimates of IQ across states and counties have shown to be negatively correlated with crime [(Bartels et al., 2010;](https://www.sciencedirect.com/science/article/abs/pii/S0191886909005169)  [Beaver & Wright, 2011)](https://www.sciencedirect.com/science/article/abs/pii/S0160289610001340).
+
+A 1 point increase in a nation's average IQ is associated with a persistent 0.11% annual increase in per-capita GDP [(Jones & Schneider, 2006)](https://link.springer.com/article/10.1007/s10887-006-7407-2). IQ is also associated with the production and exportation of more sophisticated/complex products [(Lapatinas & Litina, 2018)](https://link.springer.com/article/10.1007/s00181-018-1511-y).
+
+Education and cognitive ability appear to be more important as developmental factors for GDP than economic freedom. Education and intelligence are more relevant to economic welfare than vice versa, but economic welfare also predicts education and intelligence [(Rindermann, 2008)](https://www.sciencedirect.com/science/article/abs/pii/S0160289607000207).
+
+IQ is a significant predictor of financial development [(Hafer, 2016)](https://www.sciencedirect.com/science/article/abs/pii/S0160289615001877).
+
+National IQ is positively correlated with economic development, and is the best predictor of economic growth [(Lynn & Vanhanen, 2001;](https://www.researchgate.net/publication/279641226_National_IQ_and_Economic_Development_A_Study_of_Eighty-One_Nations)  [Kirkegaard, 2022)](https://files.catbox.moe/eu2qiv.pdf).
+
+National IQ is correlated with a variety of educational, cognitive, economic, political, demographic, sociological, geographic, and climate variables [(Lynn & Vanhanen, 2012)](https://www.sciencedirect.com/science/article/abs/pii/S0160289611001413).
+
+### Brain Size/Chemistry and IQ
+
+Brain size is positively associated with g [(McDaniel, 2005;](http://www.people.vcu.edu/~mamcdani/Big-Brained%20article.pdf)  [Rushton & Ankney, 2009;](https://philipperushton.net/wp-content/uploads/2015/02/Whole-Brain-Size-and-General-Mental-Ability-A-Review-2009-by-John-Philippe-Rushton-C.-Davison-Ankney.pdf)  [Pietschnig et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/26449760/). This is of genetic origin as whole-brain gray and white matter is highly heritable [(Posthuma et al., 2002)](https://sci-hub.ru/https://doi.org/10.1038/nn0202-83), and there is a genetic correlation between intracranial volume and years of education [(Lee et al., 2019)](https://www.sciencedirect.com/science/article/pii/S0160289618301703), as well as intelligence [(Jansen et al., 2020)](https://www.researchgate.net/publication/345345210_Genome-wide_meta-analysis_of_brain_volume_identifies_genomic_loci_and_genes_shared_with_intelligence).
+
+Human intelligence can be predicted with some accuracy using neuroimaging techniques [(Dubois et al., 2018;](https://www.researchgate.net/publication/325892393_A_distributed_brain_network_predicts_general_intelligence_from_resting-state_human_neuroimaging_data)  [Vieira et al., 2021)](https://www.researchgate.net/publication/355466374_On_the_prediction_of_human_intelligence_from_neuroimaging_A_systematic_review_of_methods_and_reporting).
 
 ## Personality
 
