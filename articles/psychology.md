@@ -150,6 +150,25 @@ General cognitive ability is associated with a lower inclination to believe vari
 
 Reaction time tasks correlate with psychometric intelligence [(Jensen & Whang, 2008)](https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/reaction-times-and-intelligence-a-comparison-of-chineseamerican-and-angloamerican-children/BD88A84A4E84CEF28EE2242F45D85555).
 
+## SES and IQ
+
+Experiments suggest that the effects of interventions that raise IQ fade away following the intervention because children who receive the interventions lose their IQ advantage [(Protzko, 2015)](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.10.006).
+
+Students attending selective schools tend to outperform their non-selective counterparts in national exams. However, there are substantial mean genetic differences between students of different school types on a polygenic score associated with higher education. After controlling for factors involved in pupil selection, there were no significant genetic differences between school types, and the variance in exam scores explained by school type dropped to less than 1%. This suggests that genetic and exam differences between school types are primarily due to heritable characteristics involved in pupil admission [(Smith-Woolley et al., 2018)](https://www.nature.com/articles/s41539-018-0019-8).
+
+IQ is a better predictor of socioeconomic success than parental SES or grades [(Strenze, 2007)](https://www.sciencedirect.com/science/article/pii/S0160289606001127?via%3Dihub).
+
+IQ and conscientiousness are also more important than SES for educational attainment [(Damian et al., 2015;](https://pubmed.ncbi.nlm.nih.gov/25402679/)  [O'Connell & Marks, 2021;](https://www.sciencedirect.com/science/article/abs/pii/S0160289620300891)  [O'Connell & Marks, 2022)](https://www.sciencedirect.com/science/article/abs/pii/S0191886921008503).
+
+[Maynard & Murnane (1979)](https://sci-hub.ru/https://doi.org/10.2307/145317) looked at the impact of a negative income tax experiment and found that it increased the average reading achievement of children in grades 4 through 6, but not for older children. Similarly, [Duncan et al. (2011)](https://psycnet.apa.org/record/2011-12620-001) conducted a random monetary assignment experiment and found that an increase in annual income results in a substantial increase in young children's achievement.
+
+Financial stress can temporarily lower IQ [(Mulvaney, 2013)](https://www.nj.com/mercer/2013/09/princeton_university_study_finds_financial_stress_can_lower_iq.html).
+
+Childhood IQ is associated with class mobility in adulthood across all social classes [(Nettle, 2010)](https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1348/000712603322503097). Polygenic scores have been identified that are associated with social mobility [(McGue & Willoughby, 2020)](https://journals.sagepub.com/doi/10.1177/0956797620924677).
+
+Low childhood self-control is associated with unemployment throughout the life span [(Daly et al., 2015)](https://journals.sagepub.com/doi/full/10.1177/0956797615569001).\
+Polygenic scores that predict higher earnings, education and health also predict lower fertility [(Jones & Abdellaoui, 2022)](https://files.catbox.moe/41zw1p.pdf). This may suggest that earnings-increasing human capital may either increase or decrease fertility through income and substitution effects in the labor market.
+
 ## Personality
 
 Neuroticism is the strongest predictor of life satisfaction, happiness, and negative affect. Positive affect is predicted equally well by extraversion and agreeableness [(DeNeve & Cooper, 1998)](https://sci-hub.se/https://doi.org/10.1037/0033-2909.124.2.197).
