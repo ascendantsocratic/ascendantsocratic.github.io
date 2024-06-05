@@ -144,6 +144,12 @@ Brain size is positively associated with g [(McDaniel, 2005;](http://www.people.
 
 Human intelligence can be predicted with some accuracy using neuroimaging techniques [(Dubois et al., 2018;](https://www.researchgate.net/publication/325892393_A_distributed_brain_network_predicts_general_intelligence_from_resting-state_human_neuroimaging_data)  [Vieira et al., 2021)](https://www.researchgate.net/publication/355466374_On_the_prediction_of_human_intelligence_from_neuroimaging_A_systematic_review_of_methods_and_reporting).
 
+### Misc
+
+General cognitive ability is associated with a lower inclination to believe various conspiracies and paranormal phenomena, but only among individuals who strongly value epistemic rationality [(Stahl & Prooijen, 2018)](https://sci-hub.ru/https://doi.org/10.1016/j.paid.2017.10.026).
+
+Reaction time tasks correlate with psychometric intelligence [(Jensen & Whang, 2008)](https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/reaction-times-and-intelligence-a-comparison-of-chineseamerican-and-angloamerican-children/BD88A84A4E84CEF28EE2242F45D85555).
+
 ## Personality
 
 Neuroticism is the strongest predictor of life satisfaction, happiness, and negative affect. Positive affect is predicted equally well by extraversion and agreeableness [(DeNeve & Cooper, 1998)](https://sci-hub.se/https://doi.org/10.1037/0033-2909.124.2.197).
