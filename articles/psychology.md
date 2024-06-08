@@ -169,6 +169,16 @@ Childhood IQ is associated with class mobility in adulthood across all social cl
 Low childhood self-control is associated with unemployment throughout the life span [(Daly et al., 2015)](https://journals.sagepub.com/doi/full/10.1177/0956797615569001).\
 Polygenic scores that predict higher earnings, education and health also predict lower fertility [(Jones & Abdellaoui, 2022)](https://files.catbox.moe/41zw1p.pdf). This may suggest that earnings-increasing human capital may either increase or decrease fertility through income and substitution effects in the labor market.
 
+### Education and IQ
+
+The SAT is strongly correlated with g [(Frey & Detterman, 2004)](https://journals.sagepub.com/doi/abs/10.1111/j.0956-7976.2004.00687.x).
+
+Headstart gains are correlated at -0.8 with g loadings, suggesting that headstart gains are generally not on the g factor [(Nijenhuis et al., 2014)](https://www.sciencedirect.com/science/article/abs/pii/S0160289614000932).
+
+Coaching has a small but positive effect on SAT scores [(DerSimonian & Laird, 2012)](https://meridian.allenpress.com/her/article-abstract/53/1/1/31190/Evaluating-the-Effect-of-Coaching-on-SAT-Scores-A?redirectedFrom=fulltext).
+
+Schooling gains are not g loaded [(Nijenhuis et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/31109385/).
+
 ## Personality
 
 Neuroticism is the strongest predictor of life satisfaction, happiness, and negative affect. Positive affect is predicted equally well by extraversion and agreeableness [(DeNeve & Cooper, 1998)](https://sci-hub.se/https://doi.org/10.1037/0033-2909.124.2.197).
