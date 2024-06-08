@@ -116,7 +116,9 @@ There is expert consensus that g is an important non-trivial predictor or determ
 
 ### IQ and Fertility
 
-There is a small negative correlation between cognitive ability and fertility among modern humans [(Reeve et al., 2018)](https://www.gwern.net/docs/genetics/selection/dysgenics/2018-reeve.pdf). There is strong assortative mating for intelligence [(Escorial & Buro, 2012)](https://sci-hub.se/https://doi.org/10.5209/rev_SJOP.2012.v15.n2.38879).
+There is a small negative correlation between cognitive ability and fertility among modern humans [(Lynn, 1999;](https://pubmed.ncbi.nlm.nih.gov/10842506/) [Reeve et al., 2018)](https://www.gwern.net/docs/genetics/selection/dysgenics/2018-reeve.pdf). There is strong assortative mating for intelligence [(Escorial & Buro, 2012)](https://sci-hub.se/https://doi.org/10.5209/rev_SJOP.2012.v15.n2.38879).
+
+Intelligence is positively associated with childlessness [(Kanazawa, 2014)](https://pubmed.ncbi.nlm.nih.gov/25131282/). There exists a Jensen effect on dysgenic fertility, meaning that the more g loaded a test score is, the more it is associated with lower fertility [(Peach et al., 2014)](https://www.sciencedirect.com/science/article/abs/pii/S0191886914004139?np=y).
 
 ### Predictive Validity
 
