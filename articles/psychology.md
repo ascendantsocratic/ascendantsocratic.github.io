@@ -179,6 +179,14 @@ Coaching has a small but positive effect on SAT scores [(DerSimonian & Laird, 20
 
 Schooling gains are not g loaded [(Nijenhuis et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/31109385/).
 
+### Flynn Effect
+
+The average decadal IQ increase since 1951 has been 2.6 points [(Trahan et al., 2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152423/).
+
+The Flynn effect is negatively correlated with g loadings at -0.38, suggesting the Flynn effect is not g loaded and that group differences and the Flynn effect have different causes [(Nijenhuis & Flier, 2013)](https://www.sciencedirect.com/science/article/abs/pii/S0160289613000226).
+
+After correcting for increased guessing, the correlation between the flynn effect and g loadings goes down to -0.82 [(Woodley et al., 2014)](https://www.sciencedirect.com/science/article/pii/S0160289613001761).
+
 ## Personality
 
 Neuroticism is the strongest predictor of life satisfaction, happiness, and negative affect. Positive affect is predicted equally well by extraversion and agreeableness [(DeNeve & Cooper, 1998)](https://sci-hub.se/https://doi.org/10.1037/0033-2909.124.2.197).
