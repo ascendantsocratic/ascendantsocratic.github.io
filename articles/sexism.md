@@ -365,5 +365,17 @@ Further Information:
 ## Matriarchy
 
 A matriarchy is a social system in which the mother or a female elder has absolute authority over the family group, and by extension, one or more women exert a similar level of authority over the community as a whole. Under this definition, matriarchal societies have never existed [(Encyclopedia Britannica, n.d.)](https://www.britannica.com/topic/matriarchy). [Dube & Harish (2017)](https://www.nber.org/papers/w23337) looked at the effect of female rule on war among European polities between the 15th and 20th centuries. They found that polities led by queens are more likely to engage in war than polities led by kings.
- 
+
+## Toxic Masculinity
+
+Conformity to masculine norms of self-reliance, power over women, and playboy are related to worse mental health outcomes, while conformity to the masculine norm of the primacy of work is not significantly related to any mental health related outcome [(Wong et al., 2017)](https://www.apa.org/pubs/journals/releases/cou-cou0000176.pdf). Girls' adherence to masculinity norms is also associated with less psychosocial well-being [(Rogers et al., 2019)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jora.12475).
+
+## Declining Female Happiness
+
+The happiest combination of traits for a worker tends to be male, middle-aged, married, high household income, in a senior management position, in a senior management position, with one young child at home and a wife who works part-time. The unhappiest combination of traits for a worker tends to be female, middle-aged, unmarried and without children, with a household income below $100,000, and in a professional position. Men tend to be consistently happier than women in and out of the office [(Carter, 2011)](https://www.psychologytoday.com/us/blog/high-octane-women/201109/meet-the-least-happy-people-in-america). Part of this is likely due to the double burden that women have nowadays of being expected to both work and do household labor, as well as the fact that women tend to worry more about the well-being of their families. From the 1970s to around 2010 at least, women's subjective well-being has declined both absolutely speaking and also relative to men [(Stevenson & Wolfers, 2009)](https://www.nber.org/system/files/working_papers/w14969/w14969.pdf). This has led to a reversal of the gender gap in happiness, where in the 1970s women were happier than men, and now men are happier than women.
+
+## Sexual Assault
+
+Survey data suggests that about one out of five undergraduate women experience an attempted or completed sexual assault during their college years [(Krebs et al., 2007)](https://www.ojp.gov/pdffiles1/nij/grants/221153.pdf).
+
 </div>
